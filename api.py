@@ -1,3 +1,6 @@
+import sys,os,platform
+from subprocess import check_call
+
 import flask
 from buildings import buildings, UUIDs
 from flask import request, jsonify
@@ -20,7 +23,7 @@ def home():
 def api_all():
     return jsonify(UUIDs)
 
-# A route to return values for a particular building.
+# A route to return values for a list of building.
 @app.route('/api/v1/buildings/', methods=['GET'])
 def api_id():
     # Check if an ID was provided as part of the URL.
@@ -31,17 +34,38 @@ def api_id():
     else:
         return "Error: No id field provided. Please specify an id."
 
-    # Create an empty list for our results
-    results = []
+    CaseName = 'APIRuns'
+    api_runCases(CaseName,id)
 
-    # Loop through the data and match results that fit the requested ID.
-    # IDs are unique, but other fields might return many results
-    for building in buildings:
-        if building['properties']['50A_UUID'] == id:
-            results.append(building['properties'])
+    results = api_readRes(CaseName,id)
 
     # Use the jsonify function from Flask to convert our list of
     # Python dictionaries to the JSON format.
     return jsonify(results)
 
-app.run()
+def api_runCases(CaseName,id):
+
+    MUBES_Paths = os.path.join(os.path.dirname(os.path.dirname(os.getcwd())), os.path.normcase('MUBES_UBEM\ModelerFolder'))
+    #path t0 the python used including all the required packages
+    pythonpath = os.path.join(os.path.dirname(os.getcwd()),os.path.normcase('venv\Scripts\python'))
+    if platform.system() == "Windows":
+        pythonpath = pythonpath +'.exe'
+    cmdline = [pythonpath, os.path.join(MUBES_Paths, 'SimLauncher4API_v1.py')]
+    cmdline.append('-UUID')
+    cmdline.append(str(id))
+    cmdline.append('-CaseName')
+    cmdline.append(CaseName)
+    check_call(cmdline, cwd=MUBES_Paths, stdout=open(os.devnull, "w"))
+
+def api_readRes(CaseName,id):
+    results =['Results from the simulations are : [Building UUID, Space Heating needs (MWh)]']
+    Res_Paths = os.path.join(os.path.dirname(os.path.dirname(os.getcwd())), 'MUBES_SimResults', CaseName,'Sim_Results')
+    import re
+    for i in re.findall("[^,]+", id):
+        with open(os.path.join(Res_Paths,i+'.txt')) as file:
+            Lines = file.readlines()
+        [results.append(line) for line in Lines]
+    return results
+
+if __name__ == '__main__' :
+    app.run()
