@@ -1,0 +1,8597 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "Walls",
+	"crs" : {
+		"type" : "name",
+		"properties" : {
+			"name" : "EPSG:3006"
+		}
+	},
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672633.925, 6578168.4299999997 ],
+					[ 672619.366, 6578177.6059999997 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V67427-1",
+				"byggnadsid" : 67427,
+				"zmax" : 26.89,
+				"zmin" : 4.83,
+				"50A_UUID" : "13a84869-2e1c-49ad-8e68-25a18894eeef"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672619.366, 6578177.6059999997 ],
+					[ 672575.801, 6578123.9879999999 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V67427-2",
+				"byggnadsid" : 67427,
+				"zmax" : 26.89,
+				"zmin" : 4.83,
+				"50A_UUID" : "13a84869-2e1c-49ad-8e68-25a18894eeef"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672575.801, 6578123.9879999999 ],
+					[ 672615.617, 6578104.1210000003 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V67427-3",
+				"byggnadsid" : 67427,
+				"zmax" : 26.89,
+				"zmin" : 4.83,
+				"50A_UUID" : "13a84869-2e1c-49ad-8e68-25a18894eeef"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672615.617, 6578104.1210000003 ],
+					[ 672618.8810000001, 6578110.1169999996 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V67427-4",
+				"byggnadsid" : 67427,
+				"zmax" : 26.89,
+				"zmin" : 4.83,
+				"50A_UUID" : "13a84869-2e1c-49ad-8e68-25a18894eeef"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672618.8810000001, 6578110.1169999996 ],
+					[ 672628.597, 6578104.8289999999 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V67427-5",
+				"byggnadsid" : 67427,
+				"zmax" : 26.89,
+				"zmin" : 4.83,
+				"50A_UUID" : "13a84869-2e1c-49ad-8e68-25a18894eeef"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672628.597, 6578104.8289999999 ],
+					[ 672653.2610000001, 6578150.1500000004 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V67427-6",
+				"byggnadsid" : 67427,
+				"zmax" : 26.89,
+				"zmin" : 4.83,
+				"50A_UUID" : "13a84869-2e1c-49ad-8e68-25a18894eeef"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672653.2610000001, 6578150.1500000004 ],
+					[ 672640.153, 6578157.2850000001 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V67427-7",
+				"byggnadsid" : 67427,
+				"zmax" : 26.89,
+				"zmin" : 4.83,
+				"50A_UUID" : "13a84869-2e1c-49ad-8e68-25a18894eeef"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672640.153, 6578157.2850000001 ],
+					[ 672630.919, 6578164.6859999998 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V67427-8",
+				"byggnadsid" : 67427,
+				"zmax" : 26.89,
+				"zmin" : 4.83,
+				"50A_UUID" : "13a84869-2e1c-49ad-8e68-25a18894eeef"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672630.919, 6578164.6859999998 ],
+					[ 672633.925, 6578168.4299999997 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V67427-9",
+				"byggnadsid" : 67427,
+				"zmax" : 26.89,
+				"zmin" : 4.83,
+				"50A_UUID" : "13a84869-2e1c-49ad-8e68-25a18894eeef"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672618.917, 6578114.9309999999 ],
+					[ 672595.227, 6578126.7989999996 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V67427-10",
+				"byggnadsid" : 67427,
+				"zmax" : 26.89,
+				"zmin" : 4.83,
+				"50A_UUID" : "13a84869-2e1c-49ad-8e68-25a18894eeef"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672595.227, 6578126.7989999996 ],
+					[ 672620.0159999999, 6578157.301 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V67427-11",
+				"byggnadsid" : 67427,
+				"zmax" : 26.89,
+				"zmin" : 4.83,
+				"50A_UUID" : "13a84869-2e1c-49ad-8e68-25a18894eeef"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672620.0159999999, 6578157.301 ],
+					[ 672635.2610000001, 6578144.8859999999 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V67427-12",
+				"byggnadsid" : 67427,
+				"zmax" : 26.89,
+				"zmin" : 4.83,
+				"50A_UUID" : "13a84869-2e1c-49ad-8e68-25a18894eeef"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672635.2610000001, 6578144.8859999999 ],
+					[ 672618.917, 6578114.9309999999 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V67427-13",
+				"byggnadsid" : 67427,
+				"zmax" : 26.89,
+				"zmin" : 4.83,
+				"50A_UUID" : "13a84869-2e1c-49ad-8e68-25a18894eeef"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672556.673, 6578067.4979999997 ],
+					[ 672555.785, 6578067.7010000004 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V65375-1",
+				"byggnadsid" : 65375,
+				"zmax" : 23.54,
+				"zmin" : 4.52,
+				"50A_UUID" : "8959ff55-bb8a-4ece-8ae2-4162a3d7cab5"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672555.785, 6578067.7010000004 ],
+					[ 672556.4080000001, 6578070.3739999998 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V65375-2",
+				"byggnadsid" : 65375,
+				"zmax" : 23.54,
+				"zmin" : 4.52,
+				"50A_UUID" : "8959ff55-bb8a-4ece-8ae2-4162a3d7cab5"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672556.4080000001, 6578070.3739999998 ],
+					[ 672551.098, 6578073.1730000004 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V65375-3",
+				"byggnadsid" : 65375,
+				"zmax" : 23.54,
+				"zmin" : 4.52,
+				"50A_UUID" : "8959ff55-bb8a-4ece-8ae2-4162a3d7cab5"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672551.098, 6578073.1730000004 ],
+					[ 672549.037, 6578069.2620000001 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V65375-4",
+				"byggnadsid" : 65375,
+				"zmax" : 23.54,
+				"zmin" : 4.52,
+				"50A_UUID" : "8959ff55-bb8a-4ece-8ae2-4162a3d7cab5"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672549.037, 6578069.2620000001 ],
+					[ 672535.634, 6578072.3190000001 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V65375-5",
+				"byggnadsid" : 65375,
+				"zmax" : 23.54,
+				"zmin" : 4.52,
+				"50A_UUID" : "8959ff55-bb8a-4ece-8ae2-4162a3d7cab5"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672535.634, 6578072.3190000001 ],
+					[ 672536.255, 6578074.983 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V65375-6",
+				"byggnadsid" : 65375,
+				"zmax" : 23.54,
+				"zmin" : 4.52,
+				"50A_UUID" : "8959ff55-bb8a-4ece-8ae2-4162a3d7cab5"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672536.255, 6578074.983 ],
+					[ 672530.969, 6578077.8059999999 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V65375-7",
+				"byggnadsid" : 65375,
+				"zmax" : 23.54,
+				"zmin" : 4.52,
+				"50A_UUID" : "8959ff55-bb8a-4ece-8ae2-4162a3d7cab5"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672530.969, 6578077.8059999999 ],
+					[ 672528.9080000001, 6578073.8949999996 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V65375-8",
+				"byggnadsid" : 65375,
+				"zmax" : 23.54,
+				"zmin" : 4.52,
+				"50A_UUID" : "8959ff55-bb8a-4ece-8ae2-4162a3d7cab5"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672528.9080000001, 6578073.8949999996 ],
+					[ 672515.628, 6578076.9239999996 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V65375-9",
+				"byggnadsid" : 65375,
+				"zmax" : 23.54,
+				"zmin" : 4.52,
+				"50A_UUID" : "8959ff55-bb8a-4ece-8ae2-4162a3d7cab5"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672515.628, 6578076.9239999996 ],
+					[ 672516.247, 6578079.5789999999 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V65375-10",
+				"byggnadsid" : 65375,
+				"zmax" : 23.54,
+				"zmin" : 4.52,
+				"50A_UUID" : "8959ff55-bb8a-4ece-8ae2-4162a3d7cab5"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672516.247, 6578079.5789999999 ],
+					[ 672510.939, 6578082.3729999997 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V65375-11",
+				"byggnadsid" : 65375,
+				"zmax" : 23.54,
+				"zmin" : 4.52,
+				"50A_UUID" : "8959ff55-bb8a-4ece-8ae2-4162a3d7cab5"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672510.939, 6578082.3729999997 ],
+					[ 672508.878, 6578078.4620000003 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V65375-12",
+				"byggnadsid" : 65375,
+				"zmax" : 23.54,
+				"zmin" : 4.52,
+				"50A_UUID" : "8959ff55-bb8a-4ece-8ae2-4162a3d7cab5"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672508.878, 6578078.4620000003 ],
+					[ 672500.611, 6578080.3540000003 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V65375-13",
+				"byggnadsid" : 65375,
+				"zmax" : 23.54,
+				"zmin" : 4.52,
+				"50A_UUID" : "8959ff55-bb8a-4ece-8ae2-4162a3d7cab5"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672500.611, 6578080.3540000003 ],
+					[ 672497.901, 6578068.5099999998 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V65375-14",
+				"byggnadsid" : 65375,
+				"zmax" : 23.54,
+				"zmin" : 4.52,
+				"50A_UUID" : "8959ff55-bb8a-4ece-8ae2-4162a3d7cab5"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672497.901, 6578068.5099999998 ],
+					[ 672578.54, 6578050.0029999996 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V65375-15",
+				"byggnadsid" : 65375,
+				"zmax" : 23.54,
+				"zmin" : 4.52,
+				"50A_UUID" : "8959ff55-bb8a-4ece-8ae2-4162a3d7cab5"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672578.54, 6578050.0029999996 ],
+					[ 672581.276, 6578061.8689999999 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V65375-16",
+				"byggnadsid" : 65375,
+				"zmax" : 23.54,
+				"zmin" : 4.52,
+				"50A_UUID" : "8959ff55-bb8a-4ece-8ae2-4162a3d7cab5"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672581.276, 6578061.8689999999 ],
+					[ 672575.813, 6578063.1119999997 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V65375-17",
+				"byggnadsid" : 65375,
+				"zmax" : 23.54,
+				"zmin" : 4.52,
+				"50A_UUID" : "8959ff55-bb8a-4ece-8ae2-4162a3d7cab5"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672575.813, 6578063.1119999997 ],
+					[ 672576.412, 6578065.7630000003 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V65375-18",
+				"byggnadsid" : 65375,
+				"zmax" : 23.54,
+				"zmin" : 4.52,
+				"50A_UUID" : "8959ff55-bb8a-4ece-8ae2-4162a3d7cab5"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672576.412, 6578065.7630000003 ],
+					[ 672571.11, 6578068.5839999998 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V65375-19",
+				"byggnadsid" : 65375,
+				"zmax" : 23.54,
+				"zmin" : 4.52,
+				"50A_UUID" : "8959ff55-bb8a-4ece-8ae2-4162a3d7cab5"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672571.11, 6578068.5839999998 ],
+					[ 672568.961, 6578064.6969999997 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V65375-20",
+				"byggnadsid" : 65375,
+				"zmax" : 23.54,
+				"zmin" : 4.52,
+				"50A_UUID" : "8959ff55-bb8a-4ece-8ae2-4162a3d7cab5"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672568.961, 6578064.6969999997 ],
+					[ 672556.673, 6578067.4979999997 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V65375-21",
+				"byggnadsid" : 65375,
+				"zmax" : 23.54,
+				"zmin" : 4.52,
+				"50A_UUID" : "8959ff55-bb8a-4ece-8ae2-4162a3d7cab5"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672562.182, 6578131.0310000004 ],
+					[ 672606.606, 6578185.6500000004 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V81558-1",
+				"byggnadsid" : 81558,
+				"zmax" : 27.14,
+				"zmin" : 3.58,
+				"50A_UUID" : "6d14cfbe-1db1-44b5-8edd-e5075047f601"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672606.606, 6578185.6500000004 ],
+					[ 672570.505, 6578208.4359999998 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V81558-2",
+				"byggnadsid" : 81558,
+				"zmax" : 27.14,
+				"zmin" : 3.58,
+				"50A_UUID" : "6d14cfbe-1db1-44b5-8edd-e5075047f601"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672570.505, 6578208.4359999998 ],
+					[ 672518.128, 6578154.8679999998 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V81558-3",
+				"byggnadsid" : 81558,
+				"zmax" : 27.14,
+				"zmin" : 3.58,
+				"50A_UUID" : "6d14cfbe-1db1-44b5-8edd-e5075047f601"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672518.128, 6578154.8679999998 ],
+					[ 672562.182, 6578131.0310000004 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V81558-4",
+				"byggnadsid" : 81558,
+				"zmax" : 27.14,
+				"zmin" : 3.58,
+				"50A_UUID" : "6d14cfbe-1db1-44b5-8edd-e5075047f601"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672559.066, 6578146.7510000002 ],
+					[ 672538.5870000001, 6578158.1320000002 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V81558-5",
+				"byggnadsid" : 81558,
+				"zmax" : 27.14,
+				"zmin" : 3.58,
+				"50A_UUID" : "6d14cfbe-1db1-44b5-8edd-e5075047f601"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672538.5870000001, 6578158.1320000002 ],
+					[ 672573.056, 6578193.392 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V81558-6",
+				"byggnadsid" : 81558,
+				"zmax" : 27.14,
+				"zmin" : 3.58,
+				"50A_UUID" : "6d14cfbe-1db1-44b5-8edd-e5075047f601"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672573.056, 6578193.392 ],
+					[ 672588.705, 6578183.1830000002 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V81558-7",
+				"byggnadsid" : 81558,
+				"zmax" : 27.14,
+				"zmin" : 3.58,
+				"50A_UUID" : "6d14cfbe-1db1-44b5-8edd-e5075047f601"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672588.705, 6578183.1830000002 ],
+					[ 672559.066, 6578146.7510000002 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V81558-8",
+				"byggnadsid" : 81558,
+				"zmax" : 27.14,
+				"zmin" : 3.58,
+				"50A_UUID" : "6d14cfbe-1db1-44b5-8edd-e5075047f601"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672544.938, 6578101.6229999997 ],
+					[ 672549.885, 6578099.1830000002 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V84320-1",
+				"byggnadsid" : 84320,
+				"zmax" : 27.92,
+				"zmin" : 5.48,
+				"50A_UUID" : "775c8514-d29b-40cf-94bf-1d6ce4968157"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672549.885, 6578099.1830000002 ],
+					[ 672547.694, 6578094.852 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V84320-2",
+				"byggnadsid" : 84320,
+				"zmax" : 27.92,
+				"zmin" : 5.48,
+				"50A_UUID" : "775c8514-d29b-40cf-94bf-1d6ce4968157"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672547.694, 6578094.852 ],
+					[ 672556.482, 6578090.4139999999 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V84320-3",
+				"byggnadsid" : 84320,
+				"zmax" : 27.92,
+				"zmin" : 5.48,
+				"50A_UUID" : "775c8514-d29b-40cf-94bf-1d6ce4968157"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672556.482, 6578090.4139999999 ],
+					[ 672558.214, 6578093.8389999997 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V84320-4",
+				"byggnadsid" : 84320,
+				"zmax" : 27.92,
+				"zmin" : 5.48,
+				"50A_UUID" : "775c8514-d29b-40cf-94bf-1d6ce4968157"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672558.214, 6578093.8389999997 ],
+					[ 672567.8149999999, 6578088.9819999998 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V84320-5",
+				"byggnadsid" : 84320,
+				"zmax" : 27.92,
+				"zmin" : 5.48,
+				"50A_UUID" : "775c8514-d29b-40cf-94bf-1d6ce4968157"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672567.8149999999, 6578088.9819999998 ],
+					[ 672566.084, 6578085.5599999996 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V84320-6",
+				"byggnadsid" : 84320,
+				"zmax" : 27.92,
+				"zmin" : 5.48,
+				"50A_UUID" : "775c8514-d29b-40cf-94bf-1d6ce4968157"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672566.084, 6578085.5599999996 ],
+					[ 672574.7929999999, 6578081.1430000002 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V84320-7",
+				"byggnadsid" : 84320,
+				"zmax" : 27.92,
+				"zmin" : 5.48,
+				"50A_UUID" : "775c8514-d29b-40cf-94bf-1d6ce4968157"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672574.7929999999, 6578081.1430000002 ],
+					[ 672576.601, 6578084.71 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V84320-8",
+				"byggnadsid" : 84320,
+				"zmax" : 27.92,
+				"zmin" : 5.48,
+				"50A_UUID" : "775c8514-d29b-40cf-94bf-1d6ce4968157"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672576.601, 6578084.71 ],
+					[ 672586.1580000001, 6578079.8660000004 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V84320-9",
+				"byggnadsid" : 84320,
+				"zmax" : 27.92,
+				"zmin" : 5.48,
+				"50A_UUID" : "775c8514-d29b-40cf-94bf-1d6ce4968157"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672586.1580000001, 6578079.8660000004 ],
+					[ 672584.424, 6578076.4460000005 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V84320-10",
+				"byggnadsid" : 84320,
+				"zmax" : 27.92,
+				"zmin" : 5.48,
+				"50A_UUID" : "775c8514-d29b-40cf-94bf-1d6ce4968157"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672584.424, 6578076.4460000005 ],
+					[ 672597.603, 6578069.7659999998 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V84320-11",
+				"byggnadsid" : 84320,
+				"zmax" : 27.92,
+				"zmin" : 5.48,
+				"50A_UUID" : "775c8514-d29b-40cf-94bf-1d6ce4968157"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672597.603, 6578069.7659999998 ],
+					[ 672588.047, 6578047.818 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V84320-12",
+				"byggnadsid" : 84320,
+				"zmax" : 27.92,
+				"zmin" : 5.48,
+				"50A_UUID" : "775c8514-d29b-40cf-94bf-1d6ce4968157"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672588.047, 6578047.818 ],
+					[ 672599.294, 6578045.233 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V84320-13",
+				"byggnadsid" : 84320,
+				"zmax" : 27.92,
+				"zmin" : 5.48,
+				"50A_UUID" : "775c8514-d29b-40cf-94bf-1d6ce4968157"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672599.294, 6578045.233 ],
+					[ 672609.651, 6578068.9800000004 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V84320-14",
+				"byggnadsid" : 84320,
+				"zmax" : 27.92,
+				"zmin" : 5.48,
+				"50A_UUID" : "775c8514-d29b-40cf-94bf-1d6ce4968157"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672609.651, 6578068.9800000004 ],
+					[ 672600.172, 6578073.398 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V84320-15",
+				"byggnadsid" : 84320,
+				"zmax" : 27.92,
+				"zmin" : 5.48,
+				"50A_UUID" : "775c8514-d29b-40cf-94bf-1d6ce4968157"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672600.172, 6578073.398 ],
+					[ 672604.8370000001, 6578082.6780000003 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V84320-16",
+				"byggnadsid" : 84320,
+				"zmax" : 27.92,
+				"zmin" : 5.48,
+				"50A_UUID" : "775c8514-d29b-40cf-94bf-1d6ce4968157"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672604.8370000001, 6578082.6780000003 ],
+					[ 672549.727, 6578110.5460000001 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V84320-17",
+				"byggnadsid" : 84320,
+				"zmax" : 27.92,
+				"zmin" : 5.48,
+				"50A_UUID" : "775c8514-d29b-40cf-94bf-1d6ce4968157"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672549.727, 6578110.5460000001 ],
+					[ 672544.938, 6578101.6229999997 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V84320-18",
+				"byggnadsid" : 84320,
+				"zmax" : 27.92,
+				"zmin" : 5.48,
+				"50A_UUID" : "775c8514-d29b-40cf-94bf-1d6ce4968157"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672453.782, 6578164.2240000004 ],
+					[ 672442.643, 6578170.7390000001 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V54715-1",
+				"byggnadsid" : 54715,
+				"zmax" : 27.619973,
+				"zmin" : 4.68,
+				"50A_UUID" : "f4e34dda-7730-43d8-b84d-e5d1e6a6186e"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672442.643, 6578170.7390000001 ],
+					[ 672393.058, 6578120.0369999995 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V54715-2",
+				"byggnadsid" : 54715,
+				"zmax" : 27.619973,
+				"zmin" : 4.68,
+				"50A_UUID" : "f4e34dda-7730-43d8-b84d-e5d1e6a6186e"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672393.058, 6578120.0369999995 ],
+					[ 672436.7709999999, 6578093.1849999996 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V54715-3",
+				"byggnadsid" : 54715,
+				"zmax" : 27.619973,
+				"zmin" : 4.68,
+				"50A_UUID" : "f4e34dda-7730-43d8-b84d-e5d1e6a6186e"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672436.7709999999, 6578093.1849999996 ],
+					[ 672487.17, 6578144.6969999997 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V54715-4",
+				"byggnadsid" : 54715,
+				"zmax" : 27.619973,
+				"zmin" : 4.68,
+				"50A_UUID" : "f4e34dda-7730-43d8-b84d-e5d1e6a6186e"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672487.17, 6578144.6969999997 ],
+					[ 672453.782, 6578164.2240000004 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V54715-5",
+				"byggnadsid" : 54715,
+				"zmax" : 27.619973,
+				"zmin" : 4.68,
+				"50A_UUID" : "f4e34dda-7730-43d8-b84d-e5d1e6a6186e"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672447.1800000001, 6578152.9359999998 ],
+					[ 672466.952, 6578141.3729999997 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V54715-6",
+				"byggnadsid" : 54715,
+				"zmax" : 27.619973,
+				"zmin" : 4.68,
+				"50A_UUID" : "f4e34dda-7730-43d8-b84d-e5d1e6a6186e"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672466.952, 6578141.3729999997 ],
+					[ 672464.347, 6578137.1440000003 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V54715-7",
+				"byggnadsid" : 54715,
+				"zmax" : 27.619973,
+				"zmin" : 4.68,
+				"50A_UUID" : "f4e34dda-7730-43d8-b84d-e5d1e6a6186e"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672464.347, 6578137.1440000003 ],
+					[ 672461.657, 6578140.0880000005 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V54715-8",
+				"byggnadsid" : 54715,
+				"zmax" : 27.619973,
+				"zmin" : 4.68,
+				"50A_UUID" : "f4e34dda-7730-43d8-b84d-e5d1e6a6186e"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672461.657, 6578140.0880000005 ],
+					[ 672458.046, 6578136.3940000003 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V54715-9",
+				"byggnadsid" : 54715,
+				"zmax" : 27.619973,
+				"zmin" : 4.68,
+				"50A_UUID" : "f4e34dda-7730-43d8-b84d-e5d1e6a6186e"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672458.046, 6578136.3940000003 ],
+					[ 672461.123, 6578133.9289999995 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V54715-10",
+				"byggnadsid" : 54715,
+				"zmax" : 27.619973,
+				"zmin" : 4.68,
+				"50A_UUID" : "f4e34dda-7730-43d8-b84d-e5d1e6a6186e"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672461.123, 6578133.9289999995 ],
+					[ 672449.424, 6578121.9579999996 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V54715-11",
+				"byggnadsid" : 54715,
+				"zmax" : 27.619973,
+				"zmin" : 4.68,
+				"50A_UUID" : "f4e34dda-7730-43d8-b84d-e5d1e6a6186e"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672449.424, 6578121.9579999996 ],
+					[ 672446.4790000001, 6578124.8389999997 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V54715-12",
+				"byggnadsid" : 54715,
+				"zmax" : 27.619973,
+				"zmin" : 4.68,
+				"50A_UUID" : "f4e34dda-7730-43d8-b84d-e5d1e6a6186e"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672446.4790000001, 6578124.8389999997 ],
+					[ 672442.919, 6578121.148 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V54715-13",
+				"byggnadsid" : 54715,
+				"zmax" : 27.619973,
+				"zmin" : 4.68,
+				"50A_UUID" : "f4e34dda-7730-43d8-b84d-e5d1e6a6186e"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672442.919, 6578121.148 ],
+					[ 672445.751, 6578118.4670000002 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V54715-14",
+				"byggnadsid" : 54715,
+				"zmax" : 27.619973,
+				"zmin" : 4.68,
+				"50A_UUID" : "f4e34dda-7730-43d8-b84d-e5d1e6a6186e"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672445.751, 6578118.4670000002 ],
+					[ 672435.7389999999, 6578108.1660000002 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V54715-15",
+				"byggnadsid" : 54715,
+				"zmax" : 27.619973,
+				"zmin" : 4.68,
+				"50A_UUID" : "f4e34dda-7730-43d8-b84d-e5d1e6a6186e"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672435.7389999999, 6578108.1660000002 ],
+					[ 672430.061, 6578111.0999999996 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V54715-16",
+				"byggnadsid" : 54715,
+				"zmax" : 27.619973,
+				"zmin" : 4.68,
+				"50A_UUID" : "f4e34dda-7730-43d8-b84d-e5d1e6a6186e"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672430.061, 6578111.0999999996 ],
+					[ 672432.417, 6578114.3260000004 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V54715-17",
+				"byggnadsid" : 54715,
+				"zmax" : 27.619973,
+				"zmin" : 4.68,
+				"50A_UUID" : "f4e34dda-7730-43d8-b84d-e5d1e6a6186e"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672432.417, 6578114.3260000004 ],
+					[ 672421.126, 6578120.9649999999 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V54715-18",
+				"byggnadsid" : 54715,
+				"zmax" : 27.619973,
+				"zmin" : 4.68,
+				"50A_UUID" : "f4e34dda-7730-43d8-b84d-e5d1e6a6186e"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672421.126, 6578120.9649999999 ],
+					[ 672418.7709999999, 6578117.7379999999 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V54715-19",
+				"byggnadsid" : 54715,
+				"zmax" : 27.619973,
+				"zmin" : 4.68,
+				"50A_UUID" : "f4e34dda-7730-43d8-b84d-e5d1e6a6186e"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672418.7709999999, 6578117.7379999999 ],
+					[ 672412.863, 6578121.4550000001 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V54715-20",
+				"byggnadsid" : 54715,
+				"zmax" : 27.619973,
+				"zmin" : 4.68,
+				"50A_UUID" : "f4e34dda-7730-43d8-b84d-e5d1e6a6186e"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672412.863, 6578121.4550000001 ],
+					[ 672444.931, 6578154.2520000003 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V54715-21",
+				"byggnadsid" : 54715,
+				"zmax" : 27.619973,
+				"zmin" : 4.68,
+				"50A_UUID" : "f4e34dda-7730-43d8-b84d-e5d1e6a6186e"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672444.931, 6578154.2520000003 ],
+					[ 672447.1800000001, 6578152.9359999998 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V54715-22",
+				"byggnadsid" : 54715,
+				"zmax" : 27.619973,
+				"zmin" : 4.68,
+				"50A_UUID" : "f4e34dda-7730-43d8-b84d-e5d1e6a6186e"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672514.29, 6578243.9100000001 ],
+					[ 672459.938, 6578188.3490000004 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V63854-1",
+				"byggnadsid" : 63854,
+				"zmax" : 28.999973,
+				"zmin" : 4.25,
+				"50A_UUID" : "3bb96c1d-724a-4002-84df-f9c407b9cbf7"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672459.938, 6578188.3490000004 ],
+					[ 672504.397, 6578162.2980000004 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V63854-2",
+				"byggnadsid" : 63854,
+				"zmax" : 28.999973,
+				"zmin" : 4.25,
+				"50A_UUID" : "3bb96c1d-724a-4002-84df-f9c407b9cbf7"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672504.397, 6578162.2980000004 ],
+					[ 672557.5379999999, 6578216.6200000001 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V63854-3",
+				"byggnadsid" : 63854,
+				"zmax" : 28.999973,
+				"zmin" : 4.25,
+				"50A_UUID" : "3bb96c1d-724a-4002-84df-f9c407b9cbf7"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672557.5379999999, 6578216.6200000001 ],
+					[ 672514.29, 6578243.9100000001 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V63854-4",
+				"byggnadsid" : 63854,
+				"zmax" : 28.999973,
+				"zmin" : 4.25,
+				"50A_UUID" : "3bb96c1d-724a-4002-84df-f9c407b9cbf7"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672517.749, 6578228.7180000003 ],
+					[ 672538.751, 6578215.4759999998 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V63854-5",
+				"byggnadsid" : 63854,
+				"zmax" : 28.999973,
+				"zmin" : 4.25,
+				"50A_UUID" : "3bb96c1d-724a-4002-84df-f9c407b9cbf7"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672538.751, 6578215.4759999998 ],
+					[ 672502.272, 6578178.1519999998 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V63854-6",
+				"byggnadsid" : 63854,
+				"zmax" : 28.999973,
+				"zmin" : 4.25,
+				"50A_UUID" : "3bb96c1d-724a-4002-84df-f9c407b9cbf7"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672502.272, 6578178.1519999998 ],
+					[ 672480.686, 6578190.8320000004 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V63854-7",
+				"byggnadsid" : 63854,
+				"zmax" : 28.999973,
+				"zmin" : 4.25,
+				"50A_UUID" : "3bb96c1d-724a-4002-84df-f9c407b9cbf7"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672480.686, 6578190.8320000004 ],
+					[ 672517.749, 6578228.7180000003 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V63854-8",
+				"byggnadsid" : 63854,
+				"zmax" : 28.999973,
+				"zmin" : 4.25,
+				"50A_UUID" : "3bb96c1d-724a-4002-84df-f9c407b9cbf7"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672461.9350000001, 6578078.0899999999 ],
+					[ 672468.548, 6578075.4539999999 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V77391-1",
+				"byggnadsid" : 77391,
+				"zmax" : 25.869973,
+				"zmin" : 3.94,
+				"50A_UUID" : "ffe2e5e1-a163-448e-9155-70c38fa90302"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672468.548, 6578075.4539999999 ],
+					[ 672488.284, 6578070.7570000002 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V77391-2",
+				"byggnadsid" : 77391,
+				"zmax" : 25.869973,
+				"zmin" : 3.94,
+				"50A_UUID" : "ffe2e5e1-a163-448e-9155-70c38fa90302"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672488.284, 6578070.7570000002 ],
+					[ 672490.385, 6578079.8820000002 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V77391-3",
+				"byggnadsid" : 77391,
+				"zmax" : 25.869973,
+				"zmin" : 3.94,
+				"50A_UUID" : "ffe2e5e1-a163-448e-9155-70c38fa90302"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672490.385, 6578079.8820000002 ],
+					[ 672486.487, 6578080.7790000001 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V77391-4",
+				"byggnadsid" : 77391,
+				"zmax" : 25.869973,
+				"zmin" : 3.94,
+				"50A_UUID" : "ffe2e5e1-a163-448e-9155-70c38fa90302"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672486.487, 6578080.7790000001 ],
+					[ 672487.384, 6578084.6770000001 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V77391-5",
+				"byggnadsid" : 77391,
+				"zmax" : 25.869973,
+				"zmin" : 3.94,
+				"50A_UUID" : "ffe2e5e1-a163-448e-9155-70c38fa90302"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672487.384, 6578084.6770000001 ],
+					[ 672476.12, 6578087.3279999997 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V77391-6",
+				"byggnadsid" : 77391,
+				"zmax" : 25.869973,
+				"zmin" : 3.94,
+				"50A_UUID" : "ffe2e5e1-a163-448e-9155-70c38fa90302"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672476.12, 6578087.3279999997 ],
+					[ 672474.374, 6578089.0690000001 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V77391-7",
+				"byggnadsid" : 77391,
+				"zmax" : 25.869973,
+				"zmin" : 3.94,
+				"50A_UUID" : "ffe2e5e1-a163-448e-9155-70c38fa90302"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672474.374, 6578089.0690000001 ],
+					[ 672464.52, 6578083.9040000001 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V77391-8",
+				"byggnadsid" : 77391,
+				"zmax" : 25.869973,
+				"zmin" : 3.94,
+				"50A_UUID" : "ffe2e5e1-a163-448e-9155-70c38fa90302"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672464.52, 6578083.9040000001 ],
+					[ 672461.9350000001, 6578078.0899999999 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V77391-9",
+				"byggnadsid" : 77391,
+				"zmax" : 25.869973,
+				"zmin" : 3.94,
+				"50A_UUID" : "ffe2e5e1-a163-448e-9155-70c38fa90302"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672461.9350000001, 6578078.0899999999 ],
+					[ 672464.52, 6578083.9040000001 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V77391-10",
+				"byggnadsid" : 77391,
+				"zmax" : 25.869973,
+				"zmin" : 3.94,
+				"50A_UUID" : "ffe2e5e1-a163-448e-9155-70c38fa90302"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672464.52, 6578083.9040000001 ],
+					[ 672474.374, 6578089.0690000001 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V77391-11",
+				"byggnadsid" : 77391,
+				"zmax" : 25.869973,
+				"zmin" : 3.94,
+				"50A_UUID" : "ffe2e5e1-a163-448e-9155-70c38fa90302"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672474.374, 6578089.0690000001 ],
+					[ 672481.63, 6578096.4840000002 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V77391-12",
+				"byggnadsid" : 77391,
+				"zmax" : 25.869973,
+				"zmin" : 3.94,
+				"50A_UUID" : "ffe2e5e1-a163-448e-9155-70c38fa90302"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672481.63, 6578096.4840000002 ],
+					[ 672478.338, 6578099.6739999996 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V77391-13",
+				"byggnadsid" : 77391,
+				"zmax" : 25.869973,
+				"zmin" : 3.94,
+				"50A_UUID" : "ffe2e5e1-a163-448e-9155-70c38fa90302"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672478.338, 6578099.6739999996 ],
+					[ 672485.477, 6578107.0140000004 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V77391-14",
+				"byggnadsid" : 77391,
+				"zmax" : 25.869973,
+				"zmin" : 3.94,
+				"50A_UUID" : "ffe2e5e1-a163-448e-9155-70c38fa90302"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672485.477, 6578107.0140000004 ],
+					[ 672488.349, 6578104.2220000001 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V77391-15",
+				"byggnadsid" : 77391,
+				"zmax" : 25.869973,
+				"zmin" : 3.94,
+				"50A_UUID" : "ffe2e5e1-a163-448e-9155-70c38fa90302"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672488.349, 6578104.2220000001 ],
+					[ 672495.552, 6578111.6270000003 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V77391-16",
+				"byggnadsid" : 77391,
+				"zmax" : 25.869973,
+				"zmin" : 3.94,
+				"50A_UUID" : "ffe2e5e1-a163-448e-9155-70c38fa90302"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672495.552, 6578111.6270000003 ],
+					[ 672492.684, 6578114.4160000002 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V77391-17",
+				"byggnadsid" : 77391,
+				"zmax" : 25.869973,
+				"zmin" : 3.94,
+				"50A_UUID" : "ffe2e5e1-a163-448e-9155-70c38fa90302"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672492.684, 6578114.4160000002 ],
+					[ 672502.517, 6578124.398 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V77391-18",
+				"byggnadsid" : 77391,
+				"zmax" : 25.869973,
+				"zmin" : 3.94,
+				"50A_UUID" : "ffe2e5e1-a163-448e-9155-70c38fa90302"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672502.517, 6578124.398 ],
+					[ 672506.55, 6578122.2290000003 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V77391-19",
+				"byggnadsid" : 77391,
+				"zmax" : 25.869973,
+				"zmin" : 3.94,
+				"50A_UUID" : "ffe2e5e1-a163-448e-9155-70c38fa90302"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672506.55, 6578122.2290000003 ],
+					[ 672508.846, 6578126.4970000004 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V77391-20",
+				"byggnadsid" : 77391,
+				"zmax" : 25.869973,
+				"zmin" : 3.94,
+				"50A_UUID" : "ffe2e5e1-a163-448e-9155-70c38fa90302"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672508.846, 6578126.4970000004 ],
+					[ 672507.553, 6578128.5650000004 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V77391-21",
+				"byggnadsid" : 77391,
+				"zmax" : 25.869973,
+				"zmin" : 3.94,
+				"50A_UUID" : "ffe2e5e1-a163-448e-9155-70c38fa90302"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672507.553, 6578128.5650000004 ],
+					[ 672509.49, 6578132.1679999996 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V77391-22",
+				"byggnadsid" : 77391,
+				"zmax" : 25.869973,
+				"zmin" : 3.94,
+				"50A_UUID" : "ffe2e5e1-a163-448e-9155-70c38fa90302"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672509.49, 6578132.1679999996 ],
+					[ 672500.581, 6578136.9560000002 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V77391-23",
+				"byggnadsid" : 77391,
+				"zmax" : 25.869973,
+				"zmin" : 3.94,
+				"50A_UUID" : "ffe2e5e1-a163-448e-9155-70c38fa90302"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672500.581, 6578136.9560000002 ],
+					[ 672449.893, 6578085.1490000002 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V77391-24",
+				"byggnadsid" : 77391,
+				"zmax" : 25.869973,
+				"zmin" : 3.94,
+				"50A_UUID" : "ffe2e5e1-a163-448e-9155-70c38fa90302"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672449.893, 6578085.1490000002 ],
+					[ 672461.9350000001, 6578078.0899999999 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V77391-25",
+				"byggnadsid" : 77391,
+				"zmax" : 25.869973,
+				"zmin" : 3.94,
+				"50A_UUID" : "ffe2e5e1-a163-448e-9155-70c38fa90302"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672425.7340000001, 6578374.8030000003 ],
+					[ 672418.018, 6578377.7680000002 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V56135-1",
+				"byggnadsid" : 56135,
+				"zmax" : 27.179973,
+				"zmin" : 3.75,
+				"50A_UUID" : "afc328cb-5367-424e-b31e-ac1ee41df0f1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672418.018, 6578377.7680000002 ],
+					[ 672415.0429999999, 6578369.9939999999 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V56135-2",
+				"byggnadsid" : 56135,
+				"zmax" : 27.179973,
+				"zmin" : 3.75,
+				"50A_UUID" : "afc328cb-5367-424e-b31e-ac1ee41df0f1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672415.0429999999, 6578369.9939999999 ],
+					[ 672411.7439999999, 6578365.0760000004 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V56135-3",
+				"byggnadsid" : 56135,
+				"zmax" : 27.179973,
+				"zmin" : 3.75,
+				"50A_UUID" : "afc328cb-5367-424e-b31e-ac1ee41df0f1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672411.7439999999, 6578365.0760000004 ],
+					[ 672425.8639999999, 6578355.6030000001 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V56135-4",
+				"byggnadsid" : 56135,
+				"zmax" : 27.179973,
+				"zmin" : 3.75,
+				"50A_UUID" : "afc328cb-5367-424e-b31e-ac1ee41df0f1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672425.8639999999, 6578355.6030000001 ],
+					[ 672432.248, 6578353.1540000001 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V56135-5",
+				"byggnadsid" : 56135,
+				"zmax" : 27.179973,
+				"zmin" : 3.75,
+				"50A_UUID" : "afc328cb-5367-424e-b31e-ac1ee41df0f1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672432.248, 6578353.1540000001 ],
+					[ 672456.912, 6578336.6030000001 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V56135-6",
+				"byggnadsid" : 56135,
+				"zmax" : 27.179973,
+				"zmin" : 3.75,
+				"50A_UUID" : "afc328cb-5367-424e-b31e-ac1ee41df0f1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672456.912, 6578336.6030000001 ],
+					[ 672461.624, 6578331.6129999999 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V56135-7",
+				"byggnadsid" : 56135,
+				"zmax" : 27.179973,
+				"zmin" : 3.75,
+				"50A_UUID" : "afc328cb-5367-424e-b31e-ac1ee41df0f1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672461.624, 6578331.6129999999 ],
+					[ 672476.53, 6578321.6140000001 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V56135-8",
+				"byggnadsid" : 56135,
+				"zmax" : 27.179973,
+				"zmin" : 3.75,
+				"50A_UUID" : "afc328cb-5367-424e-b31e-ac1ee41df0f1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672476.53, 6578321.6140000001 ],
+					[ 672478.331, 6578324.3119999999 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V56135-9",
+				"byggnadsid" : 56135,
+				"zmax" : 27.179973,
+				"zmin" : 3.75,
+				"50A_UUID" : "afc328cb-5367-424e-b31e-ac1ee41df0f1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672478.331, 6578324.3119999999 ],
+					[ 672480.3320000001, 6578323.818 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V56135-10",
+				"byggnadsid" : 56135,
+				"zmax" : 27.179973,
+				"zmin" : 3.75,
+				"50A_UUID" : "afc328cb-5367-424e-b31e-ac1ee41df0f1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672480.3320000001, 6578323.818 ],
+					[ 672482.376, 6578324.8870000001 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V56135-11",
+				"byggnadsid" : 56135,
+				"zmax" : 27.179973,
+				"zmin" : 3.75,
+				"50A_UUID" : "afc328cb-5367-424e-b31e-ac1ee41df0f1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672482.376, 6578324.8870000001 ],
+					[ 672483.105, 6578326.9249999998 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V56135-12",
+				"byggnadsid" : 56135,
+				"zmax" : 27.179973,
+				"zmin" : 3.75,
+				"50A_UUID" : "afc328cb-5367-424e-b31e-ac1ee41df0f1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672483.105, 6578326.9249999998 ],
+					[ 672482.2290000001, 6578328.8830000004 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V56135-13",
+				"byggnadsid" : 56135,
+				"zmax" : 27.179973,
+				"zmin" : 3.75,
+				"50A_UUID" : "afc328cb-5367-424e-b31e-ac1ee41df0f1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672482.2290000001, 6578328.8830000004 ],
+					[ 672485.698, 6578332.148 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V56135-14",
+				"byggnadsid" : 56135,
+				"zmax" : 27.179973,
+				"zmin" : 3.75,
+				"50A_UUID" : "afc328cb-5367-424e-b31e-ac1ee41df0f1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672485.698, 6578332.148 ],
+					[ 672470.423, 6578348.3339999998 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V56135-15",
+				"byggnadsid" : 56135,
+				"zmax" : 27.179973,
+				"zmin" : 3.75,
+				"50A_UUID" : "afc328cb-5367-424e-b31e-ac1ee41df0f1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672470.423, 6578348.3339999998 ],
+					[ 672476.738, 6578357.858 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V56135-16",
+				"byggnadsid" : 56135,
+				"zmax" : 27.179973,
+				"zmin" : 3.75,
+				"50A_UUID" : "afc328cb-5367-424e-b31e-ac1ee41df0f1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672476.738, 6578357.858 ],
+					[ 672473.175, 6578362.773 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V56135-17",
+				"byggnadsid" : 56135,
+				"zmax" : 27.179973,
+				"zmin" : 3.75,
+				"50A_UUID" : "afc328cb-5367-424e-b31e-ac1ee41df0f1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672473.175, 6578362.773 ],
+					[ 672465.7169999999, 6578364.5820000004 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V56135-18",
+				"byggnadsid" : 56135,
+				"zmax" : 27.179973,
+				"zmin" : 3.75,
+				"50A_UUID" : "afc328cb-5367-424e-b31e-ac1ee41df0f1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672465.7169999999, 6578364.5820000004 ],
+					[ 672459.628, 6578355.5939999996 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V56135-19",
+				"byggnadsid" : 56135,
+				"zmax" : 27.179973,
+				"zmin" : 3.75,
+				"50A_UUID" : "afc328cb-5367-424e-b31e-ac1ee41df0f1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672459.628, 6578355.5939999996 ],
+					[ 672447.4939999999, 6578363.79 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V56135-20",
+				"byggnadsid" : 56135,
+				"zmax" : 27.179973,
+				"zmin" : 3.75,
+				"50A_UUID" : "afc328cb-5367-424e-b31e-ac1ee41df0f1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672447.4939999999, 6578363.79 ],
+					[ 672453.804, 6578373.2390000001 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V56135-21",
+				"byggnadsid" : 56135,
+				"zmax" : 27.179973,
+				"zmin" : 3.75,
+				"50A_UUID" : "afc328cb-5367-424e-b31e-ac1ee41df0f1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672453.804, 6578373.2390000001 ],
+					[ 672450.241, 6578378.1579999998 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V56135-22",
+				"byggnadsid" : 56135,
+				"zmax" : 27.179973,
+				"zmin" : 3.75,
+				"50A_UUID" : "afc328cb-5367-424e-b31e-ac1ee41df0f1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672450.241, 6578378.1579999998 ],
+					[ 672444.356, 6578379.5899999999 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V56135-23",
+				"byggnadsid" : 56135,
+				"zmax" : 27.179973,
+				"zmin" : 3.75,
+				"50A_UUID" : "afc328cb-5367-424e-b31e-ac1ee41df0f1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672444.356, 6578379.5899999999 ],
+					[ 672438.03, 6578370.0779999997 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V56135-24",
+				"byggnadsid" : 56135,
+				"zmax" : 27.179973,
+				"zmin" : 3.75,
+				"50A_UUID" : "afc328cb-5367-424e-b31e-ac1ee41df0f1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672438.03, 6578370.0779999997 ],
+					[ 672425.7340000001, 6578374.8030000003 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V56135-25",
+				"byggnadsid" : 56135,
+				"zmax" : 27.179973,
+				"zmin" : 3.75,
+				"50A_UUID" : "afc328cb-5367-424e-b31e-ac1ee41df0f1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672335.548, 6578287.3289999999 ],
+					[ 672309.1040000001, 6578305.017 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V55392-1",
+				"byggnadsid" : 55392,
+				"zmax" : 33.739973,
+				"zmin" : 8.28,
+				"50A_UUID" : "501138b8-11d4-4164-88c1-fcfec4da7dfc"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672309.1040000001, 6578305.017 ],
+					[ 672302.235, 6578294.767 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V55392-2",
+				"byggnadsid" : 55392,
+				"zmax" : 33.739973,
+				"zmin" : 8.28,
+				"50A_UUID" : "501138b8-11d4-4164-88c1-fcfec4da7dfc"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672302.235, 6578294.767 ],
+					[ 672327.289, 6578275.0140000004 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V55392-3",
+				"byggnadsid" : 55392,
+				"zmax" : 33.739973,
+				"zmin" : 8.28,
+				"50A_UUID" : "501138b8-11d4-4164-88c1-fcfec4da7dfc"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672327.289, 6578275.0140000004 ],
+					[ 672335.548, 6578287.3289999999 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V55392-4",
+				"byggnadsid" : 55392,
+				"zmax" : 33.739973,
+				"zmin" : 8.28,
+				"50A_UUID" : "501138b8-11d4-4164-88c1-fcfec4da7dfc"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672284.483, 6578195.5480000004 ],
+					[ 672306.882, 6578213.1610000003 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V83900-1",
+				"byggnadsid" : 83900,
+				"zmax" : 33.659973,
+				"zmin" : 8.59,
+				"50A_UUID" : "4070a53f-1682-41dd-9855-772636326b38"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672306.882, 6578213.1610000003 ],
+					[ 672309.357, 6578210.0199999996 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V83900-2",
+				"byggnadsid" : 83900,
+				"zmax" : 33.659973,
+				"zmin" : 8.59,
+				"50A_UUID" : "4070a53f-1682-41dd-9855-772636326b38"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672309.357, 6578210.0199999996 ],
+					[ 672320.488, 6578218.7970000003 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V83900-3",
+				"byggnadsid" : 83900,
+				"zmax" : 33.659973,
+				"zmin" : 8.59,
+				"50A_UUID" : "4070a53f-1682-41dd-9855-772636326b38"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672320.488, 6578218.7970000003 ],
+					[ 672318.003, 6578221.9309999999 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V83900-4",
+				"byggnadsid" : 83900,
+				"zmax" : 33.659973,
+				"zmin" : 8.59,
+				"50A_UUID" : "4070a53f-1682-41dd-9855-772636326b38"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672318.003, 6578221.9309999999 ],
+					[ 672328.597, 6578230.2719999999 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V83900-5",
+				"byggnadsid" : 83900,
+				"zmax" : 33.659973,
+				"zmin" : 8.59,
+				"50A_UUID" : "4070a53f-1682-41dd-9855-772636326b38"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672328.597, 6578230.2719999999 ],
+					[ 672337.416, 6578224.3020000001 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V83900-6",
+				"byggnadsid" : 83900,
+				"zmax" : 33.659973,
+				"zmin" : 8.59,
+				"50A_UUID" : "4070a53f-1682-41dd-9855-772636326b38"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672337.416, 6578224.3020000001 ],
+					[ 672335.174, 6578220.9900000002 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V83900-7",
+				"byggnadsid" : 83900,
+				"zmax" : 33.659973,
+				"zmin" : 8.59,
+				"50A_UUID" : "4070a53f-1682-41dd-9855-772636326b38"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672335.174, 6578220.9900000002 ],
+					[ 672341.387, 6578216.8480000002 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V83900-8",
+				"byggnadsid" : 83900,
+				"zmax" : 33.659973,
+				"zmin" : 8.59,
+				"50A_UUID" : "4070a53f-1682-41dd-9855-772636326b38"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672341.387, 6578216.8480000002 ],
+					[ 672343.637, 6578220.1550000003 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V83900-9",
+				"byggnadsid" : 83900,
+				"zmax" : 33.659973,
+				"zmin" : 8.59,
+				"50A_UUID" : "4070a53f-1682-41dd-9855-772636326b38"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672343.637, 6578220.1550000003 ],
+					[ 672360.558, 6578208.6229999997 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V83900-10",
+				"byggnadsid" : 83900,
+				"zmax" : 33.659973,
+				"zmin" : 8.59,
+				"50A_UUID" : "4070a53f-1682-41dd-9855-772636326b38"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672360.558, 6578208.6229999997 ],
+					[ 672370.465, 6578216.4400000004 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V83900-11",
+				"byggnadsid" : 83900,
+				"zmax" : 33.659973,
+				"zmin" : 8.59,
+				"50A_UUID" : "4070a53f-1682-41dd-9855-772636326b38"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672370.465, 6578216.4400000004 ],
+					[ 672327.975, 6578245.125 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V83900-12",
+				"byggnadsid" : 83900,
+				"zmax" : 33.659973,
+				"zmin" : 8.59,
+				"50A_UUID" : "4070a53f-1682-41dd-9855-772636326b38"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672327.975, 6578245.125 ],
+					[ 672274.233, 6578202.7280000001 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V83900-13",
+				"byggnadsid" : 83900,
+				"zmax" : 33.659973,
+				"zmin" : 8.59,
+				"50A_UUID" : "4070a53f-1682-41dd-9855-772636326b38"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672274.233, 6578202.7280000001 ],
+					[ 672284.483, 6578195.5480000004 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V83900-14",
+				"byggnadsid" : 83900,
+				"zmax" : 33.659973,
+				"zmin" : 8.59,
+				"50A_UUID" : "4070a53f-1682-41dd-9855-772636326b38"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672348.9620000001, 6578275.0729999999 ],
+					[ 672341.996, 6578264.6739999996 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V54955-1",
+				"byggnadsid" : 54955,
+				"zmax" : 33.439973,
+				"zmin" : 1.9,
+				"50A_UUID" : "e90b3d75-af7f-49d4-8e9e-1894ff68ee64"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672341.996, 6578264.6739999996 ],
+					[ 672375.428, 6578242.1849999996 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V54955-2",
+				"byggnadsid" : 54955,
+				"zmax" : 33.439973,
+				"zmin" : 1.9,
+				"50A_UUID" : "e90b3d75-af7f-49d4-8e9e-1894ff68ee64"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672375.428, 6578242.1849999996 ],
+					[ 672382.419, 6578252.5669999998 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V54955-3",
+				"byggnadsid" : 54955,
+				"zmax" : 33.439973,
+				"zmin" : 1.9,
+				"50A_UUID" : "e90b3d75-af7f-49d4-8e9e-1894ff68ee64"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672382.419, 6578252.5669999998 ],
+					[ 672348.9620000001, 6578275.0729999999 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V54955-4",
+				"byggnadsid" : 54955,
+				"zmax" : 33.439973,
+				"zmin" : 1.9,
+				"50A_UUID" : "e90b3d75-af7f-49d4-8e9e-1894ff68ee64"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672378.639, 6578294.7019999996 ],
+					[ 672367.343, 6578302.2790000001 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V57751-1",
+				"byggnadsid" : 57751,
+				"zmax" : 33.609973,
+				"zmin" : 1.25,
+				"50A_UUID" : "640b5059-3268-42ec-9731-2c4ab8a979f1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672367.343, 6578302.2790000001 ],
+					[ 672351.902, 6578279.4189999998 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V57751-2",
+				"byggnadsid" : 57751,
+				"zmax" : 33.609973,
+				"zmin" : 1.25,
+				"50A_UUID" : "640b5059-3268-42ec-9731-2c4ab8a979f1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672351.902, 6578279.4189999998 ],
+					[ 672362.3149999999, 6578272.432 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V57751-3",
+				"byggnadsid" : 57751,
+				"zmax" : 33.609973,
+				"zmin" : 1.25,
+				"50A_UUID" : "640b5059-3268-42ec-9731-2c4ab8a979f1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672362.3149999999, 6578272.432 ],
+					[ 672370.7340000001, 6578284.8859999999 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V57751-4",
+				"byggnadsid" : 57751,
+				"zmax" : 33.609973,
+				"zmin" : 1.25,
+				"50A_UUID" : "640b5059-3268-42ec-9731-2c4ab8a979f1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672370.7340000001, 6578284.8859999999 ],
+					[ 672403.079, 6578263.0810000002 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V57751-5",
+				"byggnadsid" : 57751,
+				"zmax" : 33.609973,
+				"zmin" : 1.25,
+				"50A_UUID" : "640b5059-3268-42ec-9731-2c4ab8a979f1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672403.079, 6578263.0810000002 ],
+					[ 672379.798, 6578239.2719999999 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V57751-6",
+				"byggnadsid" : 57751,
+				"zmax" : 33.609973,
+				"zmin" : 1.25,
+				"50A_UUID" : "640b5059-3268-42ec-9731-2c4ab8a979f1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672379.798, 6578239.2719999999 ],
+					[ 672390.499, 6578232.1129999999 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V57751-7",
+				"byggnadsid" : 57751,
+				"zmax" : 33.609973,
+				"zmin" : 1.25,
+				"50A_UUID" : "640b5059-3268-42ec-9731-2c4ab8a979f1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672390.499, 6578232.1129999999 ],
+					[ 672422.741, 6578265.1210000003 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V57751-8",
+				"byggnadsid" : 57751,
+				"zmax" : 33.609973,
+				"zmin" : 1.25,
+				"50A_UUID" : "640b5059-3268-42ec-9731-2c4ab8a979f1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672422.741, 6578265.1210000003 ],
+					[ 672378.639, 6578294.7019999996 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V57751-9",
+				"byggnadsid" : 57751,
+				"zmax" : 33.609973,
+				"zmin" : 1.25,
+				"50A_UUID" : "640b5059-3268-42ec-9731-2c4ab8a979f1"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672347.2290000001, 6578151.5789999999 ],
+					[ 672380.28, 6578128.3890000004 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V85703-1",
+				"byggnadsid" : 85703,
+				"zmax" : 28.209973,
+				"zmin" : 6.43,
+				"50A_UUID" : "c069b17e-a704-4f2f-95ad-b3125cff2cc9"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672380.28, 6578128.3890000004 ],
+					[ 672429.4790000001, 6578178.6780000003 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V85703-2",
+				"byggnadsid" : 85703,
+				"zmax" : 28.209973,
+				"zmin" : 6.43,
+				"50A_UUID" : "c069b17e-a704-4f2f-95ad-b3125cff2cc9"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672429.4790000001, 6578178.6780000003 ],
+					[ 672386.255, 6578205.9699999997 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V85703-3",
+				"byggnadsid" : 85703,
+				"zmax" : 28.209973,
+				"zmin" : 6.43,
+				"50A_UUID" : "c069b17e-a704-4f2f-95ad-b3125cff2cc9"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672386.255, 6578205.9699999997 ],
+					[ 672331.394, 6578162.6900000004 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V85703-4",
+				"byggnadsid" : 85703,
+				"zmax" : 28.209973,
+				"zmin" : 6.43,
+				"50A_UUID" : "c069b17e-a704-4f2f-95ad-b3125cff2cc9"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672331.394, 6578162.6900000004 ],
+					[ 672347.2290000001, 6578151.5789999999 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V85703-5",
+				"byggnadsid" : 85703,
+				"zmax" : 28.209973,
+				"zmin" : 6.43,
+				"50A_UUID" : "c069b17e-a704-4f2f-95ad-b3125cff2cc9"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672356.133, 6578160.6699999999 ],
+					[ 672352.393, 6578163.2960000001 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V85703-6",
+				"byggnadsid" : 85703,
+				"zmax" : 28.209973,
+				"zmin" : 6.43,
+				"50A_UUID" : "c069b17e-a704-4f2f-95ad-b3125cff2cc9"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672352.393, 6578163.2960000001 ],
+					[ 672355.591, 6578165.8229999999 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V85703-7",
+				"byggnadsid" : 85703,
+				"zmax" : 28.209973,
+				"zmin" : 6.43,
+				"50A_UUID" : "c069b17e-a704-4f2f-95ad-b3125cff2cc9"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672355.591, 6578165.8229999999 ],
+					[ 672359.1629999999, 6578163.5539999995 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V85703-8",
+				"byggnadsid" : 85703,
+				"zmax" : 28.209973,
+				"zmin" : 6.43,
+				"50A_UUID" : "c069b17e-a704-4f2f-95ad-b3125cff2cc9"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672359.1629999999, 6578163.5539999995 ],
+					[ 672365.965, 6578168.9210000001 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V85703-9",
+				"byggnadsid" : 85703,
+				"zmax" : 28.209973,
+				"zmin" : 6.43,
+				"50A_UUID" : "c069b17e-a704-4f2f-95ad-b3125cff2cc9"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672365.965, 6578168.9210000001 ],
+					[ 672363.453, 6578172.0999999996 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V85703-10",
+				"byggnadsid" : 85703,
+				"zmax" : 28.209973,
+				"zmin" : 6.43,
+				"50A_UUID" : "c069b17e-a704-4f2f-95ad-b3125cff2cc9"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672363.453, 6578172.0999999996 ],
+					[ 672385.86, 6578189.8130000001 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V85703-11",
+				"byggnadsid" : 85703,
+				"zmax" : 28.209973,
+				"zmin" : 6.43,
+				"50A_UUID" : "c069b17e-a704-4f2f-95ad-b3125cff2cc9"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672385.86, 6578189.8130000001 ],
+					[ 672408.754, 6578175.3590000002 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V85703-12",
+				"byggnadsid" : 85703,
+				"zmax" : 28.209973,
+				"zmin" : 6.43,
+				"50A_UUID" : "c069b17e-a704-4f2f-95ad-b3125cff2cc9"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672408.754, 6578175.3590000002 ],
+					[ 672378.819, 6578144.7429999998 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V85703-13",
+				"byggnadsid" : 85703,
+				"zmax" : 28.209973,
+				"zmin" : 6.43,
+				"50A_UUID" : "c069b17e-a704-4f2f-95ad-b3125cff2cc9"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672378.819, 6578144.7429999998 ],
+					[ 672356.133, 6578160.6699999999 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V85703-14",
+				"byggnadsid" : 85703,
+				"zmax" : 28.209973,
+				"zmin" : 6.43,
+				"50A_UUID" : "c069b17e-a704-4f2f-95ad-b3125cff2cc9"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672460.416, 6578408.5209999997 ],
+					[ 672454.5820000001, 6578414.1509999996 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V54746-1",
+				"byggnadsid" : 54746,
+				"zmax" : 27.109973,
+				"zmin" : 3.77,
+				"50A_UUID" : "fe6e65b3-a628-4286-b4bd-685bd4b30d33"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672454.5820000001, 6578414.1509999996 ],
+					[ 672445.08, 6578420.5279999999 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V54746-2",
+				"byggnadsid" : 54746,
+				"zmax" : 27.109973,
+				"zmin" : 3.77,
+				"50A_UUID" : "fe6e65b3-a628-4286-b4bd-685bd4b30d33"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672445.08, 6578420.5279999999 ],
+					[ 672437.934, 6578409.8799999999 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V54746-3",
+				"byggnadsid" : 54746,
+				"zmax" : 27.109973,
+				"zmin" : 3.77,
+				"50A_UUID" : "fe6e65b3-a628-4286-b4bd-685bd4b30d33"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672437.934, 6578409.8799999999 ],
+					[ 672449.045, 6578397.6689999998 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V54746-4",
+				"byggnadsid" : 54746,
+				"zmax" : 27.109973,
+				"zmin" : 3.77,
+				"50A_UUID" : "fe6e65b3-a628-4286-b4bd-685bd4b30d33"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672449.045, 6578397.6689999998 ],
+					[ 672446.091, 6578393.267 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V54746-5",
+				"byggnadsid" : 54746,
+				"zmax" : 27.109973,
+				"zmin" : 3.77,
+				"50A_UUID" : "fe6e65b3-a628-4286-b4bd-685bd4b30d33"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672446.091, 6578393.267 ],
+					[ 672452.5870000001, 6578386.1279999996 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V54746-6",
+				"byggnadsid" : 54746,
+				"zmax" : 27.109973,
+				"zmin" : 3.77,
+				"50A_UUID" : "fe6e65b3-a628-4286-b4bd-685bd4b30d33"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672452.5870000001, 6578386.1279999996 ],
+					[ 672457.498, 6578382.8600000003 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V54746-7",
+				"byggnadsid" : 54746,
+				"zmax" : 27.109973,
+				"zmin" : 3.77,
+				"50A_UUID" : "fe6e65b3-a628-4286-b4bd-685bd4b30d33"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672457.498, 6578382.8600000003 ],
+					[ 672461.496, 6578388.8190000001 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V54746-8",
+				"byggnadsid" : 54746,
+				"zmax" : 27.109973,
+				"zmin" : 3.77,
+				"50A_UUID" : "fe6e65b3-a628-4286-b4bd-685bd4b30d33"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672461.496, 6578388.8190000001 ],
+					[ 672478.975, 6578377.5640000002 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V54746-9",
+				"byggnadsid" : 54746,
+				"zmax" : 27.109973,
+				"zmin" : 3.77,
+				"50A_UUID" : "fe6e65b3-a628-4286-b4bd-685bd4b30d33"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672478.975, 6578377.5640000002 ],
+					[ 672474.768, 6578371.2419999996 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V54746-10",
+				"byggnadsid" : 54746,
+				"zmax" : 27.109973,
+				"zmin" : 3.77,
+				"50A_UUID" : "fe6e65b3-a628-4286-b4bd-685bd4b30d33"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672474.768, 6578371.2419999996 ],
+					[ 672479.568, 6578368.0209999997 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V54746-11",
+				"byggnadsid" : 54746,
+				"zmax" : 27.109973,
+				"zmin" : 3.77,
+				"50A_UUID" : "fe6e65b3-a628-4286-b4bd-685bd4b30d33"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672479.568, 6578368.0209999997 ],
+					[ 672488.659, 6578364.699 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V54746-12",
+				"byggnadsid" : 54746,
+				"zmax" : 27.109973,
+				"zmin" : 3.77,
+				"50A_UUID" : "fe6e65b3-a628-4286-b4bd-685bd4b30d33"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672488.659, 6578364.699 ],
+					[ 672491.594, 6578369.1140000001 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V54746-13",
+				"byggnadsid" : 54746,
+				"zmax" : 27.109973,
+				"zmin" : 3.77,
+				"50A_UUID" : "fe6e65b3-a628-4286-b4bd-685bd4b30d33"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672491.594, 6578369.1140000001 ],
+					[ 672506.634, 6578363.6459999997 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V54746-14",
+				"byggnadsid" : 54746,
+				"zmax" : 27.109973,
+				"zmin" : 3.77,
+				"50A_UUID" : "fe6e65b3-a628-4286-b4bd-685bd4b30d33"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672506.634, 6578363.6459999997 ],
+					[ 672508.8419999999, 6578369.4950000001 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V54746-15",
+				"byggnadsid" : 54746,
+				"zmax" : 27.109973,
+				"zmin" : 3.77,
+				"50A_UUID" : "fe6e65b3-a628-4286-b4bd-685bd4b30d33"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672508.8419999999, 6578369.4950000001 ],
+					[ 672513.789, 6578377.2949999999 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V54746-16",
+				"byggnadsid" : 54746,
+				"zmax" : 27.109973,
+				"zmin" : 3.77,
+				"50A_UUID" : "fe6e65b3-a628-4286-b4bd-685bd4b30d33"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672513.789, 6578377.2949999999 ],
+					[ 672507.045, 6578381.8550000004 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V54746-17",
+				"byggnadsid" : 54746,
+				"zmax" : 27.109973,
+				"zmin" : 3.77,
+				"50A_UUID" : "fe6e65b3-a628-4286-b4bd-685bd4b30d33"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672507.045, 6578381.8550000004 ],
+					[ 672495.828, 6578384.3080000002 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V54746-18",
+				"byggnadsid" : 54746,
+				"zmax" : 27.109973,
+				"zmin" : 3.77,
+				"50A_UUID" : "fe6e65b3-a628-4286-b4bd-685bd4b30d33"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672495.828, 6578384.3080000002 ],
+					[ 672460.416, 6578408.5209999997 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V54746-19",
+				"byggnadsid" : 54746,
+				"zmax" : 27.109973,
+				"zmin" : 3.77,
+				"50A_UUID" : "fe6e65b3-a628-4286-b4bd-685bd4b30d33"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672471.503, 6578459.6780000003 ],
+					[ 672456.042, 6578436.6310000001 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V69981-1",
+				"byggnadsid" : 69981,
+				"zmax" : 36.87,
+				"zmin" : 4.11,
+				"50A_UUID" : "1f4a1287-a498-4135-b2ba-ef7d89568f01"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672456.042, 6578436.6310000001 ],
+					[ 672514.515, 6578397.4160000002 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V69981-2",
+				"byggnadsid" : 69981,
+				"zmax" : 36.87,
+				"zmin" : 4.11,
+				"50A_UUID" : "1f4a1287-a498-4135-b2ba-ef7d89568f01"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672514.515, 6578397.4160000002 ],
+					[ 672530.784, 6578444.0389999999 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V69981-3",
+				"byggnadsid" : 69981,
+				"zmax" : 36.87,
+				"zmin" : 4.11,
+				"50A_UUID" : "1f4a1287-a498-4135-b2ba-ef7d89568f01"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672530.784, 6578444.0389999999 ],
+					[ 672482.697, 6578476.3629999999 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V69981-4",
+				"byggnadsid" : 69981,
+				"zmax" : 36.87,
+				"zmin" : 4.11,
+				"50A_UUID" : "1f4a1287-a498-4135-b2ba-ef7d89568f01"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672482.697, 6578476.3629999999 ],
+					[ 672471.503, 6578459.6780000003 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V69981-5",
+				"byggnadsid" : 69981,
+				"zmax" : 36.87,
+				"zmin" : 4.11,
+				"50A_UUID" : "1f4a1287-a498-4135-b2ba-ef7d89568f01"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672394.422, 6578317.4060000004 ],
+					[ 672393.14, 6578318.267 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V89004-1",
+				"byggnadsid" : 89004,
+				"zmax" : 30.189973,
+				"zmin" : 4.76,
+				"50A_UUID" : "f99166ed-483a-4151-a1b1-e2406352b7d8"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672393.14, 6578318.267 ],
+					[ 672411.42, 6578345.5089999996 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V89004-2",
+				"byggnadsid" : 89004,
+				"zmax" : 30.189973,
+				"zmin" : 4.76,
+				"50A_UUID" : "f99166ed-483a-4151-a1b1-e2406352b7d8"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672411.42, 6578345.5089999996 ],
+					[ 672400.954, 6578352.5650000004 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V89004-3",
+				"byggnadsid" : 89004,
+				"zmax" : 30.189973,
+				"zmin" : 4.76,
+				"50A_UUID" : "f99166ed-483a-4151-a1b1-e2406352b7d8"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672400.954, 6578352.5650000004 ],
+					[ 672375.63, 6578314.8200000003 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V89004-4",
+				"byggnadsid" : 89004,
+				"zmax" : 30.189973,
+				"zmin" : 4.76,
+				"50A_UUID" : "f99166ed-483a-4151-a1b1-e2406352b7d8"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672375.63, 6578314.8200000003 ],
+					[ 672418.281, 6578286.2019999996 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V89004-5",
+				"byggnadsid" : 89004,
+				"zmax" : 30.189973,
+				"zmin" : 4.76,
+				"50A_UUID" : "f99166ed-483a-4151-a1b1-e2406352b7d8"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672418.281, 6578286.2019999996 ],
+					[ 672425.299, 6578296.6739999996 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V89004-6",
+				"byggnadsid" : 89004,
+				"zmax" : 30.189973,
+				"zmin" : 4.76,
+				"50A_UUID" : "f99166ed-483a-4151-a1b1-e2406352b7d8"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672425.299, 6578296.6739999996 ],
+					[ 672394.422, 6578317.4060000004 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V89004-7",
+				"byggnadsid" : 89004,
+				"zmax" : 30.189973,
+				"zmin" : 4.76,
+				"50A_UUID" : "f99166ed-483a-4151-a1b1-e2406352b7d8"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672399.1090000001, 6578412.3870000001 ],
+					[ 672403.616, 6578419.2209999999 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V86313-1",
+				"byggnadsid" : 86313,
+				"zmax" : 32.109973,
+				"zmin" : 4.85,
+				"50A_UUID" : "41432561-7f3a-4f2d-97c2-ef1e44f7f92a"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672403.616, 6578419.2209999999 ],
+					[ 672410.269, 6578414.7580000004 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V86313-2",
+				"byggnadsid" : 86313,
+				"zmax" : 32.109973,
+				"zmin" : 4.85,
+				"50A_UUID" : "41432561-7f3a-4f2d-97c2-ef1e44f7f92a"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672410.269, 6578414.7580000004 ],
+					[ 672413.4669999999, 6578419.5240000002 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V86313-3",
+				"byggnadsid" : 86313,
+				"zmax" : 32.109973,
+				"zmin" : 4.85,
+				"50A_UUID" : "41432561-7f3a-4f2d-97c2-ef1e44f7f92a"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672413.4669999999, 6578419.5240000002 ],
+					[ 672420.227, 6578414.9879999999 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V86313-4",
+				"byggnadsid" : 86313,
+				"zmax" : 32.109973,
+				"zmin" : 4.85,
+				"50A_UUID" : "41432561-7f3a-4f2d-97c2-ef1e44f7f92a"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672420.227, 6578414.9879999999 ],
+					[ 672431.901, 6578432.3830000004 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V86313-5",
+				"byggnadsid" : 86313,
+				"zmax" : 32.109973,
+				"zmin" : 4.85,
+				"50A_UUID" : "41432561-7f3a-4f2d-97c2-ef1e44f7f92a"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672431.901, 6578432.3830000004 ],
+					[ 672372.531, 6578472.2249999996 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V86313-6",
+				"byggnadsid" : 86313,
+				"zmax" : 32.109973,
+				"zmin" : 4.85,
+				"50A_UUID" : "41432561-7f3a-4f2d-97c2-ef1e44f7f92a"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672358.213, 6578439.8710000003 ],
+					[ 672367.356, 6578433.7259999998 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V86313-12",
+				"byggnadsid" : 86313,
+				"zmax" : 32.109973,
+				"zmin" : 4.85,
+				"50A_UUID" : "41432561-7f3a-4f2d-97c2-ef1e44f7f92a"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672367.356, 6578433.7259999998 ],
+					[ 672370.615, 6578438.5750000002 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V86313-13",
+				"byggnadsid" : 86313,
+				"zmax" : 32.109973,
+				"zmin" : 4.85,
+				"50A_UUID" : "41432561-7f3a-4f2d-97c2-ef1e44f7f92a"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672370.615, 6578438.5750000002 ],
+					[ 672390.702, 6578425.0760000004 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V86313-14",
+				"byggnadsid" : 86313,
+				"zmax" : 32.109973,
+				"zmin" : 4.85,
+				"50A_UUID" : "41432561-7f3a-4f2d-97c2-ef1e44f7f92a"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672390.702, 6578425.0760000004 ],
+					[ 672387.536, 6578420.1639999999 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V86313-15",
+				"byggnadsid" : 86313,
+				"zmax" : 32.109973,
+				"zmin" : 4.85,
+				"50A_UUID" : "41432561-7f3a-4f2d-97c2-ef1e44f7f92a"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672387.536, 6578420.1639999999 ],
+					[ 672399.1090000001, 6578412.3870000001 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V86313-16",
+				"byggnadsid" : 86313,
+				"zmax" : 32.109973,
+				"zmin" : 4.85,
+				"50A_UUID" : "41432561-7f3a-4f2d-97c2-ef1e44f7f92a"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672350.3540000001, 6578359.3799999999 ],
+					[ 672352.581, 6578362.7029999997 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V68305-1",
+				"byggnadsid" : 68305,
+				"zmax" : 27.179973,
+				"zmin" : 3.98,
+				"50A_UUID" : "18d2c525-f075-4e3b-a7dc-1ac5d75fe991"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672352.581, 6578362.7029999997 ],
+					[ 672349.257, 6578364.9289999995 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V68305-2",
+				"byggnadsid" : 68305,
+				"zmax" : 27.179973,
+				"zmin" : 3.98,
+				"50A_UUID" : "18d2c525-f075-4e3b-a7dc-1ac5d75fe991"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672349.257, 6578364.9289999995 ],
+					[ 672362.303, 6578384.3959999997 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V68305-3",
+				"byggnadsid" : 68305,
+				"zmax" : 27.179973,
+				"zmin" : 3.98,
+				"50A_UUID" : "18d2c525-f075-4e3b-a7dc-1ac5d75fe991"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672362.303, 6578384.3959999997 ],
+					[ 672329.014, 6578407.4689999996 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V68305-4",
+				"byggnadsid" : 68305,
+				"zmax" : 27.179973,
+				"zmin" : 3.98,
+				"50A_UUID" : "18d2c525-f075-4e3b-a7dc-1ac5d75fe991"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672329.014, 6578407.4689999996 ],
+					[ 672289.001, 6578347.5039999997 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V68305-5",
+				"byggnadsid" : 68305,
+				"zmax" : 27.179973,
+				"zmin" : 3.98,
+				"50A_UUID" : "18d2c525-f075-4e3b-a7dc-1ac5d75fe991"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672289.001, 6578347.5039999997 ],
+					[ 672294.526, 6578343.858 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V68305-6",
+				"byggnadsid" : 68305,
+				"zmax" : 27.179973,
+				"zmin" : 3.98,
+				"50A_UUID" : "18d2c525-f075-4e3b-a7dc-1ac5d75fe991"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672294.526, 6578343.858 ],
+					[ 672282.731, 6578322.6579999998 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V68305-7",
+				"byggnadsid" : 68305,
+				"zmax" : 27.179973,
+				"zmin" : 3.98,
+				"50A_UUID" : "18d2c525-f075-4e3b-a7dc-1ac5d75fe991"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672282.731, 6578322.6579999998 ],
+					[ 672309.1040000001, 6578305.017 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V68305-8",
+				"byggnadsid" : 68305,
+				"zmax" : 27.179973,
+				"zmin" : 3.98,
+				"50A_UUID" : "18d2c525-f075-4e3b-a7dc-1ac5d75fe991"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672309.1040000001, 6578305.017 ],
+					[ 672326.074, 6578330.3380000005 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V68305-9",
+				"byggnadsid" : 68305,
+				"zmax" : 27.179973,
+				"zmin" : 3.98,
+				"50A_UUID" : "18d2c525-f075-4e3b-a7dc-1ac5d75fe991"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672326.074, 6578330.3380000005 ],
+					[ 672347.097, 6578361.7070000004 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V68305-10",
+				"byggnadsid" : 68305,
+				"zmax" : 27.179973,
+				"zmin" : 3.98,
+				"50A_UUID" : "18d2c525-f075-4e3b-a7dc-1ac5d75fe991"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672347.097, 6578361.7070000004 ],
+					[ 672350.3540000001, 6578359.3799999999 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V68305-11",
+				"byggnadsid" : 68305,
+				"zmax" : 27.179973,
+				"zmin" : 3.98,
+				"50A_UUID" : "18d2c525-f075-4e3b-a7dc-1ac5d75fe991"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672316.013, 6578173.4589999998 ],
+					[ 672355.959, 6578204.9950000001 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V82607-1",
+				"byggnadsid" : 82607,
+				"zmax" : 27.249973,
+				"zmin" : 6.89,
+				"50A_UUID" : "a87b8675-0bba-4f90-8381-a12b4cefc22f"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672355.959, 6578204.9950000001 ],
+					[ 672345.524, 6578212.1179999998 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V82607-2",
+				"byggnadsid" : 82607,
+				"zmax" : 27.249973,
+				"zmin" : 6.89,
+				"50A_UUID" : "a87b8675-0bba-4f90-8381-a12b4cefc22f"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672345.524, 6578212.1179999998 ],
+					[ 672329.407, 6578199.4040000001 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V82607-3",
+				"byggnadsid" : 82607,
+				"zmax" : 27.249973,
+				"zmin" : 6.89,
+				"50A_UUID" : "a87b8675-0bba-4f90-8381-a12b4cefc22f"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672329.407, 6578199.4040000001 ],
+					[ 672326.946, 6578202.5319999997 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V82607-4",
+				"byggnadsid" : 82607,
+				"zmax" : 27.249973,
+				"zmin" : 6.89,
+				"50A_UUID" : "a87b8675-0bba-4f90-8381-a12b4cefc22f"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672326.946, 6578202.5319999997 ],
+					[ 672321.1040000001, 6578197.9340000004 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V82607-5",
+				"byggnadsid" : 82607,
+				"zmax" : 27.249973,
+				"zmin" : 6.89,
+				"50A_UUID" : "a87b8675-0bba-4f90-8381-a12b4cefc22f"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672321.1040000001, 6578197.9340000004 ],
+					[ 672323.551, 6578194.824 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V82607-6",
+				"byggnadsid" : 82607,
+				"zmax" : 27.249973,
+				"zmin" : 6.89,
+				"50A_UUID" : "a87b8675-0bba-4f90-8381-a12b4cefc22f"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672323.551, 6578194.824 ],
+					[ 672315.563, 6578188.5690000001 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V82607-7",
+				"byggnadsid" : 82607,
+				"zmax" : 27.249973,
+				"zmin" : 6.89,
+				"50A_UUID" : "a87b8675-0bba-4f90-8381-a12b4cefc22f"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672315.563, 6578188.5690000001 ],
+					[ 672300.471, 6578199.1160000004 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V82607-8",
+				"byggnadsid" : 82607,
+				"zmax" : 27.249973,
+				"zmin" : 6.89,
+				"50A_UUID" : "a87b8675-0bba-4f90-8381-a12b4cefc22f"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672300.471, 6578199.1160000004 ],
+					[ 672290.552, 6578191.284 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V82607-9",
+				"byggnadsid" : 82607,
+				"zmax" : 27.249973,
+				"zmin" : 6.89,
+				"50A_UUID" : "a87b8675-0bba-4f90-8381-a12b4cefc22f"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672290.552, 6578191.284 ],
+					[ 672316.013, 6578173.4589999998 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V82607-10",
+				"byggnadsid" : 82607,
+				"zmax" : 27.249973,
+				"zmin" : 6.89,
+				"50A_UUID" : "a87b8675-0bba-4f90-8381-a12b4cefc22f"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672454.999, 6578316.2910000002 ],
+					[ 672415.821, 6578342.5949999997 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V61295-1",
+				"byggnadsid" : 61295,
+				"zmax" : 30.089973,
+				"zmin" : 3.94,
+				"50A_UUID" : "52741b82-405b-46d8-8a90-34ee4992088e"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672415.821, 6578342.5949999997 ],
+					[ 672408.772, 6578332.1009999998 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V61295-2",
+				"byggnadsid" : 61295,
+				"zmax" : 30.089973,
+				"zmin" : 3.94,
+				"50A_UUID" : "52741b82-405b-46d8-8a90-34ee4992088e"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672408.772, 6578332.1009999998 ],
+					[ 672446.027, 6578307.0930000003 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V61295-3",
+				"byggnadsid" : 61295,
+				"zmax" : 30.089973,
+				"zmin" : 3.94,
+				"50A_UUID" : "52741b82-405b-46d8-8a90-34ee4992088e"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672446.027, 6578307.0930000003 ],
+					[ 672422.7439999999, 6578283.2170000002 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V61295-4",
+				"byggnadsid" : 61295,
+				"zmax" : 30.089973,
+				"zmin" : 3.94,
+				"50A_UUID" : "52741b82-405b-46d8-8a90-34ee4992088e"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672422.7439999999, 6578283.2170000002 ],
+					[ 672433.4179999999, 6578276.0539999995 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V61295-5",
+				"byggnadsid" : 61295,
+				"zmax" : 30.089973,
+				"zmin" : 3.94,
+				"50A_UUID" : "52741b82-405b-46d8-8a90-34ee4992088e"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672433.4179999999, 6578276.0539999995 ],
+					[ 672465.745, 6578309.0930000003 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V61295-6",
+				"byggnadsid" : 61295,
+				"zmax" : 30.089973,
+				"zmin" : 3.94,
+				"50A_UUID" : "52741b82-405b-46d8-8a90-34ee4992088e"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672465.745, 6578309.0930000003 ],
+					[ 672454.999, 6578316.2910000002 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V61295-7",
+				"byggnadsid" : 61295,
+				"zmax" : 30.089973,
+				"zmin" : 3.94,
+				"50A_UUID" : "52741b82-405b-46d8-8a90-34ee4992088e"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672405.922, 6578469.2089999998 ],
+					[ 672425.183, 6578456.3360000001 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V64097-1",
+				"byggnadsid" : 64097,
+				"zmax" : 30.339973,
+				"zmin" : 4.28,
+				"50A_UUID" : "d713aa0f-5d36-4830-8d6d-8e235498d4a8"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672425.183, 6578456.3360000001 ],
+					[ 672433.089, 6578468.068 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V64097-2",
+				"byggnadsid" : 64097,
+				"zmax" : 30.339973,
+				"zmin" : 4.28,
+				"50A_UUID" : "d713aa0f-5d36-4830-8d6d-8e235498d4a8"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672433.089, 6578468.068 ],
+					[ 672419.6, 6578476.7000000002 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V64097-3",
+				"byggnadsid" : 64097,
+				"zmax" : 30.339973,
+				"zmin" : 4.28,
+				"50A_UUID" : "d713aa0f-5d36-4830-8d6d-8e235498d4a8"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672419.6, 6578476.7000000002 ],
+					[ 672433.089, 6578468.068 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V64097-13",
+				"byggnadsid" : 64097,
+				"zmax" : 30.339973,
+				"zmin" : 4.28,
+				"50A_UUID" : "d713aa0f-5d36-4830-8d6d-8e235498d4a8"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672433.089, 6578468.068 ],
+					[ 672445.96, 6578486.9079999998 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V64097-14",
+				"byggnadsid" : 64097,
+				"zmax" : 30.339973,
+				"zmin" : 4.28,
+				"50A_UUID" : "d713aa0f-5d36-4830-8d6d-8e235498d4a8"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672480.647, 6578495.1459999997 ],
+					[ 672498.973, 6578482.8480000002 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V60574-3",
+				"byggnadsid" : 60574,
+				"zmax" : 34.149973,
+				"zmin" : 4.27,
+				"50A_UUID" : "6f1656b1-5e7a-4051-a4c1-f7fde4dd04fc"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672498.973, 6578482.8480000002 ],
+					[ 672522.975, 6578518.523 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V60574-4",
+				"byggnadsid" : 60574,
+				"zmax" : 34.149973,
+				"zmin" : 4.27,
+				"50A_UUID" : "6f1656b1-5e7a-4051-a4c1-f7fde4dd04fc"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672394.531, 6578405.5710000005 ],
+					[ 672399.1090000001, 6578412.3870000001 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V80506-1",
+				"byggnadsid" : 80506,
+				"zmax" : 32.619973,
+				"zmin" : 4.43,
+				"50A_UUID" : "6a05b099-eea8-4b2e-94e0-7ec3d2aae26c"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672399.1090000001, 6578412.3870000001 ],
+					[ 672387.536, 6578420.1639999999 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V80506-2",
+				"byggnadsid" : 80506,
+				"zmax" : 32.619973,
+				"zmin" : 4.43,
+				"50A_UUID" : "6a05b099-eea8-4b2e-94e0-7ec3d2aae26c"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672387.536, 6578420.1639999999 ],
+					[ 672384.2830000001, 6578415.3250000002 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V80506-3",
+				"byggnadsid" : 80506,
+				"zmax" : 32.619973,
+				"zmin" : 4.43,
+				"50A_UUID" : "6a05b099-eea8-4b2e-94e0-7ec3d2aae26c"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672384.2830000001, 6578415.3250000002 ],
+					[ 672364.032, 6578428.9100000001 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V80506-4",
+				"byggnadsid" : 80506,
+				"zmax" : 32.619973,
+				"zmin" : 4.43,
+				"50A_UUID" : "6a05b099-eea8-4b2e-94e0-7ec3d2aae26c"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672364.032, 6578428.9100000001 ],
+					[ 672367.356, 6578433.7259999998 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V80506-5",
+				"byggnadsid" : 80506,
+				"zmax" : 32.619973,
+				"zmin" : 4.43,
+				"50A_UUID" : "6a05b099-eea8-4b2e-94e0-7ec3d2aae26c"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672367.356, 6578433.7259999998 ],
+					[ 672358.213, 6578439.8710000003 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V80506-6",
+				"byggnadsid" : 80506,
+				"zmax" : 32.619973,
+				"zmin" : 4.43,
+				"50A_UUID" : "6a05b099-eea8-4b2e-94e0-7ec3d2aae26c"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672358.213, 6578439.8710000003 ],
+					[ 672342.339, 6578422.8159999996 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V80506-7",
+				"byggnadsid" : 80506,
+				"zmax" : 32.619973,
+				"zmin" : 4.43,
+				"50A_UUID" : "6a05b099-eea8-4b2e-94e0-7ec3d2aae26c"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672342.339, 6578422.8159999996 ],
+					[ 672340.2659999999, 6578424.1509999996 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V80506-8",
+				"byggnadsid" : 80506,
+				"zmax" : 32.619973,
+				"zmin" : 4.43,
+				"50A_UUID" : "6a05b099-eea8-4b2e-94e0-7ec3d2aae26c"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672340.2659999999, 6578424.1509999996 ],
+					[ 672333.246, 6578413.6869999999 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V80506-9",
+				"byggnadsid" : 80506,
+				"zmax" : 32.619973,
+				"zmin" : 4.43,
+				"50A_UUID" : "6a05b099-eea8-4b2e-94e0-7ec3d2aae26c"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672333.246, 6578413.6869999999 ],
+					[ 672367.573, 6578390.6509999996 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V80506-10",
+				"byggnadsid" : 80506,
+				"zmax" : 32.619973,
+				"zmin" : 4.43,
+				"50A_UUID" : "6a05b099-eea8-4b2e-94e0-7ec3d2aae26c"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672367.573, 6578390.6509999996 ],
+					[ 672370.728, 6578395.352 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V80506-11",
+				"byggnadsid" : 80506,
+				"zmax" : 32.619973,
+				"zmin" : 4.43,
+				"50A_UUID" : "6a05b099-eea8-4b2e-94e0-7ec3d2aae26c"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672370.728, 6578395.352 ],
+					[ 672376.738, 6578396.6399999997 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V80506-12",
+				"byggnadsid" : 80506,
+				"zmax" : 32.619973,
+				"zmin" : 4.43,
+				"50A_UUID" : "6a05b099-eea8-4b2e-94e0-7ec3d2aae26c"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672376.738, 6578396.6399999997 ],
+					[ 672394.531, 6578405.5710000005 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V80506-13",
+				"byggnadsid" : 80506,
+				"zmax" : 32.619973,
+				"zmin" : 4.43,
+				"50A_UUID" : "6a05b099-eea8-4b2e-94e0-7ec3d2aae26c"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672394.531, 6578405.5710000005 ],
+					[ 672376.738, 6578396.6399999997 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V80506-14",
+				"byggnadsid" : 80506,
+				"zmax" : 32.619973,
+				"zmin" : 4.43,
+				"50A_UUID" : "6a05b099-eea8-4b2e-94e0-7ec3d2aae26c"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672376.738, 6578396.6399999997 ],
+					[ 672370.728, 6578395.352 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V80506-15",
+				"byggnadsid" : 80506,
+				"zmax" : 32.619973,
+				"zmin" : 4.43,
+				"50A_UUID" : "6a05b099-eea8-4b2e-94e0-7ec3d2aae26c"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672370.728, 6578395.352 ],
+					[ 672367.573, 6578390.6509999996 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V80506-16",
+				"byggnadsid" : 80506,
+				"zmax" : 32.619973,
+				"zmin" : 4.43,
+				"50A_UUID" : "6a05b099-eea8-4b2e-94e0-7ec3d2aae26c"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672367.573, 6578390.6509999996 ],
+					[ 672392.615, 6578373.8449999997 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V80506-17",
+				"byggnadsid" : 80506,
+				"zmax" : 32.619973,
+				"zmin" : 4.43,
+				"50A_UUID" : "6a05b099-eea8-4b2e-94e0-7ec3d2aae26c"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672392.615, 6578373.8449999997 ],
+					[ 672404.758, 6578391.9390000002 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V80506-18",
+				"byggnadsid" : 80506,
+				"zmax" : 32.619973,
+				"zmin" : 4.43,
+				"50A_UUID" : "6a05b099-eea8-4b2e-94e0-7ec3d2aae26c"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672404.758, 6578391.9390000002 ],
+					[ 672398.012, 6578396.4639999997 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V80506-19",
+				"byggnadsid" : 80506,
+				"zmax" : 32.619973,
+				"zmin" : 4.43,
+				"50A_UUID" : "6a05b099-eea8-4b2e-94e0-7ec3d2aae26c"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672398.012, 6578396.4639999997 ],
+					[ 672401.123, 6578401.1289999997 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V80506-20",
+				"byggnadsid" : 80506,
+				"zmax" : 32.619973,
+				"zmin" : 4.43,
+				"50A_UUID" : "6a05b099-eea8-4b2e-94e0-7ec3d2aae26c"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672401.123, 6578401.1289999997 ],
+					[ 672394.531, 6578405.5710000005 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V80506-21",
+				"byggnadsid" : 80506,
+				"zmax" : 32.619973,
+				"zmin" : 4.43,
+				"50A_UUID" : "6a05b099-eea8-4b2e-94e0-7ec3d2aae26c"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672309.1040000001, 6578305.017 ],
+					[ 672335.548, 6578287.3289999999 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V55903-1",
+				"byggnadsid" : 55903,
+				"zmax" : 33.329973,
+				"zmin" : 4.15,
+				"50A_UUID" : "b3ac31c9-3e61-48f7-a197-398ee5c53bd0"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672335.548, 6578287.3289999999 ],
+					[ 672352.456, 6578312.5410000002 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V55903-2",
+				"byggnadsid" : 55903,
+				"zmax" : 33.329973,
+				"zmin" : 4.15,
+				"50A_UUID" : "b3ac31c9-3e61-48f7-a197-398ee5c53bd0"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672352.456, 6578312.5410000002 ],
+					[ 672326.074, 6578330.3380000005 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V55903-3",
+				"byggnadsid" : 55903,
+				"zmax" : 33.329973,
+				"zmin" : 4.15,
+				"50A_UUID" : "b3ac31c9-3e61-48f7-a197-398ee5c53bd0"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672326.074, 6578330.3380000005 ],
+					[ 672309.1040000001, 6578305.017 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V55903-4",
+				"byggnadsid" : 55903,
+				"zmax" : 33.329973,
+				"zmin" : 4.15,
+				"50A_UUID" : "b3ac31c9-3e61-48f7-a197-398ee5c53bd0"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672350.3540000001, 6578359.3799999999 ],
+					[ 672347.097, 6578361.7070000004 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V55903-5",
+				"byggnadsid" : 55903,
+				"zmax" : 33.329973,
+				"zmin" : 4.15,
+				"50A_UUID" : "b3ac31c9-3e61-48f7-a197-398ee5c53bd0"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672347.097, 6578361.7070000004 ],
+					[ 672326.074, 6578330.3380000005 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V55903-6",
+				"byggnadsid" : 55903,
+				"zmax" : 33.329973,
+				"zmin" : 4.15,
+				"50A_UUID" : "b3ac31c9-3e61-48f7-a197-398ee5c53bd0"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672326.074, 6578330.3380000005 ],
+					[ 672352.456, 6578312.5410000002 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V55903-7",
+				"byggnadsid" : 55903,
+				"zmax" : 33.329973,
+				"zmin" : 4.15,
+				"50A_UUID" : "b3ac31c9-3e61-48f7-a197-398ee5c53bd0"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672352.456, 6578312.5410000002 ],
+					[ 672370.549, 6578339.5199999996 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V55903-8",
+				"byggnadsid" : 55903,
+				"zmax" : 33.329973,
+				"zmin" : 4.15,
+				"50A_UUID" : "b3ac31c9-3e61-48f7-a197-398ee5c53bd0"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672370.549, 6578339.5199999996 ],
+					[ 672360.558, 6578346.2110000001 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V55903-9",
+				"byggnadsid" : 55903,
+				"zmax" : 33.329973,
+				"zmin" : 4.15,
+				"50A_UUID" : "b3ac31c9-3e61-48f7-a197-398ee5c53bd0"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672360.558, 6578346.2110000001 ],
+					[ 672355.5429999999, 6578361.125 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V55903-10",
+				"byggnadsid" : 55903,
+				"zmax" : 33.329973,
+				"zmin" : 4.15,
+				"50A_UUID" : "b3ac31c9-3e61-48f7-a197-398ee5c53bd0"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672355.5429999999, 6578361.125 ],
+					[ 672350.3540000001, 6578359.3799999999 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V55903-11",
+				"byggnadsid" : 55903,
+				"zmax" : 33.329973,
+				"zmin" : 4.15,
+				"50A_UUID" : "b3ac31c9-3e61-48f7-a197-398ee5c53bd0"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672355.5429999999, 6578361.125 ],
+					[ 672360.558, 6578346.2110000001 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V55903-12",
+				"byggnadsid" : 55903,
+				"zmax" : 33.329973,
+				"zmin" : 4.15,
+				"50A_UUID" : "b3ac31c9-3e61-48f7-a197-398ee5c53bd0"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672360.558, 6578346.2110000001 ],
+					[ 672370.549, 6578339.5199999996 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V55903-13",
+				"byggnadsid" : 55903,
+				"zmax" : 33.329973,
+				"zmin" : 4.15,
+				"50A_UUID" : "b3ac31c9-3e61-48f7-a197-398ee5c53bd0"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672370.549, 6578339.5199999996 ],
+					[ 672386.0209999999, 6578362.5920000002 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V55903-14",
+				"byggnadsid" : 55903,
+				"zmax" : 33.329973,
+				"zmin" : 4.15,
+				"50A_UUID" : "b3ac31c9-3e61-48f7-a197-398ee5c53bd0"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672386.0209999999, 6578362.5920000002 ],
+					[ 672369.759, 6578373.5060000001 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V55903-15",
+				"byggnadsid" : 55903,
+				"zmax" : 33.329973,
+				"zmin" : 4.15,
+				"50A_UUID" : "b3ac31c9-3e61-48f7-a197-398ee5c53bd0"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672369.759, 6578373.5060000001 ],
+					[ 672361.6580000001, 6578363.1809999999 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V55903-16",
+				"byggnadsid" : 55903,
+				"zmax" : 33.329973,
+				"zmin" : 4.15,
+				"50A_UUID" : "b3ac31c9-3e61-48f7-a197-398ee5c53bd0"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672361.6580000001, 6578363.1809999999 ],
+					[ 672355.5429999999, 6578361.125 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V55903-17",
+				"byggnadsid" : 55903,
+				"zmax" : 33.329973,
+				"zmin" : 4.15,
+				"50A_UUID" : "b3ac31c9-3e61-48f7-a197-398ee5c53bd0"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672718.596, 6578094.4869999997 ],
+					[ 672704.108, 6578057.2520000003 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V68738-1",
+				"byggnadsid" : 68738,
+				"zmax" : 8.62,
+				"zmin" : 4.01,
+				"50A_UUID" : "037f78ba-f8c4-4863-82c2-e1cdc4765241"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672704.108, 6578057.2520000003 ],
+					[ 672760.026, 6578035.4970000004 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V68738-2",
+				"byggnadsid" : 68738,
+				"zmax" : 8.62,
+				"zmin" : 4.01,
+				"50A_UUID" : "037f78ba-f8c4-4863-82c2-e1cdc4765241"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672760.026, 6578035.4970000004 ],
+					[ 672783.595, 6578096.074 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V68738-3",
+				"byggnadsid" : 68738,
+				"zmax" : 8.62,
+				"zmin" : 4.01,
+				"50A_UUID" : "037f78ba-f8c4-4863-82c2-e1cdc4765241"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672783.595, 6578096.074 ],
+					[ 672727.678, 6578117.8289999999 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V68738-4",
+				"byggnadsid" : 68738,
+				"zmax" : 8.62,
+				"zmin" : 4.01,
+				"50A_UUID" : "037f78ba-f8c4-4863-82c2-e1cdc4765241"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672727.678, 6578117.8289999999 ],
+					[ 672718.596, 6578094.4869999997 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V68738-5",
+				"byggnadsid" : 68738,
+				"zmax" : 8.62,
+				"zmin" : 4.01,
+				"50A_UUID" : "037f78ba-f8c4-4863-82c2-e1cdc4765241"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672194.7340000001, 6578015.4709999999 ],
+					[ 672182.422, 6578014.1569999997 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V59405-1",
+				"byggnadsid" : 59405,
+				"zmax" : 31.839973,
+				"zmin" : 8.72,
+				"50A_UUID" : "98cf1d7d-b0a5-482b-913d-cf5b157f8473"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672182.422, 6578014.1569999997 ],
+					[ 672183.154, 6578007.2489999998 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V59405-2",
+				"byggnadsid" : 59405,
+				"zmax" : 31.839973,
+				"zmin" : 8.72,
+				"50A_UUID" : "98cf1d7d-b0a5-482b-913d-cf5b157f8473"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672183.154, 6578007.2489999998 ],
+					[ 672180.987, 6578006.9989999998 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V59405-3",
+				"byggnadsid" : 59405,
+				"zmax" : 31.839973,
+				"zmin" : 8.72,
+				"50A_UUID" : "98cf1d7d-b0a5-482b-913d-cf5b157f8473"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672180.987, 6578006.9989999998 ],
+					[ 672182.485, 6577992.8200000003 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V59405-4",
+				"byggnadsid" : 59405,
+				"zmax" : 31.839973,
+				"zmin" : 8.72,
+				"50A_UUID" : "98cf1d7d-b0a5-482b-913d-cf5b157f8473"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672182.485, 6577992.8200000003 ],
+					[ 672184.686, 6577993.057 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V59405-5",
+				"byggnadsid" : 59405,
+				"zmax" : 31.839973,
+				"zmin" : 8.72,
+				"50A_UUID" : "98cf1d7d-b0a5-482b-913d-cf5b157f8473"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672184.686, 6577993.057 ],
+					[ 672185.427, 6577986.1509999996 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V59405-6",
+				"byggnadsid" : 59405,
+				"zmax" : 31.839973,
+				"zmin" : 8.72,
+				"50A_UUID" : "98cf1d7d-b0a5-482b-913d-cf5b157f8473"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672185.427, 6577986.1509999996 ],
+					[ 672197.743, 6577987.4359999998 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V59405-7",
+				"byggnadsid" : 59405,
+				"zmax" : 31.839973,
+				"zmin" : 8.72,
+				"50A_UUID" : "98cf1d7d-b0a5-482b-913d-cf5b157f8473"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672197.743, 6577987.4359999998 ],
+					[ 672194.7340000001, 6578015.4709999999 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V59405-8",
+				"byggnadsid" : 59405,
+				"zmax" : 31.839973,
+				"zmin" : 8.72,
+				"50A_UUID" : "98cf1d7d-b0a5-482b-913d-cf5b157f8473"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672734.74, 6578026.409 ],
+					[ 672697.036, 6578040.5599999996 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V63489-1",
+				"byggnadsid" : 63489,
+				"zmax" : 26.13,
+				"zmin" : 4.36,
+				"50A_UUID" : "82b6ab9c-b4b3-4435-bb06-5b294a0afd42"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672697.036, 6578040.5599999996 ],
+					[ 672695.742, 6578037.1129999999 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V63489-2",
+				"byggnadsid" : 63489,
+				"zmax" : 26.13,
+				"zmin" : 4.36,
+				"50A_UUID" : "82b6ab9c-b4b3-4435-bb06-5b294a0afd42"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672695.742, 6578037.1129999999 ],
+					[ 672691.446, 6578038.7259999998 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V63489-3",
+				"byggnadsid" : 63489,
+				"zmax" : 26.13,
+				"zmin" : 4.36,
+				"50A_UUID" : "82b6ab9c-b4b3-4435-bb06-5b294a0afd42"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672691.446, 6578038.7259999998 ],
+					[ 672690.37, 6578035.858 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V63489-4",
+				"byggnadsid" : 63489,
+				"zmax" : 26.13,
+				"zmin" : 4.36,
+				"50A_UUID" : "82b6ab9c-b4b3-4435-bb06-5b294a0afd42"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672690.37, 6578035.858 ],
+					[ 672692.429, 6578028.7719999999 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V63489-5",
+				"byggnadsid" : 63489,
+				"zmax" : 26.13,
+				"zmin" : 4.36,
+				"50A_UUID" : "82b6ab9c-b4b3-4435-bb06-5b294a0afd42"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672692.429, 6578028.7719999999 ],
+					[ 672696.509, 6578027.2400000002 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V63489-6",
+				"byggnadsid" : 63489,
+				"zmax" : 26.13,
+				"zmin" : 4.36,
+				"50A_UUID" : "82b6ab9c-b4b3-4435-bb06-5b294a0afd42"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672696.509, 6578027.2400000002 ],
+					[ 672696.051, 6578026.0240000002 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V63489-7",
+				"byggnadsid" : 63489,
+				"zmax" : 26.13,
+				"zmin" : 4.36,
+				"50A_UUID" : "82b6ab9c-b4b3-4435-bb06-5b294a0afd42"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672696.051, 6578026.0240000002 ],
+					[ 672703.737, 6578023.1399999997 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V63489-8",
+				"byggnadsid" : 63489,
+				"zmax" : 26.13,
+				"zmin" : 4.36,
+				"50A_UUID" : "82b6ab9c-b4b3-4435-bb06-5b294a0afd42"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672703.737, 6578023.1399999997 ],
+					[ 672704.142, 6578024.216 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V63489-9",
+				"byggnadsid" : 63489,
+				"zmax" : 26.13,
+				"zmin" : 4.36,
+				"50A_UUID" : "82b6ab9c-b4b3-4435-bb06-5b294a0afd42"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672704.142, 6578024.216 ],
+					[ 672710.74, 6578021.7350000003 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V63489-10",
+				"byggnadsid" : 63489,
+				"zmax" : 26.13,
+				"zmin" : 4.36,
+				"50A_UUID" : "82b6ab9c-b4b3-4435-bb06-5b294a0afd42"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672710.74, 6578021.7350000003 ],
+					[ 672710.338, 6578020.6629999997 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V63489-11",
+				"byggnadsid" : 63489,
+				"zmax" : 26.13,
+				"zmin" : 4.36,
+				"50A_UUID" : "82b6ab9c-b4b3-4435-bb06-5b294a0afd42"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672710.338, 6578020.6629999997 ],
+					[ 672717.9350000001, 6578017.8119999999 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V63489-12",
+				"byggnadsid" : 63489,
+				"zmax" : 26.13,
+				"zmin" : 4.36,
+				"50A_UUID" : "82b6ab9c-b4b3-4435-bb06-5b294a0afd42"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672717.9350000001, 6578017.8119999999 ],
+					[ 672718.336, 6578018.8789999997 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V63489-13",
+				"byggnadsid" : 63489,
+				"zmax" : 26.13,
+				"zmin" : 4.36,
+				"50A_UUID" : "82b6ab9c-b4b3-4435-bb06-5b294a0afd42"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672718.336, 6578018.8789999997 ],
+					[ 672724.917, 6578016.409 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V63489-14",
+				"byggnadsid" : 63489,
+				"zmax" : 26.13,
+				"zmin" : 4.36,
+				"50A_UUID" : "82b6ab9c-b4b3-4435-bb06-5b294a0afd42"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672724.917, 6578016.409 ],
+					[ 672724.517, 6578015.3420000002 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V63489-15",
+				"byggnadsid" : 63489,
+				"zmax" : 26.13,
+				"zmin" : 4.36,
+				"50A_UUID" : "82b6ab9c-b4b3-4435-bb06-5b294a0afd42"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672724.517, 6578015.3420000002 ],
+					[ 672745.459, 6578007.5899999999 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V63489-16",
+				"byggnadsid" : 63489,
+				"zmax" : 26.13,
+				"zmin" : 4.36,
+				"50A_UUID" : "82b6ab9c-b4b3-4435-bb06-5b294a0afd42"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672745.459, 6578007.5899999999 ],
+					[ 672746.9179999999, 6578011.4630000005 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V63489-17",
+				"byggnadsid" : 63489,
+				"zmax" : 26.13,
+				"zmin" : 4.36,
+				"50A_UUID" : "82b6ab9c-b4b3-4435-bb06-5b294a0afd42"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672746.9179999999, 6578011.4630000005 ],
+					[ 672744.629, 6578012.3380000005 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V63489-18",
+				"byggnadsid" : 63489,
+				"zmax" : 26.13,
+				"zmin" : 4.36,
+				"50A_UUID" : "82b6ab9c-b4b3-4435-bb06-5b294a0afd42"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672744.629, 6578012.3380000005 ],
+					[ 672746.741, 6578017.9519999996 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V63489-19",
+				"byggnadsid" : 63489,
+				"zmax" : 26.13,
+				"zmin" : 4.36,
+				"50A_UUID" : "82b6ab9c-b4b3-4435-bb06-5b294a0afd42"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672746.741, 6578017.9519999996 ],
+					[ 672739.731, 6578020.5839999998 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V63489-20",
+				"byggnadsid" : 63489,
+				"zmax" : 26.13,
+				"zmin" : 4.36,
+				"50A_UUID" : "82b6ab9c-b4b3-4435-bb06-5b294a0afd42"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672739.731, 6578020.5839999998 ],
+					[ 672741.003, 6578024.0580000002 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V63489-21",
+				"byggnadsid" : 63489,
+				"zmax" : 26.13,
+				"zmin" : 4.36,
+				"50A_UUID" : "82b6ab9c-b4b3-4435-bb06-5b294a0afd42"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672741.003, 6578024.0580000002 ],
+					[ 672734.74, 6578026.409 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V63489-22",
+				"byggnadsid" : 63489,
+				"zmax" : 26.13,
+				"zmin" : 4.36,
+				"50A_UUID" : "82b6ab9c-b4b3-4435-bb06-5b294a0afd42"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672316.829, 6578049.7019999996 ],
+					[ 672344.415, 6578056.8130000001 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V90153-1",
+				"byggnadsid" : 90153,
+				"zmax" : 22.949973,
+				"zmin" : 4.34,
+				"50A_UUID" : "bd16afe5-5342-4856-afee-21d78cfc4269"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672344.415, 6578056.8130000001 ],
+					[ 672345.475, 6578065.2220000001 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V90153-2",
+				"byggnadsid" : 90153,
+				"zmax" : 22.949973,
+				"zmin" : 4.34,
+				"50A_UUID" : "bd16afe5-5342-4856-afee-21d78cfc4269"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672345.475, 6578065.2220000001 ],
+					[ 672343.894, 6578071.2410000004 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V90153-3",
+				"byggnadsid" : 90153,
+				"zmax" : 22.949973,
+				"zmin" : 4.34,
+				"50A_UUID" : "bd16afe5-5342-4856-afee-21d78cfc4269"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672343.894, 6578071.2410000004 ],
+					[ 672309.9889999999, 6578062.4060000004 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V90153-4",
+				"byggnadsid" : 90153,
+				"zmax" : 22.949973,
+				"zmin" : 4.34,
+				"50A_UUID" : "bd16afe5-5342-4856-afee-21d78cfc4269"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672309.9889999999, 6578062.4060000004 ],
+					[ 672316.829, 6578049.7019999996 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V90153-5",
+				"byggnadsid" : 90153,
+				"zmax" : 22.949973,
+				"zmin" : 4.34,
+				"50A_UUID" : "bd16afe5-5342-4856-afee-21d78cfc4269"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672615.7659999999, 6578037.7290000003 ],
+					[ 672625.089, 6578032.9749999996 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V76983-1",
+				"byggnadsid" : 76983,
+				"zmax" : 25.54,
+				"zmin" : 6.92,
+				"50A_UUID" : "eae50ad6-fd6f-4397-aa5a-ea9cc7bfe281"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672625.089, 6578032.9749999996 ],
+					[ 672626.916, 6578036.5329999998 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V76983-2",
+				"byggnadsid" : 76983,
+				"zmax" : 25.54,
+				"zmin" : 6.92,
+				"50A_UUID" : "eae50ad6-fd6f-4397-aa5a-ea9cc7bfe281"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672626.916, 6578036.5329999998 ],
+					[ 672623.353, 6578038.3499999996 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V76983-3",
+				"byggnadsid" : 76983,
+				"zmax" : 25.54,
+				"zmin" : 6.92,
+				"50A_UUID" : "eae50ad6-fd6f-4397-aa5a-ea9cc7bfe281"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672623.353, 6578038.3499999996 ],
+					[ 672625.442, 6578042.3760000002 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V76983-4",
+				"byggnadsid" : 76983,
+				"zmax" : 25.54,
+				"zmin" : 6.92,
+				"50A_UUID" : "eae50ad6-fd6f-4397-aa5a-ea9cc7bfe281"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672625.442, 6578042.3760000002 ],
+					[ 672628.974, 6578040.5690000001 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V76983-5",
+				"byggnadsid" : 76983,
+				"zmax" : 25.54,
+				"zmin" : 6.92,
+				"50A_UUID" : "eae50ad6-fd6f-4397-aa5a-ea9cc7bfe281"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672628.974, 6578040.5690000001 ],
+					[ 672633.747, 6578049.8940000003 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V76983-6",
+				"byggnadsid" : 76983,
+				"zmax" : 25.54,
+				"zmin" : 6.92,
+				"50A_UUID" : "eae50ad6-fd6f-4397-aa5a-ea9cc7bfe281"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672633.747, 6578049.8940000003 ],
+					[ 672630.2070000001, 6578051.7060000002 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V76983-7",
+				"byggnadsid" : 76983,
+				"zmax" : 25.54,
+				"zmin" : 6.92,
+				"50A_UUID" : "eae50ad6-fd6f-4397-aa5a-ea9cc7bfe281"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672630.2070000001, 6578051.7060000002 ],
+					[ 672631.5379999999, 6578054.307 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V76983-8",
+				"byggnadsid" : 76983,
+				"zmax" : 25.54,
+				"zmin" : 6.92,
+				"50A_UUID" : "eae50ad6-fd6f-4397-aa5a-ea9cc7bfe281"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672631.5379999999, 6578054.307 ],
+					[ 672641.417, 6578049.6059999997 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V76983-9",
+				"byggnadsid" : 76983,
+				"zmax" : 25.54,
+				"zmin" : 6.92,
+				"50A_UUID" : "eae50ad6-fd6f-4397-aa5a-ea9cc7bfe281"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672641.417, 6578049.6059999997 ],
+					[ 672643.617, 6578054.4349999996 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V76983-10",
+				"byggnadsid" : 76983,
+				"zmax" : 25.54,
+				"zmin" : 6.92,
+				"50A_UUID" : "eae50ad6-fd6f-4397-aa5a-ea9cc7bfe281"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672643.617, 6578054.4349999996 ],
+					[ 672670.338, 6578042.409 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V76983-11",
+				"byggnadsid" : 76983,
+				"zmax" : 25.54,
+				"zmin" : 6.92,
+				"50A_UUID" : "eae50ad6-fd6f-4397-aa5a-ea9cc7bfe281"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672670.338, 6578042.409 ],
+					[ 672680.29, 6578038.7110000001 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V76983-12",
+				"byggnadsid" : 76983,
+				"zmax" : 25.54,
+				"zmin" : 6.92,
+				"50A_UUID" : "eae50ad6-fd6f-4397-aa5a-ea9cc7bfe281"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672680.29, 6578038.7110000001 ],
+					[ 672682.983, 6578045.8289999999 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V76983-13",
+				"byggnadsid" : 76983,
+				"zmax" : 25.54,
+				"zmin" : 6.92,
+				"50A_UUID" : "eae50ad6-fd6f-4397-aa5a-ea9cc7bfe281"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672682.983, 6578045.8289999999 ],
+					[ 672642.032, 6578064.2070000004 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V76983-14",
+				"byggnadsid" : 76983,
+				"zmax" : 25.54,
+				"zmin" : 6.92,
+				"50A_UUID" : "eae50ad6-fd6f-4397-aa5a-ea9cc7bfe281"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672642.032, 6578064.2070000004 ],
+					[ 672637.937, 6578055.727 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V76983-15",
+				"byggnadsid" : 76983,
+				"zmax" : 25.54,
+				"zmin" : 6.92,
+				"50A_UUID" : "eae50ad6-fd6f-4397-aa5a-ea9cc7bfe281"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672637.937, 6578055.727 ],
+					[ 672627.449, 6578060.6969999997 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V76983-16",
+				"byggnadsid" : 76983,
+				"zmax" : 25.54,
+				"zmin" : 6.92,
+				"50A_UUID" : "eae50ad6-fd6f-4397-aa5a-ea9cc7bfe281"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672627.449, 6578060.6969999997 ],
+					[ 672615.7659999999, 6578037.7290000003 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V76983-17",
+				"byggnadsid" : 76983,
+				"zmax" : 25.54,
+				"zmin" : 6.92,
+				"50A_UUID" : "eae50ad6-fd6f-4397-aa5a-ea9cc7bfe281"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672261.687, 6578068.733 ],
+					[ 672292.37, 6578076.5410000002 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V69806-1",
+				"byggnadsid" : 69806,
+				"zmax" : 25.479973,
+				"zmin" : 4.57,
+				"50A_UUID" : "3c1e8e77-1310-41c1-8d2c-272448e5467f"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672292.37, 6578076.5410000002 ],
+					[ 672275.11, 6578143.9400000004 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V69806-2",
+				"byggnadsid" : 69806,
+				"zmax" : 25.479973,
+				"zmin" : 4.57,
+				"50A_UUID" : "3c1e8e77-1310-41c1-8d2c-272448e5467f"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672275.11, 6578143.9400000004 ],
+					[ 672229.7290000001, 6578132.3590000002 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V69806-3",
+				"byggnadsid" : 69806,
+				"zmax" : 25.479973,
+				"zmin" : 4.57,
+				"50A_UUID" : "3c1e8e77-1310-41c1-8d2c-272448e5467f"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672229.7290000001, 6578132.3590000002 ],
+					[ 672249.6800000001, 6578068.8779999996 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V69806-4",
+				"byggnadsid" : 69806,
+				"zmax" : 25.479973,
+				"zmin" : 4.57,
+				"50A_UUID" : "3c1e8e77-1310-41c1-8d2c-272448e5467f"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672249.6800000001, 6578068.8779999996 ],
+					[ 672253.331, 6578066.6069999998 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V69806-5",
+				"byggnadsid" : 69806,
+				"zmax" : 25.479973,
+				"zmin" : 4.57,
+				"50A_UUID" : "3c1e8e77-1310-41c1-8d2c-272448e5467f"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672253.331, 6578066.6069999998 ],
+					[ 672261.687, 6578068.733 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V69806-6",
+				"byggnadsid" : 69806,
+				"zmax" : 25.479973,
+				"zmin" : 4.57,
+				"50A_UUID" : "3c1e8e77-1310-41c1-8d2c-272448e5467f"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672258.553, 6578078.8480000002 ],
+					[ 672255.3590000001, 6578080.8039999995 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V69806-7",
+				"byggnadsid" : 69806,
+				"zmax" : 25.479973,
+				"zmin" : 4.57,
+				"50A_UUID" : "3c1e8e77-1310-41c1-8d2c-272448e5467f"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672255.3590000001, 6578080.8039999995 ],
+					[ 672247.302, 6578106.0269999998 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V69806-8",
+				"byggnadsid" : 69806,
+				"zmax" : 25.479973,
+				"zmin" : 4.57,
+				"50A_UUID" : "3c1e8e77-1310-41c1-8d2c-272448e5467f"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672247.302, 6578106.0269999998 ],
+					[ 672251.113, 6578107.2439999999 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V69806-9",
+				"byggnadsid" : 69806,
+				"zmax" : 25.479973,
+				"zmin" : 4.57,
+				"50A_UUID" : "3c1e8e77-1310-41c1-8d2c-272448e5467f"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672251.113, 6578107.2439999999 ],
+					[ 672248.6629999999, 6578114.915 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V69806-10",
+				"byggnadsid" : 69806,
+				"zmax" : 25.479973,
+				"zmin" : 4.57,
+				"50A_UUID" : "3c1e8e77-1310-41c1-8d2c-272448e5467f"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672248.6629999999, 6578114.915 ],
+					[ 672244.841, 6578113.7079999996 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V69806-11",
+				"byggnadsid" : 69806,
+				"zmax" : 25.479973,
+				"zmin" : 4.57,
+				"50A_UUID" : "3c1e8e77-1310-41c1-8d2c-272448e5467f"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672244.841, 6578113.7079999996 ],
+					[ 672241.46, 6578124.5 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V69806-12",
+				"byggnadsid" : 69806,
+				"zmax" : 25.479973,
+				"zmin" : 4.57,
+				"50A_UUID" : "3c1e8e77-1310-41c1-8d2c-272448e5467f"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672241.46, 6578124.5 ],
+					[ 672249.513, 6578126.574 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V69806-13",
+				"byggnadsid" : 69806,
+				"zmax" : 25.479973,
+				"zmin" : 4.57,
+				"50A_UUID" : "3c1e8e77-1310-41c1-8d2c-272448e5467f"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672249.513, 6578126.574 ],
+					[ 672250.5110000001, 6578122.7000000002 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V69806-14",
+				"byggnadsid" : 69806,
+				"zmax" : 25.479973,
+				"zmin" : 4.57,
+				"50A_UUID" : "3c1e8e77-1310-41c1-8d2c-272448e5467f"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672250.5110000001, 6578122.7000000002 ],
+					[ 672258.349, 6578124.7180000003 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V69806-15",
+				"byggnadsid" : 69806,
+				"zmax" : 25.479973,
+				"zmin" : 4.57,
+				"50A_UUID" : "3c1e8e77-1310-41c1-8d2c-272448e5467f"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672258.349, 6578124.7180000003 ],
+					[ 672257.363, 6578128.5839999998 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V69806-16",
+				"byggnadsid" : 69806,
+				"zmax" : 25.479973,
+				"zmin" : 4.57,
+				"50A_UUID" : "3c1e8e77-1310-41c1-8d2c-272448e5467f"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672257.363, 6578128.5839999998 ],
+					[ 672267.528, 6578131.1710000001 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V69806-17",
+				"byggnadsid" : 69806,
+				"zmax" : 25.479973,
+				"zmin" : 4.57,
+				"50A_UUID" : "3c1e8e77-1310-41c1-8d2c-272448e5467f"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672267.528, 6578131.1710000001 ],
+					[ 672269.9620000001, 6578121.6679999996 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V69806-18",
+				"byggnadsid" : 69806,
+				"zmax" : 25.479973,
+				"zmin" : 4.57,
+				"50A_UUID" : "3c1e8e77-1310-41c1-8d2c-272448e5467f"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672269.9620000001, 6578121.6679999996 ],
+					[ 672266.0870000001, 6578120.676 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V69806-19",
+				"byggnadsid" : 69806,
+				"zmax" : 25.479973,
+				"zmin" : 4.57,
+				"50A_UUID" : "3c1e8e77-1310-41c1-8d2c-272448e5467f"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672266.0870000001, 6578120.676 ],
+					[ 672268.096, 6578112.8329999996 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V69806-20",
+				"byggnadsid" : 69806,
+				"zmax" : 25.479973,
+				"zmin" : 4.57,
+				"50A_UUID" : "3c1e8e77-1310-41c1-8d2c-272448e5467f"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672268.096, 6578112.8329999996 ],
+					[ 672271.976, 6578113.8380000005 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V69806-21",
+				"byggnadsid" : 69806,
+				"zmax" : 25.479973,
+				"zmin" : 4.57,
+				"50A_UUID" : "3c1e8e77-1310-41c1-8d2c-272448e5467f"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672271.976, 6578113.8380000005 ],
+					[ 672279.566, 6578084.1960000005 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V69806-22",
+				"byggnadsid" : 69806,
+				"zmax" : 25.479973,
+				"zmin" : 4.57,
+				"50A_UUID" : "3c1e8e77-1310-41c1-8d2c-272448e5467f"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672279.566, 6578084.1960000005 ],
+					[ 672258.553, 6578078.8480000002 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V69806-23",
+				"byggnadsid" : 69806,
+				"zmax" : 25.479973,
+				"zmin" : 4.57,
+				"50A_UUID" : "3c1e8e77-1310-41c1-8d2c-272448e5467f"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672260.292, 6578034.9890000001 ],
+					[ 672307.316, 6578047.1900000004 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V82463-1",
+				"byggnadsid" : 82463,
+				"zmax" : 23.289973,
+				"zmin" : 4.69,
+				"50A_UUID" : "a3c749dc-3bee-4d3f-a24e-1d10e7de3ee9"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672307.316, 6578047.1900000004 ],
+					[ 672307.0649999999, 6578061.6440000003 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V82463-2",
+				"byggnadsid" : 82463,
+				"zmax" : 23.289973,
+				"zmin" : 4.69,
+				"50A_UUID" : "a3c749dc-3bee-4d3f-a24e-1d10e7de3ee9"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672307.0649999999, 6578061.6440000003 ],
+					[ 672256.749, 6578048.5319999997 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V82463-3",
+				"byggnadsid" : 82463,
+				"zmax" : 23.289973,
+				"zmin" : 4.69,
+				"50A_UUID" : "a3c749dc-3bee-4d3f-a24e-1d10e7de3ee9"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672256.749, 6578048.5319999997 ],
+					[ 672260.292, 6578034.9890000001 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V82463-4",
+				"byggnadsid" : 82463,
+				"zmax" : 23.289973,
+				"zmin" : 4.69,
+				"50A_UUID" : "a3c749dc-3bee-4d3f-a24e-1d10e7de3ee9"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672187.347, 6578037.8380000005 ],
+					[ 672145.458, 6578033.3619999997 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V83034-1",
+				"byggnadsid" : 83034,
+				"zmax" : 32.979973,
+				"zmin" : 5.32,
+				"50A_UUID" : "f65c98ba-5be1-48e0-86d8-bb24757c8c43"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672161.106, 6578022.4639999997 ],
+					[ 672174.426, 6578023.8849999998 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V83034-7",
+				"byggnadsid" : 83034,
+				"zmax" : 32.979973,
+				"zmin" : 5.32,
+				"50A_UUID" : "f65c98ba-5be1-48e0-86d8-bb24757c8c43"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672174.426, 6578023.8849999998 ],
+					[ 672174.642, 6578021.9050000003 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V83034-8",
+				"byggnadsid" : 83034,
+				"zmax" : 32.979973,
+				"zmin" : 5.32,
+				"50A_UUID" : "f65c98ba-5be1-48e0-86d8-bb24757c8c43"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672174.642, 6578021.9050000003 ],
+					[ 672182.051, 6578022.6979999999 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V83034-9",
+				"byggnadsid" : 83034,
+				"zmax" : 32.979973,
+				"zmin" : 5.32,
+				"50A_UUID" : "f65c98ba-5be1-48e0-86d8-bb24757c8c43"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672182.051, 6578022.6979999999 ],
+					[ 672181.838, 6578024.6859999998 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V83034-10",
+				"byggnadsid" : 83034,
+				"zmax" : 32.979973,
+				"zmin" : 5.32,
+				"50A_UUID" : "f65c98ba-5be1-48e0-86d8-bb24757c8c43"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672181.838, 6578024.6859999998 ],
+					[ 672195.281, 6578026.1279999996 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V83034-11",
+				"byggnadsid" : 83034,
+				"zmax" : 32.979973,
+				"zmin" : 5.32,
+				"50A_UUID" : "f65c98ba-5be1-48e0-86d8-bb24757c8c43"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672195.281, 6578026.1279999996 ],
+					[ 672195.493, 6578024.1399999997 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V83034-12",
+				"byggnadsid" : 83034,
+				"zmax" : 32.979973,
+				"zmin" : 5.32,
+				"50A_UUID" : "f65c98ba-5be1-48e0-86d8-bb24757c8c43"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672195.493, 6578024.1399999997 ],
+					[ 672202.889, 6578024.9210000001 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V83034-13",
+				"byggnadsid" : 83034,
+				"zmax" : 32.979973,
+				"zmin" : 5.32,
+				"50A_UUID" : "f65c98ba-5be1-48e0-86d8-bb24757c8c43"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672202.889, 6578024.9210000001 ],
+					[ 672202.675, 6578026.9210000001 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V83034-14",
+				"byggnadsid" : 83034,
+				"zmax" : 32.979973,
+				"zmin" : 5.32,
+				"50A_UUID" : "f65c98ba-5be1-48e0-86d8-bb24757c8c43"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672202.675, 6578026.9210000001 ],
+					[ 672209.586, 6578027.665 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V83034-15",
+				"byggnadsid" : 83034,
+				"zmax" : 32.979973,
+				"zmin" : 5.32,
+				"50A_UUID" : "f65c98ba-5be1-48e0-86d8-bb24757c8c43"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672209.586, 6578027.665 ],
+					[ 672212.922, 6578025.4720000001 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V83034-16",
+				"byggnadsid" : 83034,
+				"zmax" : 32.979973,
+				"zmin" : 5.32,
+				"50A_UUID" : "f65c98ba-5be1-48e0-86d8-bb24757c8c43"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672212.922, 6578025.4720000001 ],
+					[ 672215.656, 6578016.5609999998 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V83034-17",
+				"byggnadsid" : 83034,
+				"zmax" : 32.979973,
+				"zmin" : 5.32,
+				"50A_UUID" : "f65c98ba-5be1-48e0-86d8-bb24757c8c43"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672215.656, 6578016.5609999998 ],
+					[ 672213.559, 6578015.9189999998 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V83034-18",
+				"byggnadsid" : 83034,
+				"zmax" : 32.979973,
+				"zmin" : 5.32,
+				"50A_UUID" : "f65c98ba-5be1-48e0-86d8-bb24757c8c43"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672213.559, 6578015.9189999998 ],
+					[ 672217.741, 6578002.2209999999 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V83034-19",
+				"byggnadsid" : 83034,
+				"zmax" : 32.979973,
+				"zmin" : 5.32,
+				"50A_UUID" : "f65c98ba-5be1-48e0-86d8-bb24757c8c43"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672217.741, 6578002.2209999999 ],
+					[ 672219.851, 6578002.8669999996 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V83034-20",
+				"byggnadsid" : 83034,
+				"zmax" : 32.979973,
+				"zmin" : 5.32,
+				"50A_UUID" : "f65c98ba-5be1-48e0-86d8-bb24757c8c43"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672219.851, 6578002.8669999996 ],
+					[ 672221.878, 6577996.2549999999 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V83034-21",
+				"byggnadsid" : 83034,
+				"zmax" : 32.979973,
+				"zmin" : 5.32,
+				"50A_UUID" : "f65c98ba-5be1-48e0-86d8-bb24757c8c43"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672221.878, 6577996.2549999999 ],
+					[ 672233.853, 6577999.8760000002 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V83034-22",
+				"byggnadsid" : 83034,
+				"zmax" : 32.979973,
+				"zmin" : 5.32,
+				"50A_UUID" : "f65c98ba-5be1-48e0-86d8-bb24757c8c43"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672233.853, 6577999.8760000002 ],
+					[ 672222.649, 6578036.4479999999 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V83034-23",
+				"byggnadsid" : 83034,
+				"zmax" : 32.979973,
+				"zmin" : 5.32,
+				"50A_UUID" : "f65c98ba-5be1-48e0-86d8-bb24757c8c43"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672222.649, 6578036.4479999999 ],
+					[ 672215.912, 6578040.8909999998 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V83034-24",
+				"byggnadsid" : 83034,
+				"zmax" : 32.979973,
+				"zmin" : 5.32,
+				"50A_UUID" : "f65c98ba-5be1-48e0-86d8-bb24757c8c43"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672215.912, 6578040.8909999998 ],
+					[ 672187.347, 6578037.8380000005 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V83034-25",
+				"byggnadsid" : 83034,
+				"zmax" : 32.979973,
+				"zmin" : 5.32,
+				"50A_UUID" : "f65c98ba-5be1-48e0-86d8-bb24757c8c43"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672351.7610000001, 6578060.5480000004 ],
+					[ 672348.45, 6578033.7429999998 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V68732-1",
+				"byggnadsid" : 68732,
+				"zmax" : 20.179973,
+				"zmin" : 7.79,
+				"50A_UUID" : "7ddaa57e-7537-4469-b286-88e53b21464a"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672348.45, 6578033.7429999998 ],
+					[ 672314.446, 6578024.8760000002 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V68732-2",
+				"byggnadsid" : 68732,
+				"zmax" : 20.179973,
+				"zmin" : 7.79,
+				"50A_UUID" : "7ddaa57e-7537-4469-b286-88e53b21464a"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672314.446, 6578024.8760000002 ],
+					[ 672313.487, 6578028.5800000001 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V68732-3",
+				"byggnadsid" : 68732,
+				"zmax" : 20.179973,
+				"zmin" : 7.79,
+				"50A_UUID" : "7ddaa57e-7537-4469-b286-88e53b21464a"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672313.487, 6578028.5800000001 ],
+					[ 672276.919, 6578019.0650000004 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V68732-4",
+				"byggnadsid" : 68732,
+				"zmax" : 20.179973,
+				"zmin" : 7.79,
+				"50A_UUID" : "7ddaa57e-7537-4469-b286-88e53b21464a"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672276.919, 6578019.0650000004 ],
+					[ 672274.448, 6578028.6119999997 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V68732-5",
+				"byggnadsid" : 68732,
+				"zmax" : 20.179973,
+				"zmin" : 7.79,
+				"50A_UUID" : "7ddaa57e-7537-4469-b286-88e53b21464a"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672274.448, 6578028.6119999997 ],
+					[ 672262.937, 6578028.4589999998 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V68732-6",
+				"byggnadsid" : 68732,
+				"zmax" : 20.179973,
+				"zmin" : 7.79,
+				"50A_UUID" : "7ddaa57e-7537-4469-b286-88e53b21464a"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672262.937, 6578028.4589999998 ],
+					[ 672268.67, 6578007.6220000004 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V68732-7",
+				"byggnadsid" : 68732,
+				"zmax" : 20.179973,
+				"zmin" : 7.79,
+				"50A_UUID" : "7ddaa57e-7537-4469-b286-88e53b21464a"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672268.67, 6578007.6220000004 ],
+					[ 672289.094, 6578013.1090000002 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V68732-8",
+				"byggnadsid" : 68732,
+				"zmax" : 20.179973,
+				"zmin" : 7.79,
+				"50A_UUID" : "7ddaa57e-7537-4469-b286-88e53b21464a"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672289.094, 6578013.1090000002 ],
+					[ 672290.132, 6578009.2460000003 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V68732-9",
+				"byggnadsid" : 68732,
+				"zmax" : 20.179973,
+				"zmin" : 7.79,
+				"50A_UUID" : "7ddaa57e-7537-4469-b286-88e53b21464a"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672290.132, 6578009.2460000003 ],
+					[ 672316.246, 6578016.2609999999 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V68732-10",
+				"byggnadsid" : 68732,
+				"zmax" : 20.179973,
+				"zmin" : 7.79,
+				"50A_UUID" : "7ddaa57e-7537-4469-b286-88e53b21464a"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672316.246, 6578016.2609999999 ],
+					[ 672317.2830000001, 6578012.398 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V68732-11",
+				"byggnadsid" : 68732,
+				"zmax" : 20.179973,
+				"zmin" : 7.79,
+				"50A_UUID" : "7ddaa57e-7537-4469-b286-88e53b21464a"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672317.2830000001, 6578012.398 ],
+					[ 672361.0870000001, 6578024.165 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V68732-12",
+				"byggnadsid" : 68732,
+				"zmax" : 20.179973,
+				"zmin" : 7.79,
+				"50A_UUID" : "7ddaa57e-7537-4469-b286-88e53b21464a"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672361.0870000001, 6578024.165 ],
+					[ 672364.779, 6578058.9689999996 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V68732-13",
+				"byggnadsid" : 68732,
+				"zmax" : 20.179973,
+				"zmin" : 7.79,
+				"50A_UUID" : "7ddaa57e-7537-4469-b286-88e53b21464a"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672364.779, 6578058.9689999996 ],
+					[ 672351.7610000001, 6578060.5480000004 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V68732-14",
+				"byggnadsid" : 68732,
+				"zmax" : 20.179973,
+				"zmin" : 7.79,
+				"50A_UUID" : "7ddaa57e-7537-4469-b286-88e53b21464a"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672297.374, 6578117.4740000004 ],
+					[ 672309.476, 6578120.4759999998 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V75996-1",
+				"byggnadsid" : 75996,
+				"zmax" : 30.979973,
+				"zmin" : 4.43,
+				"50A_UUID" : "cd560029-2f50-436f-80ba-ce876a607f69"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672309.476, 6578120.4759999998 ],
+					[ 672304.577, 6578139.4210000001 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V75996-2",
+				"byggnadsid" : 75996,
+				"zmax" : 30.979973,
+				"zmin" : 4.43,
+				"50A_UUID" : "cd560029-2f50-436f-80ba-ce876a607f69"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672304.577, 6578139.4210000001 ],
+					[ 672306.862, 6578142.7029999997 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V75996-3",
+				"byggnadsid" : 75996,
+				"zmax" : 30.979973,
+				"zmin" : 4.43,
+				"50A_UUID" : "cd560029-2f50-436f-80ba-ce876a607f69"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672306.862, 6578142.7029999997 ],
+					[ 672310.144, 6578140.4179999996 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V75996-4",
+				"byggnadsid" : 75996,
+				"zmax" : 30.979973,
+				"zmin" : 4.43,
+				"50A_UUID" : "cd560029-2f50-436f-80ba-ce876a607f69"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672310.144, 6578140.4179999996 ],
+					[ 672317.25, 6578150.6179999998 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V75996-5",
+				"byggnadsid" : 75996,
+				"zmax" : 30.979973,
+				"zmin" : 4.43,
+				"50A_UUID" : "cd560029-2f50-436f-80ba-ce876a607f69"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672317.25, 6578150.6179999998 ],
+					[ 672312.621, 6578153.8799999999 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V75996-6",
+				"byggnadsid" : 75996,
+				"zmax" : 30.979973,
+				"zmin" : 4.43,
+				"50A_UUID" : "cd560029-2f50-436f-80ba-ce876a607f69"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672312.621, 6578153.8799999999 ],
+					[ 672309.3860000001, 6578153.0240000002 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V75996-7",
+				"byggnadsid" : 75996,
+				"zmax" : 30.979973,
+				"zmin" : 4.43,
+				"50A_UUID" : "cd560029-2f50-436f-80ba-ce876a607f69"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672309.3860000001, 6578153.0240000002 ],
+					[ 672305.493, 6578147.4689999996 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V75996-8",
+				"byggnadsid" : 75996,
+				"zmax" : 30.979973,
+				"zmin" : 4.43,
+				"50A_UUID" : "cd560029-2f50-436f-80ba-ce876a607f69"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672305.493, 6578147.4689999996 ],
+					[ 672300.8100000001, 6578150.7510000002 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V75996-9",
+				"byggnadsid" : 75996,
+				"zmax" : 30.979973,
+				"zmin" : 4.43,
+				"50A_UUID" : "cd560029-2f50-436f-80ba-ce876a607f69"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672300.8100000001, 6578150.7510000002 ],
+					[ 672297.3100000001, 6578145.7549999999 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V75996-10",
+				"byggnadsid" : 75996,
+				"zmax" : 30.979973,
+				"zmin" : 4.43,
+				"50A_UUID" : "cd560029-2f50-436f-80ba-ce876a607f69"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672297.3100000001, 6578145.7549999999 ],
+					[ 672293.098, 6578148.7070000004 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V75996-11",
+				"byggnadsid" : 75996,
+				"zmax" : 30.979973,
+				"zmin" : 4.43,
+				"50A_UUID" : "cd560029-2f50-436f-80ba-ce876a607f69"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672293.098, 6578148.7070000004 ],
+					[ 672290.383, 6578144.784 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V75996-12",
+				"byggnadsid" : 75996,
+				"zmax" : 30.979973,
+				"zmin" : 4.43,
+				"50A_UUID" : "cd560029-2f50-436f-80ba-ce876a607f69"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672290.383, 6578144.784 ],
+					[ 672297.374, 6578117.4740000004 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V75996-13",
+				"byggnadsid" : 75996,
+				"zmax" : 30.979973,
+				"zmin" : 4.43,
+				"50A_UUID" : "cd560029-2f50-436f-80ba-ce876a607f69"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672339.974, 6578119.4890000001 ],
+					[ 672346.96, 6578129.6909999996 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V75996-14",
+				"byggnadsid" : 75996,
+				"zmax" : 30.979973,
+				"zmin" : 4.43,
+				"50A_UUID" : "cd560029-2f50-436f-80ba-ce876a607f69"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672346.96, 6578129.6909999996 ],
+					[ 672320.5209999999, 6578148.3150000004 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V75996-15",
+				"byggnadsid" : 75996,
+				"zmax" : 30.979973,
+				"zmin" : 4.43,
+				"50A_UUID" : "cd560029-2f50-436f-80ba-ce876a607f69"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672320.5209999999, 6578148.3150000004 ],
+					[ 672313.426, 6578138.1310000001 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V75996-16",
+				"byggnadsid" : 75996,
+				"zmax" : 30.979973,
+				"zmin" : 4.43,
+				"50A_UUID" : "cd560029-2f50-436f-80ba-ce876a607f69"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672313.426, 6578138.1310000001 ],
+					[ 672339.974, 6578119.4890000001 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V75996-17",
+				"byggnadsid" : 75996,
+				"zmax" : 30.979973,
+				"zmin" : 4.43,
+				"50A_UUID" : "cd560029-2f50-436f-80ba-ce876a607f69"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672333.5429999999, 6578103.8820000002 ],
+					[ 672332.568, 6578107.7609999999 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V75996-18",
+				"byggnadsid" : 75996,
+				"zmax" : 30.979973,
+				"zmin" : 4.43,
+				"50A_UUID" : "cd560029-2f50-436f-80ba-ce876a607f69"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672332.568, 6578107.7609999999 ],
+					[ 672320.8149999999, 6578104.7460000003 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V75996-19",
+				"byggnadsid" : 75996,
+				"zmax" : 30.979973,
+				"zmin" : 4.43,
+				"50A_UUID" : "cd560029-2f50-436f-80ba-ce876a607f69"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672320.8149999999, 6578104.7460000003 ],
+					[ 672321.666, 6578100.8370000003 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V75996-20",
+				"byggnadsid" : 75996,
+				"zmax" : 30.979973,
+				"zmin" : 4.43,
+				"50A_UUID" : "cd560029-2f50-436f-80ba-ce876a607f69"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672321.666, 6578100.8370000003 ],
+					[ 672314.998, 6578099.125 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V75996-21",
+				"byggnadsid" : 75996,
+				"zmax" : 30.979973,
+				"zmin" : 4.43,
+				"50A_UUID" : "cd560029-2f50-436f-80ba-ce876a607f69"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672314.998, 6578099.125 ],
+					[ 672309.476, 6578120.4759999998 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V75996-22",
+				"byggnadsid" : 75996,
+				"zmax" : 30.979973,
+				"zmin" : 4.43,
+				"50A_UUID" : "cd560029-2f50-436f-80ba-ce876a607f69"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672309.476, 6578120.4759999998 ],
+					[ 672297.374, 6578117.4740000004 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V75996-23",
+				"byggnadsid" : 75996,
+				"zmax" : 30.979973,
+				"zmin" : 4.43,
+				"50A_UUID" : "cd560029-2f50-436f-80ba-ce876a607f69"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672297.374, 6578117.4740000004 ],
+					[ 672306.8959999999, 6578080.2740000002 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V75996-24",
+				"byggnadsid" : 75996,
+				"zmax" : 30.979973,
+				"zmin" : 4.43,
+				"50A_UUID" : "cd560029-2f50-436f-80ba-ce876a607f69"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672306.8959999999, 6578080.2740000002 ],
+					[ 672333.686, 6578087.1689999998 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V75996-25",
+				"byggnadsid" : 75996,
+				"zmax" : 30.979973,
+				"zmin" : 4.43,
+				"50A_UUID" : "cd560029-2f50-436f-80ba-ce876a607f69"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672333.686, 6578087.1689999998 ],
+					[ 672329.828, 6578098.4309999999 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V75996-26",
+				"byggnadsid" : 75996,
+				"zmax" : 30.979973,
+				"zmin" : 4.43,
+				"50A_UUID" : "cd560029-2f50-436f-80ba-ce876a607f69"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672329.828, 6578098.4309999999 ],
+					[ 672333.5429999999, 6578103.8820000002 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V75996-27",
+				"byggnadsid" : 75996,
+				"zmax" : 30.979973,
+				"zmin" : 4.43,
+				"50A_UUID" : "cd560029-2f50-436f-80ba-ce876a607f69"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672333.5429999999, 6578103.8820000002 ],
+					[ 672329.828, 6578098.4309999999 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V75996-28",
+				"byggnadsid" : 75996,
+				"zmax" : 30.979973,
+				"zmin" : 4.43,
+				"50A_UUID" : "cd560029-2f50-436f-80ba-ce876a607f69"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672329.828, 6578098.4309999999 ],
+					[ 672333.686, 6578087.1689999998 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V75996-29",
+				"byggnadsid" : 75996,
+				"zmax" : 30.979973,
+				"zmin" : 4.43,
+				"50A_UUID" : "cd560029-2f50-436f-80ba-ce876a607f69"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672333.686, 6578087.1689999998 ],
+					[ 672342.113, 6578089.3669999996 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V75996-30",
+				"byggnadsid" : 75996,
+				"zmax" : 30.979973,
+				"zmin" : 4.43,
+				"50A_UUID" : "cd560029-2f50-436f-80ba-ce876a607f69"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672342.113, 6578089.3669999996 ],
+					[ 672367.451, 6578115.2570000002 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V75996-31",
+				"byggnadsid" : 75996,
+				"zmax" : 30.979973,
+				"zmin" : 4.43,
+				"50A_UUID" : "cd560029-2f50-436f-80ba-ce876a607f69"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672367.451, 6578115.2570000002 ],
+					[ 672346.96, 6578129.6909999996 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V75996-32",
+				"byggnadsid" : 75996,
+				"zmax" : 30.979973,
+				"zmin" : 4.43,
+				"50A_UUID" : "cd560029-2f50-436f-80ba-ce876a607f69"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672346.96, 6578129.6909999996 ],
+					[ 672339.974, 6578119.4890000001 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V75996-33",
+				"byggnadsid" : 75996,
+				"zmax" : 30.979973,
+				"zmin" : 4.43,
+				"50A_UUID" : "cd560029-2f50-436f-80ba-ce876a607f69"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672339.974, 6578119.4890000001 ],
+					[ 672348.353, 6578113.6050000004 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V75996-34",
+				"byggnadsid" : 75996,
+				"zmax" : 30.979973,
+				"zmin" : 4.43,
+				"50A_UUID" : "cd560029-2f50-436f-80ba-ce876a607f69"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672348.353, 6578113.6050000004 ],
+					[ 672340.52, 6578105.6349999998 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V75996-35",
+				"byggnadsid" : 75996,
+				"zmax" : 30.979973,
+				"zmin" : 4.43,
+				"50A_UUID" : "cd560029-2f50-436f-80ba-ce876a607f69"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672340.52, 6578105.6349999998 ],
+					[ 672333.5429999999, 6578103.8820000002 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V75996-36",
+				"byggnadsid" : 75996,
+				"zmax" : 30.979973,
+				"zmin" : 4.43,
+				"50A_UUID" : "cd560029-2f50-436f-80ba-ce876a607f69"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672650.812, 6578108.0089999996 ],
+					[ 672644.941, 6578097.2259999998 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V74171-1",
+				"byggnadsid" : 74171,
+				"zmax" : 76.75,
+				"zmin" : 3.27,
+				"50A_UUID" : "4440bd16-e6da-4927-b900-410e8a0d7485"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672644.941, 6578097.2259999998 ],
+					[ 672655.8149999999, 6578091.3210000005 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V74171-2",
+				"byggnadsid" : 74171,
+				"zmax" : 76.75,
+				"zmin" : 3.27,
+				"50A_UUID" : "4440bd16-e6da-4927-b900-410e8a0d7485"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672655.8149999999, 6578091.3210000005 ],
+					[ 672649.861, 6578080.4189999998 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V74171-3",
+				"byggnadsid" : 74171,
+				"zmax" : 76.75,
+				"zmin" : 3.27,
+				"50A_UUID" : "4440bd16-e6da-4927-b900-410e8a0d7485"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672649.861, 6578080.4189999998 ],
+					[ 672689.3100000001, 6578062.7249999996 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V74171-4",
+				"byggnadsid" : 74171,
+				"zmax" : 76.75,
+				"zmin" : 3.27,
+				"50A_UUID" : "4440bd16-e6da-4927-b900-410e8a0d7485"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672689.3100000001, 6578062.7249999996 ],
+					[ 672711.593, 6578122.0690000001 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V74171-5",
+				"byggnadsid" : 74171,
+				"zmax" : 76.75,
+				"zmin" : 3.27,
+				"50A_UUID" : "4440bd16-e6da-4927-b900-410e8a0d7485"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672711.593, 6578122.0690000001 ],
+					[ 672683.353, 6578132.6140000001 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V74171-6",
+				"byggnadsid" : 74171,
+				"zmax" : 76.75,
+				"zmin" : 3.27,
+				"50A_UUID" : "4440bd16-e6da-4927-b900-410e8a0d7485"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672683.353, 6578132.6140000001 ],
+					[ 672674.461, 6578125.3080000002 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V74171-7",
+				"byggnadsid" : 74171,
+				"zmax" : 76.75,
+				"zmin" : 3.27,
+				"50A_UUID" : "4440bd16-e6da-4927-b900-410e8a0d7485"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672674.461, 6578125.3080000002 ],
+					[ 672659.939, 6578103.04 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V74171-8",
+				"byggnadsid" : 74171,
+				"zmax" : 76.75,
+				"zmin" : 3.27,
+				"50A_UUID" : "4440bd16-e6da-4927-b900-410e8a0d7485"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672659.939, 6578103.04 ],
+					[ 672650.812, 6578108.0089999996 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V74171-9",
+				"byggnadsid" : 74171,
+				"zmax" : 76.75,
+				"zmin" : 3.27,
+				"50A_UUID" : "4440bd16-e6da-4927-b900-410e8a0d7485"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672683.353, 6578132.6140000001 ],
+					[ 672685.5429999999, 6578136.6359999999 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V74171-10",
+				"byggnadsid" : 74171,
+				"zmax" : 76.75,
+				"zmin" : 3.27,
+				"50A_UUID" : "4440bd16-e6da-4927-b900-410e8a0d7485"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672685.5429999999, 6578136.6359999999 ],
+					[ 672669.67, 6578142.6449999996 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V74171-11",
+				"byggnadsid" : 74171,
+				"zmax" : 76.75,
+				"zmin" : 3.27,
+				"50A_UUID" : "4440bd16-e6da-4927-b900-410e8a0d7485"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672669.67, 6578142.6449999996 ],
+					[ 672650.812, 6578108.0089999996 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V74171-12",
+				"byggnadsid" : 74171,
+				"zmax" : 76.75,
+				"zmin" : 3.27,
+				"50A_UUID" : "4440bd16-e6da-4927-b900-410e8a0d7485"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672650.812, 6578108.0089999996 ],
+					[ 672659.939, 6578103.04 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V74171-13",
+				"byggnadsid" : 74171,
+				"zmax" : 76.75,
+				"zmin" : 3.27,
+				"50A_UUID" : "4440bd16-e6da-4927-b900-410e8a0d7485"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672659.939, 6578103.04 ],
+					[ 672674.461, 6578125.3080000002 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V74171-14",
+				"byggnadsid" : 74171,
+				"zmax" : 76.75,
+				"zmin" : 3.27,
+				"50A_UUID" : "4440bd16-e6da-4927-b900-410e8a0d7485"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672674.461, 6578125.3080000002 ],
+					[ 672683.353, 6578132.6140000001 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V74171-15",
+				"byggnadsid" : 74171,
+				"zmax" : 76.75,
+				"zmin" : 3.27,
+				"50A_UUID" : "4440bd16-e6da-4927-b900-410e8a0d7485"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672813.368, 6577973.3159999996 ],
+					[ 672816.35, 6577981.7999999998 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V84005-1",
+				"byggnadsid" : 84005,
+				"zmax" : 36.99,
+				"zmin" : 0.64,
+				"50A_UUID" : "f241fb52-925e-41c8-84ef-9c4fba24a898"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672816.35, 6577981.7999999998 ],
+					[ 672819.598, 6577983.4879999999 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V84005-2",
+				"byggnadsid" : 84005,
+				"zmax" : 36.99,
+				"zmin" : 0.64,
+				"50A_UUID" : "f241fb52-925e-41c8-84ef-9c4fba24a898"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672819.598, 6577983.4879999999 ],
+					[ 672820.257, 6577985.2470000004 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V84005-3",
+				"byggnadsid" : 84005,
+				"zmax" : 36.99,
+				"zmin" : 0.64,
+				"50A_UUID" : "f241fb52-925e-41c8-84ef-9c4fba24a898"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672820.257, 6577985.2470000004 ],
+					[ 672800.746, 6577992.5590000004 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V84005-4",
+				"byggnadsid" : 84005,
+				"zmax" : 36.99,
+				"zmin" : 0.64,
+				"50A_UUID" : "f241fb52-925e-41c8-84ef-9c4fba24a898"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672800.746, 6577992.5590000004 ],
+					[ 672795.972, 6577979.8470000001 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V84005-5",
+				"byggnadsid" : 84005,
+				"zmax" : 36.99,
+				"zmin" : 0.64,
+				"50A_UUID" : "f241fb52-925e-41c8-84ef-9c4fba24a898"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672795.972, 6577979.8470000001 ],
+					[ 672813.368, 6577973.3159999996 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V84005-6",
+				"byggnadsid" : 84005,
+				"zmax" : 36.99,
+				"zmin" : 0.64,
+				"50A_UUID" : "f241fb52-925e-41c8-84ef-9c4fba24a898"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672813.368, 6577973.3159999996 ],
+					[ 672836.101, 6577964.7810000004 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V84005-7",
+				"byggnadsid" : 84005,
+				"zmax" : 36.99,
+				"zmin" : 0.64,
+				"50A_UUID" : "f241fb52-925e-41c8-84ef-9c4fba24a898"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672836.101, 6577964.7810000004 ],
+					[ 672836.769, 6577966.5599999996 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V84005-8",
+				"byggnadsid" : 84005,
+				"zmax" : 36.99,
+				"zmin" : 0.64,
+				"50A_UUID" : "f241fb52-925e-41c8-84ef-9c4fba24a898"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672836.769, 6577966.5599999996 ],
+					[ 672841.45, 6577964.8030000003 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V84005-9",
+				"byggnadsid" : 84005,
+				"zmax" : 36.99,
+				"zmin" : 0.64,
+				"50A_UUID" : "f241fb52-925e-41c8-84ef-9c4fba24a898"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672841.45, 6577964.8030000003 ],
+					[ 672852.273, 6577993.341 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V84005-10",
+				"byggnadsid" : 84005,
+				"zmax" : 36.99,
+				"zmin" : 0.64,
+				"50A_UUID" : "f241fb52-925e-41c8-84ef-9c4fba24a898"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672852.273, 6577993.341 ],
+					[ 672846.679, 6577995.432 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V84005-11",
+				"byggnadsid" : 84005,
+				"zmax" : 36.99,
+				"zmin" : 0.64,
+				"50A_UUID" : "f241fb52-925e-41c8-84ef-9c4fba24a898"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672846.679, 6577995.432 ],
+					[ 672843.213, 6577990.6880000001 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V84005-12",
+				"byggnadsid" : 84005,
+				"zmax" : 36.99,
+				"zmin" : 0.64,
+				"50A_UUID" : "f241fb52-925e-41c8-84ef-9c4fba24a898"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672843.213, 6577990.6880000001 ],
+					[ 672837.627, 6577992.7850000001 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V84005-13",
+				"byggnadsid" : 84005,
+				"zmax" : 36.99,
+				"zmin" : 0.64,
+				"50A_UUID" : "f241fb52-925e-41c8-84ef-9c4fba24a898"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672837.627, 6577992.7850000001 ],
+					[ 672832.9840000001, 6577980.4730000002 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V84005-14",
+				"byggnadsid" : 84005,
+				"zmax" : 36.99,
+				"zmin" : 0.64,
+				"50A_UUID" : "f241fb52-925e-41c8-84ef-9c4fba24a898"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672832.9840000001, 6577980.4730000002 ],
+					[ 672826.78, 6577982.8109999998 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V84005-15",
+				"byggnadsid" : 84005,
+				"zmax" : 36.99,
+				"zmin" : 0.64,
+				"50A_UUID" : "f241fb52-925e-41c8-84ef-9c4fba24a898"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672826.78, 6577982.8109999998 ],
+					[ 672826.1189999999, 6577981.04 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V84005-16",
+				"byggnadsid" : 84005,
+				"zmax" : 36.99,
+				"zmin" : 0.64,
+				"50A_UUID" : "f241fb52-925e-41c8-84ef-9c4fba24a898"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672826.1189999999, 6577981.04 ],
+					[ 672819.598, 6577983.4879999999 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V84005-17",
+				"byggnadsid" : 84005,
+				"zmax" : 36.99,
+				"zmin" : 0.64,
+				"50A_UUID" : "f241fb52-925e-41c8-84ef-9c4fba24a898"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672819.598, 6577983.4879999999 ],
+					[ 672816.35, 6577981.7999999998 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V84005-18",
+				"byggnadsid" : 84005,
+				"zmax" : 36.99,
+				"zmin" : 0.64,
+				"50A_UUID" : "f241fb52-925e-41c8-84ef-9c4fba24a898"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672816.35, 6577981.7999999998 ],
+					[ 672813.368, 6577973.3159999996 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V84005-19",
+				"byggnadsid" : 84005,
+				"zmax" : 36.99,
+				"zmin" : 0.64,
+				"50A_UUID" : "f241fb52-925e-41c8-84ef-9c4fba24a898"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672758.454, 6578002.6600000001 ],
+					[ 672764.169, 6578015.3810000001 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V80357-1",
+				"byggnadsid" : 80357,
+				"zmax" : 30.58,
+				"zmin" : 6.19,
+				"50A_UUID" : "73e13c5b-3324-4db6-8f77-bff3e35c30c0"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672764.169, 6578015.3810000001 ],
+					[ 672755.084, 6578018.7850000001 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V80357-2",
+				"byggnadsid" : 80357,
+				"zmax" : 30.58,
+				"zmin" : 6.19,
+				"50A_UUID" : "73e13c5b-3324-4db6-8f77-bff3e35c30c0"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672755.084, 6578018.7850000001 ],
+					[ 672750.083, 6578005.5439999998 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V80357-3",
+				"byggnadsid" : 80357,
+				"zmax" : 30.58,
+				"zmin" : 6.19,
+				"50A_UUID" : "73e13c5b-3324-4db6-8f77-bff3e35c30c0"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672750.083, 6578005.5439999998 ],
+					[ 672758.454, 6578002.6600000001 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V80357-4",
+				"byggnadsid" : 80357,
+				"zmax" : 30.58,
+				"zmin" : 6.19,
+				"50A_UUID" : "73e13c5b-3324-4db6-8f77-bff3e35c30c0"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672758.454, 6578002.6600000001 ],
+					[ 672764.9570000001, 6578000.2079999996 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V80357-5",
+				"byggnadsid" : 80357,
+				"zmax" : 30.58,
+				"zmin" : 6.19,
+				"50A_UUID" : "73e13c5b-3324-4db6-8f77-bff3e35c30c0"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672764.9570000001, 6578000.2079999996 ],
+					[ 672764.385, 6577998.6919999998 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V80357-6",
+				"byggnadsid" : 80357,
+				"zmax" : 30.58,
+				"zmin" : 6.19,
+				"50A_UUID" : "73e13c5b-3324-4db6-8f77-bff3e35c30c0"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672764.385, 6577998.6919999998 ],
+					[ 672771.787, 6577995.9119999995 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V80357-7",
+				"byggnadsid" : 80357,
+				"zmax" : 30.58,
+				"zmin" : 6.19,
+				"50A_UUID" : "73e13c5b-3324-4db6-8f77-bff3e35c30c0"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672771.787, 6577995.9119999995 ],
+					[ 672772.3540000001, 6577997.4220000003 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V80357-8",
+				"byggnadsid" : 80357,
+				"zmax" : 30.58,
+				"zmin" : 6.19,
+				"50A_UUID" : "73e13c5b-3324-4db6-8f77-bff3e35c30c0"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672772.3540000001, 6577997.4220000003 ],
+					[ 672778.515, 6577999.3090000004 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V80357-9",
+				"byggnadsid" : 80357,
+				"zmax" : 30.58,
+				"zmin" : 6.19,
+				"50A_UUID" : "73e13c5b-3324-4db6-8f77-bff3e35c30c0"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672778.515, 6577999.3090000004 ],
+					[ 672781.5429999999, 6578008.8660000004 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V80357-10",
+				"byggnadsid" : 80357,
+				"zmax" : 30.58,
+				"zmin" : 6.19,
+				"50A_UUID" : "73e13c5b-3324-4db6-8f77-bff3e35c30c0"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672781.5429999999, 6578008.8660000004 ],
+					[ 672764.169, 6578015.3810000001 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V80357-11",
+				"byggnadsid" : 80357,
+				"zmax" : 30.58,
+				"zmin" : 6.19,
+				"50A_UUID" : "73e13c5b-3324-4db6-8f77-bff3e35c30c0"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672764.169, 6578015.3810000001 ],
+					[ 672758.454, 6578002.6600000001 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V80357-12",
+				"byggnadsid" : 80357,
+				"zmax" : 30.58,
+				"zmin" : 6.19,
+				"50A_UUID" : "73e13c5b-3324-4db6-8f77-bff3e35c30c0"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672772.3540000001, 6577997.4220000003 ],
+					[ 672794.09, 6577989.0120000001 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V80357-13",
+				"byggnadsid" : 80357,
+				"zmax" : 30.58,
+				"zmin" : 6.19,
+				"50A_UUID" : "73e13c5b-3324-4db6-8f77-bff3e35c30c0"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672794.09, 6577989.0120000001 ],
+					[ 672799.0550000001, 6578002.284 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V80357-14",
+				"byggnadsid" : 80357,
+				"zmax" : 30.58,
+				"zmin" : 6.19,
+				"50A_UUID" : "73e13c5b-3324-4db6-8f77-bff3e35c30c0"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672799.0550000001, 6578002.284 ],
+					[ 672781.5429999999, 6578008.8660000004 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V80357-15",
+				"byggnadsid" : 80357,
+				"zmax" : 30.58,
+				"zmin" : 6.19,
+				"50A_UUID" : "73e13c5b-3324-4db6-8f77-bff3e35c30c0"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672781.5429999999, 6578008.8660000004 ],
+					[ 672778.515, 6577999.3090000004 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V80357-16",
+				"byggnadsid" : 80357,
+				"zmax" : 30.58,
+				"zmin" : 6.19,
+				"50A_UUID" : "73e13c5b-3324-4db6-8f77-bff3e35c30c0"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 672778.515, 6577999.3090000004 ],
+					[ 672772.3540000001, 6577997.4220000003 ]
+				]
+			},
+			"properties" : {
+				"vaggid" : "V80357-17",
+				"byggnadsid" : 80357,
+				"zmax" : 30.58,
+				"zmin" : 6.19,
+				"50A_UUID" : "73e13c5b-3324-4db6-8f77-bff3e35c30c0"
+			}
+		}
+	]
+}

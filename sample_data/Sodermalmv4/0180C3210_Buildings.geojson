@@ -1,0 +1,3275 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "Buildings",
+	"crs" : {
+		"type" : "name",
+		"properties" : {
+			"name" : "EPSG:3006"
+		}
+	},
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "GeometryCollection",
+				"geometries" : [
+					{
+						"type" : "MultiPolygon",
+						"coordinates" : [
+							[
+								[
+									[ 673642.278, 6578600.5109999999, 26.42 ],
+									[ 673632.925, 6578613.5410000002, 26.42 ],
+									[ 673624.723, 6578621.7419999996, 26.42 ],
+									[ 673617.084, 6578627.8020000001, 26.42 ],
+									[ 673611.704, 6578630.9680000003, 26.42 ],
+									[ 673603.253, 6578617.3439999996, 26.42 ],
+									[ 673613.007, 6578610.8679999998, 26.42 ],
+									[ 673621.946, 6578601.8679999998, 26.42 ],
+									[ 673631.758, 6578587.1720000003, 26.42 ],
+									[ 673638, 6578570.4790000003, 26.42 ],
+									[ 673639.027, 6578565.5580000002, 26.42 ],
+									[ 673640.325, 6578552.9340000004, 26.42 ],
+									[ 673639.206, 6578541.2740000002, 26.42 ],
+									[ 673651.468, 6578539.6500000004, 26.42 ],
+									[ 673654.6800000001, 6578542.716, 26.42 ],
+									[ 673656.03, 6578545.4620000003, 26.42 ],
+									[ 673656.164, 6578555.6069999998, 26.42 ],
+									[ 673655.099, 6578566.2139999997, 26.42 ],
+									[ 673652.8370000001, 6578576.6310000001, 26.42 ],
+									[ 673649.194, 6578587.2209999999, 26.42 ],
+									[ 673642.278, 6578600.5109999999, 26.42 ]
+								]
+							],
+							[
+								[
+									[ 673642.278, 6578600.5109999999, 26.42 ],
+									[ 673642.278, 6578600.5109999999, 65.67 ],
+									[ 673632.925, 6578613.5410000002, 65.67 ],
+									[ 673632.925, 6578613.5410000002, 26.42 ],
+									[ 673642.278, 6578600.5109999999, 26.42 ]
+								]
+							],
+							[
+								[
+									[ 673632.925, 6578613.5410000002, 26.42 ],
+									[ 673632.925, 6578613.5410000002, 65.67 ],
+									[ 673624.723, 6578621.7419999996, 65.67 ],
+									[ 673624.723, 6578621.7419999996, 26.42 ],
+									[ 673632.925, 6578613.5410000002, 26.42 ]
+								]
+							],
+							[
+								[
+									[ 673624.723, 6578621.7419999996, 26.42 ],
+									[ 673624.723, 6578621.7419999996, 65.67 ],
+									[ 673617.084, 6578627.8020000001, 65.67 ],
+									[ 673617.084, 6578627.8020000001, 26.42 ],
+									[ 673624.723, 6578621.7419999996, 26.42 ]
+								]
+							],
+							[
+								[
+									[ 673617.084, 6578627.8020000001, 26.42 ],
+									[ 673617.084, 6578627.8020000001, 65.67 ],
+									[ 673611.704, 6578630.9680000003, 65.67 ],
+									[ 673611.704, 6578630.9680000003, 26.42 ],
+									[ 673617.084, 6578627.8020000001, 26.42 ]
+								]
+							],
+							[
+								[
+									[ 673611.704, 6578630.9680000003, 26.42 ],
+									[ 673611.704, 6578630.9680000003, 65.67 ],
+									[ 673603.253, 6578617.3439999996, 65.67 ],
+									[ 673603.253, 6578617.3439999996, 26.42 ],
+									[ 673611.704, 6578630.9680000003, 26.42 ]
+								]
+							],
+							[
+								[
+									[ 673603.253, 6578617.3439999996, 26.42 ],
+									[ 673603.253, 6578617.3439999996, 65.67 ],
+									[ 673613.007, 6578610.8679999998, 65.67 ],
+									[ 673613.007, 6578610.8679999998, 26.42 ],
+									[ 673603.253, 6578617.3439999996, 26.42 ]
+								]
+							],
+							[
+								[
+									[ 673613.007, 6578610.8679999998, 26.42 ],
+									[ 673613.007, 6578610.8679999998, 65.67 ],
+									[ 673621.946, 6578601.8679999998, 65.67 ],
+									[ 673621.946, 6578601.8679999998, 26.42 ],
+									[ 673613.007, 6578610.8679999998, 26.42 ]
+								]
+							],
+							[
+								[
+									[ 673621.946, 6578601.8679999998, 26.42 ],
+									[ 673621.946, 6578601.8679999998, 65.67 ],
+									[ 673631.758, 6578587.1720000003, 65.67 ],
+									[ 673631.758, 6578587.1720000003, 26.42 ],
+									[ 673621.946, 6578601.8679999998, 26.42 ]
+								]
+							],
+							[
+								[
+									[ 673631.758, 6578587.1720000003, 26.42 ],
+									[ 673631.758, 6578587.1720000003, 65.67 ],
+									[ 673638, 6578570.4790000003, 65.67 ],
+									[ 673638, 6578570.4790000003, 26.42 ],
+									[ 673631.758, 6578587.1720000003, 26.42 ]
+								]
+							],
+							[
+								[
+									[ 673638, 6578570.4790000003, 26.42 ],
+									[ 673638, 6578570.4790000003, 65.67 ],
+									[ 673639.027, 6578565.5580000002, 65.67 ],
+									[ 673639.027, 6578565.5580000002, 26.42 ],
+									[ 673638, 6578570.4790000003, 26.42 ]
+								]
+							],
+							[
+								[
+									[ 673639.027, 6578565.5580000002, 26.42 ],
+									[ 673639.027, 6578565.5580000002, 65.67 ],
+									[ 673640.325, 6578552.9340000004, 65.67 ],
+									[ 673640.325, 6578552.9340000004, 26.42 ],
+									[ 673639.027, 6578565.5580000002, 26.42 ]
+								]
+							],
+							[
+								[
+									[ 673640.325, 6578552.9340000004, 26.42 ],
+									[ 673640.325, 6578552.9340000004, 65.67 ],
+									[ 673639.206, 6578541.2740000002, 65.67 ],
+									[ 673639.206, 6578541.2740000002, 26.42 ],
+									[ 673640.325, 6578552.9340000004, 26.42 ]
+								]
+							],
+							[
+								[
+									[ 673639.206, 6578541.2740000002, 26.42 ],
+									[ 673639.206, 6578541.2740000002, 65.67 ],
+									[ 673651.468, 6578539.6500000004, 65.67 ],
+									[ 673651.468, 6578539.6500000004, 26.42 ],
+									[ 673639.206, 6578541.2740000002, 26.42 ]
+								]
+							],
+							[
+								[
+									[ 673651.468, 6578539.6500000004, 26.42 ],
+									[ 673651.468, 6578539.6500000004, 65.67 ],
+									[ 673654.6800000001, 6578542.716, 65.67 ],
+									[ 673654.6800000001, 6578542.716, 26.42 ],
+									[ 673651.468, 6578539.6500000004, 26.42 ]
+								]
+							],
+							[
+								[
+									[ 673654.6800000001, 6578542.716, 26.42 ],
+									[ 673654.6800000001, 6578542.716, 65.67 ],
+									[ 673656.03, 6578545.4620000003, 65.67 ],
+									[ 673656.03, 6578545.4620000003, 26.42 ],
+									[ 673654.6800000001, 6578542.716, 26.42 ]
+								]
+							],
+							[
+								[
+									[ 673656.03, 6578545.4620000003, 26.42 ],
+									[ 673656.03, 6578545.4620000003, 65.67 ],
+									[ 673656.164, 6578555.6069999998, 65.67 ],
+									[ 673656.164, 6578555.6069999998, 26.42 ],
+									[ 673656.03, 6578545.4620000003, 26.42 ]
+								]
+							],
+							[
+								[
+									[ 673656.164, 6578555.6069999998, 26.42 ],
+									[ 673656.164, 6578555.6069999998, 65.67 ],
+									[ 673655.099, 6578566.2139999997, 65.67 ],
+									[ 673655.099, 6578566.2139999997, 26.42 ],
+									[ 673656.164, 6578555.6069999998, 26.42 ]
+								]
+							],
+							[
+								[
+									[ 673655.099, 6578566.2139999997, 26.42 ],
+									[ 673655.099, 6578566.2139999997, 65.67 ],
+									[ 673652.8370000001, 6578576.6310000001, 65.67 ],
+									[ 673652.8370000001, 6578576.6310000001, 26.42 ],
+									[ 673655.099, 6578566.2139999997, 26.42 ]
+								]
+							],
+							[
+								[
+									[ 673652.8370000001, 6578576.6310000001, 26.42 ],
+									[ 673652.8370000001, 6578576.6310000001, 65.67 ],
+									[ 673649.194, 6578587.2209999999, 65.67 ],
+									[ 673649.194, 6578587.2209999999, 26.42 ],
+									[ 673652.8370000001, 6578576.6310000001, 26.42 ]
+								]
+							],
+							[
+								[
+									[ 673649.194, 6578587.2209999999, 26.42 ],
+									[ 673649.194, 6578587.2209999999, 65.67 ],
+									[ 673642.278, 6578600.5109999999, 65.67 ],
+									[ 673642.278, 6578600.5109999999, 26.42 ],
+									[ 673649.194, 6578587.2209999999, 26.42 ]
+								]
+							],
+							[
+								[
+									[ 673642.278, 6578600.5109999999, 65.67 ],
+									[ 673632.925, 6578613.5410000002, 65.67 ],
+									[ 673624.723, 6578621.7419999996, 65.67 ],
+									[ 673617.084, 6578627.8020000001, 65.67 ],
+									[ 673611.704, 6578630.9680000003, 65.67 ],
+									[ 673603.253, 6578617.3439999996, 65.67 ],
+									[ 673613.007, 6578610.8679999998, 65.67 ],
+									[ 673621.946, 6578601.8679999998, 65.67 ],
+									[ 673631.758, 6578587.1720000003, 65.67 ],
+									[ 673638, 6578570.4790000003, 65.67 ],
+									[ 673639.027, 6578565.5580000002, 65.67 ],
+									[ 673640.325, 6578552.9340000004, 65.67 ],
+									[ 673639.206, 6578541.2740000002, 65.67 ],
+									[ 673651.468, 6578539.6500000004, 65.67 ],
+									[ 673654.6800000001, 6578542.716, 65.67 ],
+									[ 673656.03, 6578545.4620000003, 65.67 ],
+									[ 673656.164, 6578555.6069999998, 65.67 ],
+									[ 673655.099, 6578566.2139999997, 65.67 ],
+									[ 673652.8370000001, 6578576.6310000001, 65.67 ],
+									[ 673649.194, 6578587.2209999999, 65.67 ],
+									[ 673642.278, 6578600.5109999999, 65.67 ]
+								]
+							]
+						]
+					}
+				]
+			},
+			"properties" : {
+				"42P_ByggnadsAgare" : "HSB bostadsrätt",
+				"42P_ByggnadsAgareGruppEnkel" : "Bostadsrättsförening",
+				"42P_ByggnadsAgareGruppStor" : "Stor bostadsrättsförening",
+				"43O_ARVARDE" : null,
+				"43O_BYGGAR" : null,
+				"43O_TILLBYAR" : null,
+				"43S_ARVARDE" : 1964,
+				"43S_BYGGAR" : 1964,
+				"43S_TILLBYAR" : "",
+				"43T_ARVARDE" : "1964",
+				"43T_BYGGAR" : "1964",
+				"43T_TILLBYAR" : "",
+				"50A_ByggnadsAndamal" : "Flerbostadshus",
+				"50A_ByggnadsKategori" : "Flerbostadshus",
+				"50A_UUID" : "63011690-6956-4e1f-9abd-9a1b4e03e443",
+				"byggnadsid" : 88519,
+				"Deso" : "0180C3210",
+				"EgenAntalBolgh" : "240",
+				"EgenAntalKallarplan" : "1",
+				"EgenAntalPlan" : "14",
+				"EgenAntalTrapphus" : "5",
+				"EgenAtemp" : 19110,
+				"EgenAtempBad" : "",
+				"EgenAtempBostad" : "98",
+				"EgenAtempButik" : "",
+				"EgenAtempHotell" : "",
+				"EgenAtempKontor" : "1",
+				"EgenAtempKopcentrum" : "",
+				"EgenAtempLivsmedel" : "",
+				"EgenAtempOvrig" : "",
+				"EgenAtempOvrigaVad" : "",
+				"EgenAtempRestaurang" : "",
+				"EgenAtempSkolor" : "1",
+				"EgenAtempSumma" : 100,
+				"EgenAtempTeater" : "",
+				"EgenAtempVard" : "",
+				"EgenAtempVardDag" : "",
+				"EgenAvarmgarage" : "",
+				"EgenBOA" : null,
+				"EgenBRA" : null,
+				"EgenBTA" : null,
+				"EgenByggnadsKat" : "Flerbostadshus",
+				"EgenByggnadsTyp" : "Friliggande",
+				"EgenGruppAtemp" : null,
+				"EgenInstEleffektStorre" : "Nej",
+				"EgenKomplexitet" : "Enkel",
+				"EgenLOA" : null,
+				"EgenNybyggAr" : 1964,
+				"EgenProjVentFlode" : "0.35000000000000003",
+				"EgenSarskiltVardefull" : null,
+				"EgenSkyddadByggnad" : null,
+				"EgenSkyddadEllerVardefull" : "4",
+				"EgenSmaLagenheter" : "Nej",
+				"EgenTypkod" : "321A",
+				"EgenTypkod_typ" : "321A - Hyreshusenhet, bostäder >= 50%",
+				"EgiBeraknatVarde" : "Nej",
+				"EgiBerElProduktion" : "",
+				"EgiBerEngProduktion" : "",
+				"EgiElDirekt" : null,
+				"EgiElDirektUPPV" : 0,
+				"EgiElLuft" : null,
+				"EgiElLuftUPPV" : 0,
+				"EgiElVatten" : null,
+				"EgiElVattenUPPV" : 0,
+				"EgiElVV" : 0,
+				"EgiEnergianvandning" : 2573976,
+				"EgiEnergiklass" : "E",
+				"EgiEnergiPrestanda" : 135,
+				"EgiFastighet" : 198900,
+				"EgiFjarrkyla" : 0,
+				"EgiFjarrvarme" : null,
+				"EgiFjarrvarmeUPPV" : 1701800,
+				"EgiFjarrvarmeVV" : 396100,
+				"EgiFlis" : null,
+				"EgiFlisUPPV" : 0,
+				"EgiFlisVV" : 0,
+				"EgiForstaArManad" : "1801",
+				"EgiGas" : null,
+				"EgiGasUPPV" : 0,
+				"EgiGasVV" : 0,
+				"EgiGruppElDirekt" : null,
+				"EgiGruppElLuft" : null,
+				"EgiGruppElVatten" : null,
+				"EgiGruppFastighet" : null,
+				"EgiGruppFjarrkyla" : null,
+				"EgiGruppFjarrvarme" : null,
+				"EgiGruppFlis" : null,
+				"EgiGruppGas" : null,
+				"EgiGruppHushall" : null,
+				"EgiGruppKomfort" : null,
+				"EgiGruppOlja" : null,
+				"EgiGruppOvrBiobransle" : null,
+				"EgiGruppPumpFranluft" : null,
+				"EgiGruppPumpLuftLuft" : null,
+				"EgiGruppPumpLuftVatten" : null,
+				"EgiGruppPumpMark" : null,
+				"EgiGruppSolcell" : "Nej",
+				"EgiGruppSolvarme" : "Nej",
+				"EgiGruppVed" : null,
+				"EgiGruppVerksamhet" : null,
+				"EgiGruppVVBered" : null,
+				"EgiHushall" : "",
+				"EgiKomfort" : 0,
+				"EgiKomfortTillagg" : null,
+				"EgiNormKorrEI" : null,
+				"EgiNormKorrGD" : null,
+				"EgiOlja" : null,
+				"EgiOljaUPPV" : 0,
+				"EgiOljaVV" : 0,
+				"EgiOvrBiobransle" : null,
+				"EgiOvrBiobransleUPPV" : 0,
+				"EgiOvrBiobransleVV" : 0,
+				"EgiPrimarenergianvandning" : 2693316,
+				"EgiPrimarenergital" : 141,
+				"EgiPumpFranluft" : null,
+				"EgiPumpFranluftUPPV" : 0,
+				"EgiPumpLuftLuft" : null,
+				"EgiPumpLuftLuftUPPV" : 0,
+				"EgiPumpLuftVatten" : null,
+				"EgiPumpLuftVattenUPPV" : 0,
+				"EgiPumpMark" : null,
+				"EgiPumpMarkUPPV" : 0,
+				"EgiRefvarde1" : 85,
+				"EgiRefvarde2Max" : 160,
+				"EgiRefvarde2Min" : null,
+				"EgiRefvarde3" : "",
+				"EgiSistaArManad" : "1812",
+				"EgiSolcell" : "",
+				"EgiSolvarme" : "",
+				"EgiStationEI" : "Stockholm",
+				"EgiStationGD" : null,
+				"EgiSumma1" : null,
+				"EgiSumma2" : 2296800,
+				"EgiSumma3" : null,
+				"EgiSumma4" : null,
+				"EgiVaravEl" : null,
+				"EgiVed" : null,
+				"EgiVedUPPV" : 0,
+				"EgiVedVV" : 0,
+				"EgiVerksamhet" : "86000",
+				"EgiVersion" : 2019,
+				"EgiVVBered" : null,
+				"FNR" : "010095446",
+				"Footprint_area_Sweref" : 3132.8034899998247,
+				"FormularId" : 990216,
+				"Godkand" : "2019-12-27",
+				"height" : 42,
+				"IdAdr" : "Flintbacken 10",
+				"IdEgnaHem" : "0",
+				"IdFastBet" : "Kulltorp 2",
+				"IdHusnr" : 1,
+				"IdHuvudadress" : "Ja",
+				"IdKommun" : "Stockholm",
+				"IdKommunkod" : "80",
+				"IdLan" : "Stockholms län",
+				"IdLankod" : "01",
+				"IdPostnr" : "11842",
+				"IdPostort" : "Stockholm",
+				"IdRapportLM" : "",
+				"LuftGruppFinnsluft" : "Nej",
+				"vaggid" : "V54774-3;V54774-4;V54810-10;V54810-11;V54810-12;V54810-13;V54810-14;V54810-8;V54810-9;V56993-1;V56993-2;V56993-3;V56993-4;V56993-7;V57990-10;V58650-2;V58650-4;V58650-5;V58650-7;V58650-83;V58650-84;V59015-1;V59015-10;V59015-11;V59015-12;V59015-13;V59015-18;V59015-2;V59015-3;V59015-4;V59015-5;V59015-6;V59015-7;V59015-8;V59015-9;V59101-10;V59101-11;V59101-7;V59101-8;V59101-9;V59127-1;V59127-2;V59127-3;V63399-1;V63399-2;V63399-3;V63399-8;V67825-2;V67825-3;V71455-1;V71455-4;V73206-1;V76110-1;V76110-4;V76148-10;V76148-11;V76148-4;V76148-9;V76781-10;V76781-11;V76781-13;V76781-14;V76781-15;V76781-5;V76781-6;V76781-7;V76781-8;V76781-9;V79729-1;V79729-2;V82640-17;V82640-18;V82640-20;V82640-21;V82640-4;V82640-5;V83490-3;V83490-4;V83490-5;V84097-3;V87098-5",
+				"VentDelvisProcent" : "",
+				"VentGruppGodkand" : "Ja",
+				"VentGruppKrav" : "Ja",
+				"VentTypF" : "Ja",
+				"VentTypFmed" : "Nej",
+				"VentTypFT" : "Nej",
+				"VentTypFTX" : "Nej",
+				"VentTypSjalvdrag" : "Nej",
+				"Version" : "2.6"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "GeometryCollection",
+				"geometries" : [
+					{
+						"type" : "MultiPolygon",
+						"coordinates" : [
+							[
+								[
+									[ 673728.547, 6578795.9529999997, 23.6 ],
+									[ 673743.747, 6578814.3550000004, 23.6 ],
+									[ 673739.058, 6578817.9649999999, 23.6 ],
+									[ 673724.008, 6578800.0020000003, 23.6 ],
+									[ 673728.547, 6578795.9529999997, 23.6 ]
+								]
+							],
+							[
+								[
+									[ 673728.547, 6578795.9529999997, 23.6 ],
+									[ 673728.547, 6578795.9529999997, 28.52 ],
+									[ 673743.747, 6578814.3550000004, 28.52 ],
+									[ 673743.747, 6578814.3550000004, 23.6 ],
+									[ 673728.547, 6578795.9529999997, 23.6 ]
+								]
+							],
+							[
+								[
+									[ 673743.747, 6578814.3550000004, 23.6 ],
+									[ 673743.747, 6578814.3550000004, 28.52 ],
+									[ 673739.058, 6578817.9649999999, 28.52 ],
+									[ 673739.058, 6578817.9649999999, 23.6 ],
+									[ 673743.747, 6578814.3550000004, 23.6 ]
+								]
+							],
+							[
+								[
+									[ 673739.058, 6578817.9649999999, 23.6 ],
+									[ 673739.058, 6578817.9649999999, 28.52 ],
+									[ 673724.008, 6578800.0020000003, 28.52 ],
+									[ 673724.008, 6578800.0020000003, 23.6 ],
+									[ 673739.058, 6578817.9649999999, 23.6 ]
+								]
+							],
+							[
+								[
+									[ 673724.008, 6578800.0020000003, 23.6 ],
+									[ 673724.008, 6578800.0020000003, 28.52 ],
+									[ 673728.547, 6578795.9529999997, 28.52 ],
+									[ 673728.547, 6578795.9529999997, 23.6 ],
+									[ 673724.008, 6578800.0020000003, 23.6 ]
+								]
+							],
+							[
+								[
+									[ 673728.547, 6578795.9529999997, 28.52 ],
+									[ 673743.747, 6578814.3550000004, 28.52 ],
+									[ 673739.058, 6578817.9649999999, 28.52 ],
+									[ 673724.008, 6578800.0020000003, 28.52 ],
+									[ 673728.547, 6578795.9529999997, 28.52 ]
+								]
+							]
+						]
+					}
+				]
+			},
+			"properties" : {
+				"42P_ByggnadsAgare" : "Stockholm",
+				"42P_ByggnadsAgareGruppEnkel" : "Aktiebolag",
+				"42P_ByggnadsAgareGruppStor" : "Kommunalt bolag",
+				"43O_ARVARDE" : null,
+				"43O_BYGGAR" : null,
+				"43O_TILLBYAR" : null,
+				"43S_ARVARDE" : null,
+				"43S_BYGGAR" : null,
+				"43S_TILLBYAR" : null,
+				"43T_ARVARDE" : null,
+				"43T_BYGGAR" : null,
+				"43T_TILLBYAR" : null,
+				"50A_ByggnadsAndamal" : "Samhällsfunktion",
+				"50A_ByggnadsKategori" : "Lokal",
+				"50A_UUID" : "c70151e8-d849-4271-9957-eb807152fd10",
+				"byggnadsid" : 73206,
+				"Deso" : "0180C3210",
+				"EgenAntalBolgh" : "",
+				"EgenAntalKallarplan" : "0",
+				"EgenAntalPlan" : "2",
+				"EgenAntalTrapphus" : "",
+				"EgenAtemp" : 387,
+				"EgenAtempBad" : "",
+				"EgenAtempBostad" : "",
+				"EgenAtempButik" : "",
+				"EgenAtempHotell" : "",
+				"EgenAtempKontor" : "",
+				"EgenAtempKopcentrum" : "",
+				"EgenAtempLivsmedel" : "",
+				"EgenAtempOvrig" : "",
+				"EgenAtempOvrigaVad" : "",
+				"EgenAtempRestaurang" : "",
+				"EgenAtempSkolor" : "",
+				"EgenAtempSumma" : 100,
+				"EgenAtempTeater" : "100",
+				"EgenAtempVard" : "",
+				"EgenAtempVardDag" : "",
+				"EgenAvarmgarage" : "",
+				"EgenBOA" : "",
+				"EgenBRA" : "",
+				"EgenBTA" : "",
+				"EgenByggnadsKat" : "Lokalbyggnader",
+				"EgenByggnadsTyp" : "Friliggande",
+				"EgenGruppAtemp" : "Mätt",
+				"EgenInstEleffektStorre" : "Nej",
+				"EgenKomplexitet" : "Komplex",
+				"EgenLOA" : "",
+				"EgenNybyggAr" : 1711,
+				"EgenProjVentFlode" : "0.35000000000000003",
+				"EgenSarskiltVardefull" : "Ja, är utpekad i detaljplan eller områdesbestämmerlse ",
+				"EgenSkyddadByggnad" : "Ja enligt 3 kap KML",
+				"EgenSkyddadEllerVardefull" : null,
+				"EgenSmaLagenheter" : "Nej",
+				"EgenTypkod" : "826",
+				"EgenTypkod_typ" : "826 - Specialenhet, kulturbyggnad",
+				"EgiBeraknatVarde" : "Nej",
+				"EgiBerElProduktion" : "",
+				"EgiBerEngProduktion" : "",
+				"EgiElDirekt" : 47000,
+				"EgiElDirektUPPV" : 42300,
+				"EgiElLuft" : 0,
+				"EgiElLuftUPPV" : 0,
+				"EgiElVatten" : 0,
+				"EgiElVattenUPPV" : 0,
+				"EgiElVV" : 4700,
+				"EgiEnergianvandning" : null,
+				"EgiEnergiklass" : "G",
+				"EgiEnergiPrestanda" : 137,
+				"EgiFastighet" : 2000,
+				"EgiFjarrkyla" : 0,
+				"EgiFjarrvarme" : 0,
+				"EgiFjarrvarmeUPPV" : 0,
+				"EgiFjarrvarmeVV" : 0,
+				"EgiFlis" : 0,
+				"EgiFlisUPPV" : 0,
+				"EgiFlisVV" : 0,
+				"EgiForstaArManad" : "1301",
+				"EgiGas" : 0,
+				"EgiGasUPPV" : 0,
+				"EgiGasVV" : 0,
+				"EgiGruppElDirekt" : "Fördelat",
+				"EgiGruppElLuft" : "",
+				"EgiGruppElVatten" : "",
+				"EgiGruppFastighet" : "Fördelat",
+				"EgiGruppFjarrkyla" : "",
+				"EgiGruppFjarrvarme" : "",
+				"EgiGruppFlis" : "",
+				"EgiGruppGas" : "",
+				"EgiGruppHushall" : "",
+				"EgiGruppKomfort" : "",
+				"EgiGruppOlja" : "",
+				"EgiGruppOvrBiobransle" : "",
+				"EgiGruppPumpFranluft" : "",
+				"EgiGruppPumpLuftLuft" : "",
+				"EgiGruppPumpLuftVatten" : "",
+				"EgiGruppPumpMark" : "",
+				"EgiGruppSolcell" : "Nej",
+				"EgiGruppSolvarme" : "Nej",
+				"EgiGruppVed" : "",
+				"EgiGruppVerksamhet" : "",
+				"EgiGruppVVBered" : "Fördelat",
+				"EgiHushall" : "",
+				"EgiKomfort" : 0,
+				"EgiKomfortTillagg" : "0",
+				"EgiNormKorrEI" : "53035",
+				"EgiNormKorrGD" : "51826",
+				"EgiOlja" : "0",
+				"EgiOljaUPPV" : 0,
+				"EgiOljaVV" : 0,
+				"EgiOvrBiobransle" : 0,
+				"EgiOvrBiobransleUPPV" : 0,
+				"EgiOvrBiobransleVV" : 0,
+				"EgiPrimarenergianvandning" : 84830,
+				"EgiPrimarenergital" : 219,
+				"EgiPumpFranluft" : 0,
+				"EgiPumpFranluftUPPV" : 0,
+				"EgiPumpLuftLuft" : 0,
+				"EgiPumpLuftLuftUPPV" : 0,
+				"EgiPumpLuftVatten" : 0,
+				"EgiPumpLuftVattenUPPV" : 0,
+				"EgiPumpMark" : 0,
+				"EgiPumpMarkUPPV" : 0,
+				"EgiRefvarde1" : 70,
+				"EgiRefvarde2Max" : 204,
+				"EgiRefvarde2Min" : 136,
+				"EgiRefvarde3" : null,
+				"EgiSistaArManad" : "1312",
+				"EgiSolcell" : "",
+				"EgiSolvarme" : "",
+				"EgiStationEI" : "Stockholm",
+				"EgiStationGD" : "Stockholm",
+				"EgiSumma1" : 47000,
+				"EgiSumma2" : 49000,
+				"EgiSumma3" : 49000,
+				"EgiSumma4" : 49000,
+				"EgiVaravEl" : 137,
+				"EgiVed" : 0,
+				"EgiVedUPPV" : 0,
+				"EgiVedVV" : 0,
+				"EgiVerksamhet" : "",
+				"EgiVersion" : 2015,
+				"EgiVVBered" : 4700,
+				"FNR" : "010500125",
+				"Footprint_area_Sweref" : 283.6304850004109,
+				"FormularId" : 624020,
+				"Godkand" : "2015-04-08",
+				"height" : 6,
+				"IdAdr" : "Ekermans Gränd 3",
+				"IdEgnaHem" : "Nej",
+				"IdFastBet" : "Ekermanska Gården 1",
+				"IdHusnr" : 1,
+				"IdHuvudadress" : "Ja",
+				"IdKommun" : "Stockholm",
+				"IdKommunkod" : "80",
+				"IdLan" : "Stockholms län",
+				"IdLankod" : "01",
+				"IdPostnr" : "11867",
+				"IdPostort" : "Stockholm",
+				"IdRapportLM" : "",
+				"LuftGruppFinnsluft" : "Nej",
+				"vaggid" : "V54774-1;V54774-2;V54774-4;V56993-4;V56993-5;V62503-1;V62503-2;V62503-3;V62503-4;V62503-5;V62503-6;V62588-4;V65319-11;V65319-12;V68388-2;V70766-5;V74685-3;V76110-3;V76148-4;V76148-5;V76148-6;V76148-7;V76997-12;V81213-4;V84097-1;V84097-2;V84097-6;V84908-1;V84908-11;V84908-12;V84908-13;V84908-14;V88074-1;V88074-10;V88074-11;V88074-9;V88519-1;V88519-2",
+				"VentDelvisProcent" : null,
+				"VentGruppGodkand" : null,
+				"VentGruppKrav" : null,
+				"VentTypF" : null,
+				"VentTypFmed" : null,
+				"VentTypFT" : null,
+				"VentTypFTX" : null,
+				"VentTypSjalvdrag" : null,
+				"Version" : "2.3"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "GeometryCollection",
+				"geometries" : [
+					{
+						"type" : "MultiPolygon",
+						"coordinates" : [
+							[
+								[
+									[ 673612.314, 6578672.2470000004, 18.57 ],
+									[ 673612.218, 6578669.6770000001, 18.57 ],
+									[ 673637.839, 6578651.3130000001, 18.57 ],
+									[ 673644.606, 6578654.5439999998, 18.57 ],
+									[ 673647.585, 6578685.8590000002, 18.57 ],
+									[ 673642.366, 6578689.5800000001, 18.57 ],
+									[ 673612.447, 6578675.8380000005, 18.57 ],
+									[ 673612.314, 6578672.2470000004, 18.57 ]
+								]
+							],
+							[
+								[
+									[ 673612.314, 6578672.2470000004, 18.57 ],
+									[ 673612.314, 6578672.2470000004, 42.64 ],
+									[ 673612.218, 6578669.6770000001, 42.64 ],
+									[ 673612.218, 6578669.6770000001, 18.57 ],
+									[ 673612.314, 6578672.2470000004, 18.57 ]
+								]
+							],
+							[
+								[
+									[ 673612.218, 6578669.6770000001, 18.57 ],
+									[ 673612.218, 6578669.6770000001, 42.64 ],
+									[ 673637.839, 6578651.3130000001, 42.64 ],
+									[ 673637.839, 6578651.3130000001, 18.57 ],
+									[ 673612.218, 6578669.6770000001, 18.57 ]
+								]
+							],
+							[
+								[
+									[ 673637.839, 6578651.3130000001, 18.57 ],
+									[ 673637.839, 6578651.3130000001, 42.64 ],
+									[ 673644.606, 6578654.5439999998, 42.64 ],
+									[ 673644.606, 6578654.5439999998, 18.57 ],
+									[ 673637.839, 6578651.3130000001, 18.57 ]
+								]
+							],
+							[
+								[
+									[ 673644.606, 6578654.5439999998, 18.57 ],
+									[ 673644.606, 6578654.5439999998, 42.64 ],
+									[ 673647.585, 6578685.8590000002, 42.64 ],
+									[ 673647.585, 6578685.8590000002, 18.57 ],
+									[ 673644.606, 6578654.5439999998, 18.57 ]
+								]
+							],
+							[
+								[
+									[ 673647.585, 6578685.8590000002, 18.57 ],
+									[ 673647.585, 6578685.8590000002, 42.64 ],
+									[ 673642.366, 6578689.5800000001, 42.64 ],
+									[ 673642.366, 6578689.5800000001, 18.57 ],
+									[ 673647.585, 6578685.8590000002, 18.57 ]
+								]
+							],
+							[
+								[
+									[ 673642.366, 6578689.5800000001, 18.57 ],
+									[ 673642.366, 6578689.5800000001, 42.64 ],
+									[ 673612.447, 6578675.8380000005, 42.64 ],
+									[ 673612.447, 6578675.8380000005, 18.57 ],
+									[ 673642.366, 6578689.5800000001, 18.57 ]
+								]
+							],
+							[
+								[
+									[ 673612.447, 6578675.8380000005, 18.57 ],
+									[ 673612.447, 6578675.8380000005, 42.64 ],
+									[ 673612.314, 6578672.2470000004, 42.64 ],
+									[ 673612.314, 6578672.2470000004, 18.57 ],
+									[ 673612.447, 6578675.8380000005, 18.57 ]
+								]
+							],
+							[
+								[
+									[ 673612.314, 6578672.2470000004, 42.64 ],
+									[ 673612.218, 6578669.6770000001, 42.64 ],
+									[ 673637.839, 6578651.3130000001, 42.64 ],
+									[ 673644.606, 6578654.5439999998, 42.64 ],
+									[ 673647.585, 6578685.8590000002, 42.64 ],
+									[ 673642.366, 6578689.5800000001, 42.64 ],
+									[ 673612.447, 6578675.8380000005, 42.64 ],
+									[ 673612.314, 6578672.2470000004, 42.64 ]
+								]
+							]
+						]
+					}
+				]
+			},
+			"properties" : {
+				"42P_ByggnadsAgare" : "SBB",
+				"42P_ByggnadsAgareGruppEnkel" : "Övrigt",
+				"42P_ByggnadsAgareGruppStor" : "Stort aktiebolag",
+				"43O_ARVARDE" : null,
+				"43O_BYGGAR" : null,
+				"43O_TILLBYAR" : null,
+				"43S_ARVARDE" : null,
+				"43S_BYGGAR" : null,
+				"43S_TILLBYAR" : null,
+				"43T_ARVARDE" : null,
+				"43T_BYGGAR" : null,
+				"43T_TILLBYAR" : null,
+				"50A_ByggnadsAndamal" : "Samhällsfunktion",
+				"50A_ByggnadsKategori" : "Lokal",
+				"50A_UUID" : "b8b208f5-849e-497a-beae-0d8d9aac518c",
+				"byggnadsid" : 56993,
+				"Deso" : "0180C3210",
+				"EgenAntalBolgh" : "84",
+				"EgenAntalKallarplan" : "1",
+				"EgenAntalPlan" : "10",
+				"EgenAntalTrapphus" : "1",
+				"EgenAtemp" : 6352,
+				"EgenAtempBad" : "",
+				"EgenAtempBostad" : "",
+				"EgenAtempButik" : "",
+				"EgenAtempHotell" : "",
+				"EgenAtempKontor" : "",
+				"EgenAtempKopcentrum" : "",
+				"EgenAtempLivsmedel" : "",
+				"EgenAtempOvrig" : "",
+				"EgenAtempOvrigaVad" : "",
+				"EgenAtempRestaurang" : "",
+				"EgenAtempSkolor" : "",
+				"EgenAtempSumma" : 100,
+				"EgenAtempTeater" : "",
+				"EgenAtempVard" : "100",
+				"EgenAtempVardDag" : "",
+				"EgenAvarmgarage" : "0",
+				"EgenBOA" : "",
+				"EgenBRA" : "6352",
+				"EgenBTA" : "",
+				"EgenByggnadsKat" : "Lokalbyggnader",
+				"EgenByggnadsTyp" : "Friliggande",
+				"EgenGruppAtemp" : "Mätt",
+				"EgenInstEleffektStorre" : "",
+				"EgenKomplexitet" : "Enkel",
+				"EgenLOA" : "",
+				"EgenNybyggAr" : 1966,
+				"EgenProjVentFlode" : "",
+				"EgenSarskiltVardefull" : "",
+				"EgenSkyddadByggnad" : "",
+				"EgenSkyddadEllerVardefull" : null,
+				"EgenSmaLagenheter" : "",
+				"EgenTypkod" : "823",
+				"EgenTypkod_typ" : "823 - Specialenhet, vårdbyggnad",
+				"EgiBeraknatVarde" : "",
+				"EgiBerElProduktion" : "",
+				"EgiBerEngProduktion" : "",
+				"EgiElDirekt" : 0,
+				"EgiElDirektUPPV" : 0,
+				"EgiElLuft" : 0,
+				"EgiElLuftUPPV" : 0,
+				"EgiElVatten" : 0,
+				"EgiElVattenUPPV" : 0,
+				"EgiElVV" : 0,
+				"EgiEnergianvandning" : null,
+				"EgiEnergiklass" : "E",
+				"EgiEnergiPrestanda" : 127,
+				"EgiFastighet" : 179000,
+				"EgiFjarrkyla" : 0,
+				"EgiFjarrvarme" : 557100,
+				"EgiFjarrvarmeUPPV" : 462565,
+				"EgiFjarrvarmeVV" : 94535,
+				"EgiFlis" : 0,
+				"EgiFlisUPPV" : 0,
+				"EgiFlisVV" : 0,
+				"EgiForstaArManad" : "0701",
+				"EgiGas" : 0,
+				"EgiGasUPPV" : 0,
+				"EgiGasVV" : 0,
+				"EgiGruppElDirekt" : "",
+				"EgiGruppElLuft" : "",
+				"EgiGruppElVatten" : "",
+				"EgiGruppFastighet" : "Mätt",
+				"EgiGruppFjarrkyla" : "",
+				"EgiGruppFjarrvarme" : "Mätt",
+				"EgiGruppFlis" : "",
+				"EgiGruppGas" : "",
+				"EgiGruppHushall" : "",
+				"EgiGruppKomfort" : "",
+				"EgiGruppOlja" : "",
+				"EgiGruppOvrBiobransle" : "",
+				"EgiGruppPumpFranluft" : "",
+				"EgiGruppPumpLuftLuft" : "",
+				"EgiGruppPumpLuftVatten" : "",
+				"EgiGruppPumpMark" : "",
+				"EgiGruppSolcell" : "",
+				"EgiGruppSolvarme" : "Nej",
+				"EgiGruppVed" : "",
+				"EgiGruppVerksamhet" : "",
+				"EgiGruppVVBered" : "Fördelat",
+				"EgiHushall" : "",
+				"EgiKomfort" : 0,
+				"EgiKomfortTillagg" : "",
+				"EgiNormKorrEI" : "805095",
+				"EgiNormKorrGD" : "803100",
+				"EgiOlja" : "0",
+				"EgiOljaUPPV" : 0,
+				"EgiOljaVV" : 0,
+				"EgiOvrBiobransle" : 0,
+				"EgiOvrBiobransleUPPV" : 0,
+				"EgiOvrBiobransleVV" : 0,
+				"EgiPrimarenergianvandning" : 914104,
+				"EgiPrimarenergital" : 144,
+				"EgiPumpFranluft" : 0,
+				"EgiPumpFranluftUPPV" : 0,
+				"EgiPumpLuftLuft" : 0,
+				"EgiPumpLuftLuftUPPV" : 0,
+				"EgiPumpLuftVatten" : 0,
+				"EgiPumpLuftVattenUPPV" : 0,
+				"EgiPumpMark" : 0,
+				"EgiPumpMarkUPPV" : 0,
+				"EgiRefvarde1" : 100,
+				"EgiRefvarde2Max" : 204,
+				"EgiRefvarde2Min" : 166,
+				"EgiRefvarde3" : null,
+				"EgiSistaArManad" : "0712",
+				"EgiSolcell" : "",
+				"EgiSolvarme" : "0",
+				"EgiStationEI" : "Stockholm-Bromma",
+				"EgiStationGD" : "Stockholm-Bromma",
+				"EgiSumma1" : 557100,
+				"EgiSumma2" : 736100,
+				"EgiSumma3" : 736100,
+				"EgiSumma4" : 179000,
+				"EgiVaravEl" : 28,
+				"EgiVed" : 0,
+				"EgiVedUPPV" : 0,
+				"EgiVedVV" : 0,
+				"EgiVerksamhet" : "",
+				"EgiVersion" : 2010,
+				"EgiVVBered" : 94535,
+				"FNR" : "010095447",
+				"Footprint_area_Sweref" : 1663.5976460108736,
+				"FormularId" : 108020,
+				"Godkand" : "2009-05-07",
+				"height" : 30,
+				"IdAdr" : "Tantogatan 19",
+				"IdEgnaHem" : "Nej",
+				"IdFastBet" : "Kulltorp 3",
+				"IdHusnr" : 2,
+				"IdHuvudadress" : "Ja",
+				"IdKommun" : "Stockholm",
+				"IdKommunkod" : "80",
+				"IdLan" : "Stockholms län",
+				"IdLankod" : "01",
+				"IdPostnr" : "11842",
+				"IdPostort" : "Stockholm",
+				"IdRapportLM" : "Ingen orsak vid felrapport angiven",
+				"LuftGruppFinnsluft" : "Nej",
+				"vaggid" : "V54774-3;V54774-4;V54810-12;V54810-13;V54810-14;V55208-4;V58650-5;V59015-10;V59015-9;V59101-10;V59101-11;V59101-7;V59101-8;V59101-9;V71455-3;V71455-4;V73206-1;V74685-3;V76110-1;V76110-3;V76110-4;V76148-11;V76148-4;V76148-5;V79729-1;V79729-4;V81213-4;V82640-17;V82640-18;V82640-21;V82640-4;V82640-5;V83490-3;V83490-4;V83490-5;V84097-3;V84097-4;V88519-1;V88519-17;V88519-18;V88519-19;V88519-2;V88519-20;V88519-3;V88519-4;V88519-5",
+				"VentDelvisProcent" : null,
+				"VentGruppGodkand" : null,
+				"VentGruppKrav" : null,
+				"VentTypF" : null,
+				"VentTypFmed" : null,
+				"VentTypFT" : null,
+				"VentTypFTX" : null,
+				"VentTypSjalvdrag" : null,
+				"Version" : "1.4"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "GeometryCollection",
+				"geometries" : [
+					{
+						"type" : "MultiPolygon",
+						"coordinates" : [
+							[
+								[
+									[ 673420.59, 6578551.0439999998, 6.49 ],
+									[ 673407.041, 6578543.7680000002, 6.49 ],
+									[ 673394.519, 6578534.1359999999, 6.49 ],
+									[ 673383.3540000001, 6578522.2740000002, 6.49 ],
+									[ 673393.9620000001, 6578510.2740000002, 6.49 ],
+									[ 673404.987, 6578522.4460000005, 6.49 ],
+									[ 673415.753, 6578530.7460000003, 6.49 ],
+									[ 673421.982, 6578534.5140000004, 6.49 ],
+									[ 673434.439, 6578540.2570000002, 6.49 ],
+									[ 673441.363, 6578542.5070000002, 6.49 ],
+									[ 673454.651, 6578545.2640000004, 6.49 ],
+									[ 673461.9790000001, 6578545.8629999999, 6.49 ],
+									[ 673469.549, 6578545.2929999996, 6.49 ],
+									[ 673469.97, 6578561.2829999998, 6.49 ],
+									[ 673461.198, 6578561.5369999995, 6.49 ],
+									[ 673452.541, 6578560.7529999996, 6.49 ],
+									[ 673437.123, 6578557.5980000002, 6.49 ],
+									[ 673429.224, 6578555.0120000001, 6.49 ],
+									[ 673420.59, 6578551.0439999998, 6.49 ]
+								]
+							],
+							[
+								[
+									[ 673420.59, 6578551.0439999998, 6.49 ],
+									[ 673420.59, 6578551.0439999998, 41.44 ],
+									[ 673407.041, 6578543.7680000002, 41.44 ],
+									[ 673407.041, 6578543.7680000002, 6.49 ],
+									[ 673420.59, 6578551.0439999998, 6.49 ]
+								]
+							],
+							[
+								[
+									[ 673407.041, 6578543.7680000002, 6.49 ],
+									[ 673407.041, 6578543.7680000002, 41.44 ],
+									[ 673394.519, 6578534.1359999999, 41.44 ],
+									[ 673394.519, 6578534.1359999999, 6.49 ],
+									[ 673407.041, 6578543.7680000002, 6.49 ]
+								]
+							],
+							[
+								[
+									[ 673394.519, 6578534.1359999999, 6.49 ],
+									[ 673394.519, 6578534.1359999999, 41.44 ],
+									[ 673383.3540000001, 6578522.2740000002, 41.44 ],
+									[ 673383.3540000001, 6578522.2740000002, 6.49 ],
+									[ 673394.519, 6578534.1359999999, 6.49 ]
+								]
+							],
+							[
+								[
+									[ 673383.3540000001, 6578522.2740000002, 6.49 ],
+									[ 673383.3540000001, 6578522.2740000002, 41.44 ],
+									[ 673393.9620000001, 6578510.2740000002, 41.44 ],
+									[ 673393.9620000001, 6578510.2740000002, 6.49 ],
+									[ 673383.3540000001, 6578522.2740000002, 6.49 ]
+								]
+							],
+							[
+								[
+									[ 673393.9620000001, 6578510.2740000002, 6.49 ],
+									[ 673393.9620000001, 6578510.2740000002, 41.44 ],
+									[ 673404.987, 6578522.4460000005, 41.44 ],
+									[ 673404.987, 6578522.4460000005, 6.49 ],
+									[ 673393.9620000001, 6578510.2740000002, 6.49 ]
+								]
+							],
+							[
+								[
+									[ 673404.987, 6578522.4460000005, 6.49 ],
+									[ 673404.987, 6578522.4460000005, 41.44 ],
+									[ 673415.753, 6578530.7460000003, 41.44 ],
+									[ 673415.753, 6578530.7460000003, 6.49 ],
+									[ 673404.987, 6578522.4460000005, 6.49 ]
+								]
+							],
+							[
+								[
+									[ 673415.753, 6578530.7460000003, 6.49 ],
+									[ 673415.753, 6578530.7460000003, 41.44 ],
+									[ 673421.982, 6578534.5140000004, 41.44 ],
+									[ 673421.982, 6578534.5140000004, 6.49 ],
+									[ 673415.753, 6578530.7460000003, 6.49 ]
+								]
+							],
+							[
+								[
+									[ 673421.982, 6578534.5140000004, 6.49 ],
+									[ 673421.982, 6578534.5140000004, 41.44 ],
+									[ 673434.439, 6578540.2570000002, 41.44 ],
+									[ 673434.439, 6578540.2570000002, 6.49 ],
+									[ 673421.982, 6578534.5140000004, 6.49 ]
+								]
+							],
+							[
+								[
+									[ 673434.439, 6578540.2570000002, 6.49 ],
+									[ 673434.439, 6578540.2570000002, 41.44 ],
+									[ 673441.363, 6578542.5070000002, 41.44 ],
+									[ 673441.363, 6578542.5070000002, 6.49 ],
+									[ 673434.439, 6578540.2570000002, 6.49 ]
+								]
+							],
+							[
+								[
+									[ 673441.363, 6578542.5070000002, 6.49 ],
+									[ 673441.363, 6578542.5070000002, 41.44 ],
+									[ 673454.651, 6578545.2640000004, 41.44 ],
+									[ 673454.651, 6578545.2640000004, 6.49 ],
+									[ 673441.363, 6578542.5070000002, 6.49 ]
+								]
+							],
+							[
+								[
+									[ 673454.651, 6578545.2640000004, 6.49 ],
+									[ 673454.651, 6578545.2640000004, 41.44 ],
+									[ 673461.9790000001, 6578545.8629999999, 41.44 ],
+									[ 673461.9790000001, 6578545.8629999999, 6.49 ],
+									[ 673454.651, 6578545.2640000004, 6.49 ]
+								]
+							],
+							[
+								[
+									[ 673461.9790000001, 6578545.8629999999, 6.49 ],
+									[ 673461.9790000001, 6578545.8629999999, 41.44 ],
+									[ 673469.549, 6578545.2929999996, 41.44 ],
+									[ 673469.549, 6578545.2929999996, 6.49 ],
+									[ 673461.9790000001, 6578545.8629999999, 6.49 ]
+								]
+							],
+							[
+								[
+									[ 673469.549, 6578545.2929999996, 6.49 ],
+									[ 673469.549, 6578545.2929999996, 41.44 ],
+									[ 673469.97, 6578561.2829999998, 41.44 ],
+									[ 673469.97, 6578561.2829999998, 6.49 ],
+									[ 673469.549, 6578545.2929999996, 6.49 ]
+								]
+							],
+							[
+								[
+									[ 673469.97, 6578561.2829999998, 6.49 ],
+									[ 673469.97, 6578561.2829999998, 41.44 ],
+									[ 673461.198, 6578561.5369999995, 41.44 ],
+									[ 673461.198, 6578561.5369999995, 6.49 ],
+									[ 673469.97, 6578561.2829999998, 6.49 ]
+								]
+							],
+							[
+								[
+									[ 673461.198, 6578561.5369999995, 6.49 ],
+									[ 673461.198, 6578561.5369999995, 41.44 ],
+									[ 673452.541, 6578560.7529999996, 41.44 ],
+									[ 673452.541, 6578560.7529999996, 6.49 ],
+									[ 673461.198, 6578561.5369999995, 6.49 ]
+								]
+							],
+							[
+								[
+									[ 673452.541, 6578560.7529999996, 6.49 ],
+									[ 673452.541, 6578560.7529999996, 41.44 ],
+									[ 673437.123, 6578557.5980000002, 41.44 ],
+									[ 673437.123, 6578557.5980000002, 6.49 ],
+									[ 673452.541, 6578560.7529999996, 6.49 ]
+								]
+							],
+							[
+								[
+									[ 673437.123, 6578557.5980000002, 6.49 ],
+									[ 673437.123, 6578557.5980000002, 41.44 ],
+									[ 673429.224, 6578555.0120000001, 41.44 ],
+									[ 673429.224, 6578555.0120000001, 6.49 ],
+									[ 673437.123, 6578557.5980000002, 6.49 ]
+								]
+							],
+							[
+								[
+									[ 673429.224, 6578555.0120000001, 6.49 ],
+									[ 673429.224, 6578555.0120000001, 41.44 ],
+									[ 673420.59, 6578551.0439999998, 41.44 ],
+									[ 673420.59, 6578551.0439999998, 6.49 ],
+									[ 673429.224, 6578555.0120000001, 6.49 ]
+								]
+							],
+							[
+								[
+									[ 673420.59, 6578551.0439999998, 41.44 ],
+									[ 673407.041, 6578543.7680000002, 41.44 ],
+									[ 673394.519, 6578534.1359999999, 41.44 ],
+									[ 673383.3540000001, 6578522.2740000002, 41.44 ],
+									[ 673393.9620000001, 6578510.2740000002, 41.44 ],
+									[ 673404.987, 6578522.4460000005, 41.44 ],
+									[ 673415.753, 6578530.7460000003, 41.44 ],
+									[ 673421.982, 6578534.5140000004, 41.44 ],
+									[ 673434.439, 6578540.2570000002, 41.44 ],
+									[ 673441.363, 6578542.5070000002, 41.44 ],
+									[ 673454.651, 6578545.2640000004, 41.44 ],
+									[ 673461.9790000001, 6578545.8629999999, 41.44 ],
+									[ 673469.549, 6578545.2929999996, 41.44 ],
+									[ 673469.97, 6578561.2829999998, 41.44 ],
+									[ 673461.198, 6578561.5369999995, 41.44 ],
+									[ 673452.541, 6578560.7529999996, 41.44 ],
+									[ 673437.123, 6578557.5980000002, 41.44 ],
+									[ 673429.224, 6578555.0120000001, 41.44 ],
+									[ 673420.59, 6578551.0439999998, 41.44 ]
+								]
+							]
+						]
+					}
+				]
+			},
+			"properties" : {
+				"42P_ByggnadsAgare" : "HSB bostadsrätt",
+				"42P_ByggnadsAgareGruppEnkel" : "Bostadsrättsförening",
+				"42P_ByggnadsAgareGruppStor" : "Stor bostadsrättsförening",
+				"43O_ARVARDE" : null,
+				"43O_BYGGAR" : null,
+				"43O_TILLBYAR" : null,
+				"43S_ARVARDE" : 1965,
+				"43S_BYGGAR" : 1965,
+				"43S_TILLBYAR" : "",
+				"43T_ARVARDE" : "1965",
+				"43T_BYGGAR" : "1965",
+				"43T_TILLBYAR" : "",
+				"50A_ByggnadsAndamal" : "Flerbostadshus",
+				"50A_ByggnadsKategori" : "Flerbostadshus",
+				"50A_UUID" : "739ed059-e3de-48cd-a4f1-4c64cd1a6563",
+				"byggnadsid" : 76781,
+				"Deso" : "0180C3210",
+				"EgenAntalBolgh" : "138",
+				"EgenAntalKallarplan" : "1",
+				"EgenAntalPlan" : "11",
+				"EgenAntalTrapphus" : "4",
+				"EgenAtemp" : 16025,
+				"EgenAtempBad" : "",
+				"EgenAtempBostad" : "94",
+				"EgenAtempButik" : "1",
+				"EgenAtempHotell" : "",
+				"EgenAtempKontor" : "2",
+				"EgenAtempKopcentrum" : "",
+				"EgenAtempLivsmedel" : "",
+				"EgenAtempOvrig" : "2",
+				"EgenAtempOvrigaVad" : "Industri",
+				"EgenAtempRestaurang" : "",
+				"EgenAtempSkolor" : "",
+				"EgenAtempSumma" : 100,
+				"EgenAtempTeater" : "",
+				"EgenAtempVard" : "",
+				"EgenAtempVardDag" : "1",
+				"EgenAvarmgarage" : "385",
+				"EgenBOA" : null,
+				"EgenBRA" : null,
+				"EgenBTA" : null,
+				"EgenByggnadsKat" : "Flerbostadshus",
+				"EgenByggnadsTyp" : "Friliggande",
+				"EgenGruppAtemp" : null,
+				"EgenInstEleffektStorre" : "Nej",
+				"EgenKomplexitet" : "Enkel",
+				"EgenLOA" : null,
+				"EgenNybyggAr" : 1965,
+				"EgenProjVentFlode" : "0.35000000000000003",
+				"EgenSarskiltVardefull" : null,
+				"EgenSkyddadByggnad" : null,
+				"EgenSkyddadEllerVardefull" : "4",
+				"EgenSmaLagenheter" : "Nej",
+				"EgenTypkod" : "321A",
+				"EgenTypkod_typ" : "321A - Hyreshusenhet, bostäder >= 50%",
+				"EgiBeraknatVarde" : "Nej",
+				"EgiBerElProduktion" : "",
+				"EgiBerEngProduktion" : "",
+				"EgiElDirekt" : null,
+				"EgiElDirektUPPV" : 0,
+				"EgiElLuft" : null,
+				"EgiElLuftUPPV" : 0,
+				"EgiElVatten" : null,
+				"EgiElVattenUPPV" : 0,
+				"EgiElVV" : 0,
+				"EgiEnergianvandning" : 1994820,
+				"EgiEnergiklass" : "E",
+				"EgiEnergiPrestanda" : 124,
+				"EgiFastighet" : 98100,
+				"EgiFjarrkyla" : 0,
+				"EgiFjarrvarme" : null,
+				"EgiFjarrvarmeUPPV" : 1356400,
+				"EgiFjarrvarmeVV" : 319400,
+				"EgiFlis" : null,
+				"EgiFlisUPPV" : 0,
+				"EgiFlisVV" : 0,
+				"EgiForstaArManad" : "1801",
+				"EgiGas" : null,
+				"EgiGasUPPV" : 0,
+				"EgiGasVV" : 0,
+				"EgiGruppElDirekt" : null,
+				"EgiGruppElLuft" : null,
+				"EgiGruppElVatten" : null,
+				"EgiGruppFastighet" : null,
+				"EgiGruppFjarrkyla" : null,
+				"EgiGruppFjarrvarme" : null,
+				"EgiGruppFlis" : null,
+				"EgiGruppGas" : null,
+				"EgiGruppHushall" : null,
+				"EgiGruppKomfort" : null,
+				"EgiGruppOlja" : null,
+				"EgiGruppOvrBiobransle" : null,
+				"EgiGruppPumpFranluft" : null,
+				"EgiGruppPumpLuftLuft" : null,
+				"EgiGruppPumpLuftVatten" : null,
+				"EgiGruppPumpMark" : null,
+				"EgiGruppSolcell" : "Nej",
+				"EgiGruppSolvarme" : "Nej",
+				"EgiGruppVed" : null,
+				"EgiGruppVerksamhet" : null,
+				"EgiGruppVVBered" : null,
+				"EgiHushall" : "",
+				"EgiKomfort" : 0,
+				"EgiKomfortTillagg" : null,
+				"EgiNormKorrEI" : null,
+				"EgiNormKorrGD" : null,
+				"EgiOlja" : null,
+				"EgiOljaUPPV" : 0,
+				"EgiOljaVV" : 0,
+				"EgiOvrBiobransle" : null,
+				"EgiOvrBiobransleUPPV" : 0,
+				"EgiOvrBiobransleVV" : 0,
+				"EgiPrimarenergianvandning" : 2053680,
+				"EgiPrimarenergital" : 128,
+				"EgiPumpFranluft" : null,
+				"EgiPumpFranluftUPPV" : 0,
+				"EgiPumpLuftLuft" : null,
+				"EgiPumpLuftLuftUPPV" : 0,
+				"EgiPumpLuftVatten" : null,
+				"EgiPumpLuftVattenUPPV" : 0,
+				"EgiPumpMark" : null,
+				"EgiPumpMarkUPPV" : 0,
+				"EgiRefvarde1" : 85,
+				"EgiRefvarde2Max" : 161,
+				"EgiRefvarde2Min" : null,
+				"EgiRefvarde3" : "",
+				"EgiSistaArManad" : "1812",
+				"EgiSolcell" : "",
+				"EgiSolvarme" : "",
+				"EgiStationEI" : "Stockholm",
+				"EgiStationGD" : null,
+				"EgiSumma1" : null,
+				"EgiSumma2" : 1773900,
+				"EgiSumma3" : null,
+				"EgiSumma4" : null,
+				"EgiVaravEl" : null,
+				"EgiVed" : null,
+				"EgiVedUPPV" : 0,
+				"EgiVedVV" : 0,
+				"EgiVerksamhet" : "71700",
+				"EgiVersion" : 2019,
+				"EgiVVBered" : null,
+				"FNR" : "010095449",
+				"Footprint_area_Sweref" : 2897.254308943376,
+				"FormularId" : 990220,
+				"Godkand" : "2019-12-27",
+				"height" : 33,
+				"IdAdr" : "Tantogatan 69",
+				"IdEgnaHem" : "0",
+				"IdFastBet" : "Kulltorp 5",
+				"IdHusnr" : 1,
+				"IdHuvudadress" : "Nej",
+				"IdKommun" : "Stockholm",
+				"IdKommunkod" : "80",
+				"IdLan" : "Stockholms län",
+				"IdLankod" : "01",
+				"IdPostnr" : "11842",
+				"IdPostort" : "Stockholm",
+				"IdRapportLM" : "",
+				"LuftGruppFinnsluft" : "Nej",
+				"vaggid" : "V54810-1;V54810-14;V54810-15;V54810-2;V54810-3;V54810-4;V54810-5;V54810-6;V59015-1;V59015-17;V59015-18;V59015-2;V59015-3;V59015-4;V59015-5;V59015-6;V59015-7;V59015-8;V59101-10;V59101-11;V59101-12;V59101-7;V59101-8;V59101-9;V88519-10;V88519-11;V88519-12;V88519-13;V88519-7;V88519-8;V88519-9",
+				"VentDelvisProcent" : "",
+				"VentGruppGodkand" : "Ja",
+				"VentGruppKrav" : "Ja",
+				"VentTypF" : "Ja",
+				"VentTypFmed" : "Nej",
+				"VentTypFT" : "Nej",
+				"VentTypFTX" : "Nej",
+				"VentTypSjalvdrag" : "Nej",
+				"Version" : "2.6"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "GeometryCollection",
+				"geometries" : [
+					{
+						"type" : "MultiPolygon",
+						"coordinates" : [
+							[
+								[
+									[ 673561.623, 6578520.8909999998, 20.96 ],
+									[ 673574.295, 6578509.5710000005, 20.96 ],
+									[ 673581.848, 6578500.4129999997, 20.96 ],
+									[ 673587.904, 6578490.8640000001, 20.96 ],
+									[ 673591.4620000001, 6578483.7939999998, 20.96 ],
+									[ 673595.634, 6578472.733, 20.96 ],
+									[ 673598.12, 6578461.9900000002, 20.96 ],
+									[ 673613.496, 6578465.3760000002, 20.96 ],
+									[ 673609.439, 6578481.3439999996, 20.96 ],
+									[ 673602.936, 6578496.3159999996, 20.96 ],
+									[ 673595.101, 6578509.5769999996, 20.96 ],
+									[ 673586.459, 6578519.96, 20.96 ],
+									[ 673577.039, 6578529.1519999998, 20.96 ],
+									[ 673567.48, 6578536.9119999995, 20.96 ],
+									[ 673557.8, 6578523.7920000004, 20.96 ],
+									[ 673561.623, 6578520.8909999998, 20.96 ]
+								]
+							],
+							[
+								[
+									[ 673561.623, 6578520.8909999998, 20.96 ],
+									[ 673561.623, 6578520.8909999998, 49.54 ],
+									[ 673574.295, 6578509.5710000005, 49.54 ],
+									[ 673574.295, 6578509.5710000005, 20.96 ],
+									[ 673561.623, 6578520.8909999998, 20.96 ]
+								]
+							],
+							[
+								[
+									[ 673574.295, 6578509.5710000005, 20.96 ],
+									[ 673574.295, 6578509.5710000005, 49.54 ],
+									[ 673581.848, 6578500.4129999997, 49.54 ],
+									[ 673581.848, 6578500.4129999997, 20.96 ],
+									[ 673574.295, 6578509.5710000005, 20.96 ]
+								]
+							],
+							[
+								[
+									[ 673581.848, 6578500.4129999997, 20.96 ],
+									[ 673581.848, 6578500.4129999997, 49.54 ],
+									[ 673587.904, 6578490.8640000001, 49.54 ],
+									[ 673587.904, 6578490.8640000001, 20.96 ],
+									[ 673581.848, 6578500.4129999997, 20.96 ]
+								]
+							],
+							[
+								[
+									[ 673587.904, 6578490.8640000001, 20.96 ],
+									[ 673587.904, 6578490.8640000001, 49.54 ],
+									[ 673591.4620000001, 6578483.7939999998, 49.54 ],
+									[ 673591.4620000001, 6578483.7939999998, 20.96 ],
+									[ 673587.904, 6578490.8640000001, 20.96 ]
+								]
+							],
+							[
+								[
+									[ 673591.4620000001, 6578483.7939999998, 20.96 ],
+									[ 673591.4620000001, 6578483.7939999998, 49.54 ],
+									[ 673595.634, 6578472.733, 49.54 ],
+									[ 673595.634, 6578472.733, 20.96 ],
+									[ 673591.4620000001, 6578483.7939999998, 20.96 ]
+								]
+							],
+							[
+								[
+									[ 673595.634, 6578472.733, 20.96 ],
+									[ 673595.634, 6578472.733, 49.54 ],
+									[ 673598.12, 6578461.9900000002, 49.54 ],
+									[ 673598.12, 6578461.9900000002, 20.96 ],
+									[ 673595.634, 6578472.733, 20.96 ]
+								]
+							],
+							[
+								[
+									[ 673598.12, 6578461.9900000002, 20.96 ],
+									[ 673598.12, 6578461.9900000002, 49.54 ],
+									[ 673613.496, 6578465.3760000002, 49.54 ],
+									[ 673613.496, 6578465.3760000002, 20.96 ],
+									[ 673598.12, 6578461.9900000002, 20.96 ]
+								]
+							],
+							[
+								[
+									[ 673613.496, 6578465.3760000002, 20.96 ],
+									[ 673613.496, 6578465.3760000002, 49.54 ],
+									[ 673609.439, 6578481.3439999996, 49.54 ],
+									[ 673609.439, 6578481.3439999996, 20.96 ],
+									[ 673613.496, 6578465.3760000002, 20.96 ]
+								]
+							],
+							[
+								[
+									[ 673609.439, 6578481.3439999996, 20.96 ],
+									[ 673609.439, 6578481.3439999996, 49.54 ],
+									[ 673602.936, 6578496.3159999996, 49.54 ],
+									[ 673602.936, 6578496.3159999996, 20.96 ],
+									[ 673609.439, 6578481.3439999996, 20.96 ]
+								]
+							],
+							[
+								[
+									[ 673602.936, 6578496.3159999996, 20.96 ],
+									[ 673602.936, 6578496.3159999996, 49.54 ],
+									[ 673595.101, 6578509.5769999996, 49.54 ],
+									[ 673595.101, 6578509.5769999996, 20.96 ],
+									[ 673602.936, 6578496.3159999996, 20.96 ]
+								]
+							],
+							[
+								[
+									[ 673595.101, 6578509.5769999996, 20.96 ],
+									[ 673595.101, 6578509.5769999996, 49.54 ],
+									[ 673586.459, 6578519.96, 49.54 ],
+									[ 673586.459, 6578519.96, 20.96 ],
+									[ 673595.101, 6578509.5769999996, 20.96 ]
+								]
+							],
+							[
+								[
+									[ 673586.459, 6578519.96, 20.96 ],
+									[ 673586.459, 6578519.96, 49.54 ],
+									[ 673577.039, 6578529.1519999998, 49.54 ],
+									[ 673577.039, 6578529.1519999998, 20.96 ],
+									[ 673586.459, 6578519.96, 20.96 ]
+								]
+							],
+							[
+								[
+									[ 673577.039, 6578529.1519999998, 20.96 ],
+									[ 673577.039, 6578529.1519999998, 49.54 ],
+									[ 673567.48, 6578536.9119999995, 49.54 ],
+									[ 673567.48, 6578536.9119999995, 20.96 ],
+									[ 673577.039, 6578529.1519999998, 20.96 ]
+								]
+							],
+							[
+								[
+									[ 673567.48, 6578536.9119999995, 20.96 ],
+									[ 673567.48, 6578536.9119999995, 49.54 ],
+									[ 673557.8, 6578523.7920000004, 49.54 ],
+									[ 673557.8, 6578523.7920000004, 20.96 ],
+									[ 673567.48, 6578536.9119999995, 20.96 ]
+								]
+							],
+							[
+								[
+									[ 673557.8, 6578523.7920000004, 20.96 ],
+									[ 673557.8, 6578523.7920000004, 49.54 ],
+									[ 673561.623, 6578520.8909999998, 49.54 ],
+									[ 673561.623, 6578520.8909999998, 20.96 ],
+									[ 673557.8, 6578523.7920000004, 20.96 ]
+								]
+							],
+							[
+								[
+									[ 673561.623, 6578520.8909999998, 49.54 ],
+									[ 673574.295, 6578509.5710000005, 49.54 ],
+									[ 673581.848, 6578500.4129999997, 49.54 ],
+									[ 673587.904, 6578490.8640000001, 49.54 ],
+									[ 673591.4620000001, 6578483.7939999998, 49.54 ],
+									[ 673595.634, 6578472.733, 49.54 ],
+									[ 673598.12, 6578461.9900000002, 49.54 ],
+									[ 673613.496, 6578465.3760000002, 49.54 ],
+									[ 673609.439, 6578481.3439999996, 49.54 ],
+									[ 673602.936, 6578496.3159999996, 49.54 ],
+									[ 673595.101, 6578509.5769999996, 49.54 ],
+									[ 673586.459, 6578519.96, 49.54 ],
+									[ 673577.039, 6578529.1519999998, 49.54 ],
+									[ 673567.48, 6578536.9119999995, 49.54 ],
+									[ 673557.8, 6578523.7920000004, 49.54 ],
+									[ 673561.623, 6578520.8909999998, 49.54 ]
+								]
+							]
+						]
+					}
+				]
+			},
+			"properties" : {
+				"42P_ByggnadsAgare" : "HSB bostadsrätt",
+				"42P_ByggnadsAgareGruppEnkel" : "Bostadsrättsförening",
+				"42P_ByggnadsAgareGruppStor" : "Stor bostadsrättsförening",
+				"43O_ARVARDE" : null,
+				"43O_BYGGAR" : null,
+				"43O_TILLBYAR" : null,
+				"43S_ARVARDE" : 1964,
+				"43S_BYGGAR" : 1964,
+				"43S_TILLBYAR" : "",
+				"43T_ARVARDE" : "1964",
+				"43T_BYGGAR" : "1964",
+				"43T_TILLBYAR" : "",
+				"50A_ByggnadsAndamal" : "Flerbostadshus",
+				"50A_ByggnadsKategori" : "Flerbostadshus",
+				"50A_UUID" : "20b0f826-8395-48fa-b651-f1d04ae04ddf",
+				"byggnadsid" : 54810,
+				"Deso" : "0180C3210",
+				"EgenAntalBolgh" : "102",
+				"EgenAntalKallarplan" : "1",
+				"EgenAntalPlan" : "10",
+				"EgenAntalTrapphus" : "6",
+				"EgenAtemp" : 10901,
+				"EgenAtempBad" : "",
+				"EgenAtempBostad" : "92",
+				"EgenAtempButik" : "",
+				"EgenAtempHotell" : "",
+				"EgenAtempKontor" : "1",
+				"EgenAtempKopcentrum" : "",
+				"EgenAtempLivsmedel" : "",
+				"EgenAtempOvrig" : "",
+				"EgenAtempOvrigaVad" : "",
+				"EgenAtempRestaurang" : "",
+				"EgenAtempSkolor" : "7",
+				"EgenAtempSumma" : 100,
+				"EgenAtempTeater" : "",
+				"EgenAtempVard" : "",
+				"EgenAtempVardDag" : "",
+				"EgenAvarmgarage" : "",
+				"EgenBOA" : null,
+				"EgenBRA" : null,
+				"EgenBTA" : null,
+				"EgenByggnadsKat" : "Flerbostadshus",
+				"EgenByggnadsTyp" : "Friliggande",
+				"EgenGruppAtemp" : null,
+				"EgenInstEleffektStorre" : "Nej",
+				"EgenKomplexitet" : "Enkel",
+				"EgenLOA" : null,
+				"EgenNybyggAr" : 1964,
+				"EgenProjVentFlode" : "0.35000000000000003",
+				"EgenSarskiltVardefull" : null,
+				"EgenSkyddadByggnad" : null,
+				"EgenSkyddadEllerVardefull" : "4",
+				"EgenSmaLagenheter" : "Nej",
+				"EgenTypkod" : "321A",
+				"EgenTypkod_typ" : "321A - Hyreshusenhet, bostäder >= 50%",
+				"EgiBeraknatVarde" : "Nej",
+				"EgiBerElProduktion" : "",
+				"EgiBerEngProduktion" : "",
+				"EgiElDirekt" : null,
+				"EgiElDirektUPPV" : 0,
+				"EgiElLuft" : null,
+				"EgiElLuftUPPV" : 0,
+				"EgiElVatten" : null,
+				"EgiElVattenUPPV" : 0,
+				"EgiElVV" : 0,
+				"EgiEnergianvandning" : 1605082,
+				"EgiEnergiklass" : "E",
+				"EgiEnergiPrestanda" : 147,
+				"EgiFastighet" : 113500,
+				"EgiFjarrkyla" : 0,
+				"EgiFjarrvarme" : null,
+				"EgiFjarrvarmeUPPV" : 1098300,
+				"EgiFjarrvarmeVV" : 214400,
+				"EgiFlis" : null,
+				"EgiFlisUPPV" : 0,
+				"EgiFlisVV" : 0,
+				"EgiForstaArManad" : "1801",
+				"EgiGas" : null,
+				"EgiGasUPPV" : 0,
+				"EgiGasVV" : 0,
+				"EgiGruppElDirekt" : null,
+				"EgiGruppElLuft" : null,
+				"EgiGruppElVatten" : null,
+				"EgiGruppFastighet" : null,
+				"EgiGruppFjarrkyla" : null,
+				"EgiGruppFjarrvarme" : null,
+				"EgiGruppFlis" : null,
+				"EgiGruppGas" : null,
+				"EgiGruppHushall" : null,
+				"EgiGruppKomfort" : null,
+				"EgiGruppOlja" : null,
+				"EgiGruppOvrBiobransle" : null,
+				"EgiGruppPumpFranluft" : null,
+				"EgiGruppPumpLuftLuft" : null,
+				"EgiGruppPumpLuftVatten" : null,
+				"EgiGruppPumpMark" : null,
+				"EgiGruppSolcell" : "Nej",
+				"EgiGruppSolvarme" : "Nej",
+				"EgiGruppVed" : null,
+				"EgiGruppVerksamhet" : null,
+				"EgiGruppVVBered" : null,
+				"EgiHushall" : "",
+				"EgiKomfort" : 0,
+				"EgiKomfortTillagg" : null,
+				"EgiNormKorrEI" : null,
+				"EgiNormKorrGD" : null,
+				"EgiOlja" : null,
+				"EgiOljaUPPV" : 0,
+				"EgiOljaVV" : 0,
+				"EgiOvrBiobransle" : null,
+				"EgiOvrBiobransleUPPV" : 0,
+				"EgiOvrBiobransleVV" : 0,
+				"EgiPrimarenergianvandning" : 1673182,
+				"EgiPrimarenergital" : 153,
+				"EgiPumpFranluft" : null,
+				"EgiPumpFranluftUPPV" : 0,
+				"EgiPumpLuftLuft" : null,
+				"EgiPumpLuftLuftUPPV" : 0,
+				"EgiPumpLuftVatten" : null,
+				"EgiPumpLuftVattenUPPV" : 0,
+				"EgiPumpMark" : null,
+				"EgiPumpMarkUPPV" : 0,
+				"EgiRefvarde1" : 85,
+				"EgiRefvarde2Max" : 162,
+				"EgiRefvarde2Min" : null,
+				"EgiRefvarde3" : "",
+				"EgiSistaArManad" : "1812",
+				"EgiSolcell" : "",
+				"EgiSolvarme" : "",
+				"EgiStationEI" : "Stockholm",
+				"EgiStationGD" : null,
+				"EgiSumma1" : null,
+				"EgiSumma2" : 1426200,
+				"EgiSumma3" : null,
+				"EgiSumma4" : null,
+				"EgiVaravEl" : null,
+				"EgiVed" : null,
+				"EgiVedUPPV" : 0,
+				"EgiVedVV" : 0,
+				"EgiVerksamhet" : "70000",
+				"EgiVersion" : 2019,
+				"EgiVVBered" : null,
+				"FNR" : "010125805",
+				"Footprint_area_Sweref" : 2592.966925964916,
+				"FormularId" : 990225,
+				"Godkand" : "2019-12-27",
+				"height" : 30,
+				"IdAdr" : "Flintbacken 12",
+				"IdEgnaHem" : "0",
+				"IdFastBet" : "Tantobruket 1",
+				"IdHusnr" : 1,
+				"IdHuvudadress" : "Nej",
+				"IdKommun" : "Stockholm",
+				"IdKommunkod" : "80",
+				"IdLan" : "Stockholms län",
+				"IdLankod" : "01",
+				"IdPostnr" : "11842",
+				"IdPostort" : "Stockholm",
+				"IdRapportLM" : "",
+				"LuftGruppFinnsluft" : "Nej",
+				"vaggid" : "V56993-1;V56993-7;V58650-4;V58650-83;V58650-84;V58650-85;V59015-1;V59015-18;V59015-2;V59015-3;V59015-4;V59015-5;V59015-6;V59015-7;V59015-8;V59015-9;V59101-10;V59101-11;V59101-6;V59101-7;V59101-8;V59101-9;V76148-10;V76148-11;V76148-4;V76148-9;V76781-10;V76781-11;V76781-12;V76781-13;V76781-5;V76781-6;V76781-7;V76781-8;V76781-9;V79729-1;V82640-10;V82640-17;V82640-18;V82640-19;V82640-20;V82640-21;V82640-4;V82640-5;V83490-4;V83490-5;V83490-6;V88519-10;V88519-11;V88519-12;V88519-13;V88519-14;V88519-6;V88519-7;V88519-8;V88519-9",
+				"VentDelvisProcent" : "",
+				"VentGruppGodkand" : "Ja",
+				"VentGruppKrav" : "Ja",
+				"VentTypF" : "Ja",
+				"VentTypFmed" : "Nej",
+				"VentTypFT" : "Nej",
+				"VentTypFTX" : "Nej",
+				"VentTypSjalvdrag" : "Nej",
+				"Version" : "2.6"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "GeometryCollection",
+				"geometries" : [
+					{
+						"type" : "MultiPolygon",
+						"coordinates" : [
+							[
+								[
+									[ 673755.845, 6578752.2889999999, 22.66 ],
+									[ 673757.032, 6578748.4689999996, 22.66 ],
+									[ 673724.787, 6578738.4440000001, 22.66 ],
+									[ 673728.149, 6578727.6239999998, 22.66 ],
+									[ 673784.286, 6578745.0769999996, 22.66 ],
+									[ 673779.736, 6578759.716, 22.66 ],
+									[ 673755.845, 6578752.2889999999, 22.66 ]
+								]
+							],
+							[
+								[
+									[ 673755.845, 6578752.2889999999, 22.66 ],
+									[ 673755.845, 6578752.2889999999, 29.24 ],
+									[ 673757.032, 6578748.4689999996, 29.24 ],
+									[ 673757.032, 6578748.4689999996, 22.66 ],
+									[ 673755.845, 6578752.2889999999, 22.66 ]
+								]
+							],
+							[
+								[
+									[ 673757.032, 6578748.4689999996, 22.66 ],
+									[ 673757.032, 6578748.4689999996, 29.24 ],
+									[ 673724.787, 6578738.4440000001, 29.24 ],
+									[ 673724.787, 6578738.4440000001, 22.66 ],
+									[ 673757.032, 6578748.4689999996, 22.66 ]
+								]
+							],
+							[
+								[
+									[ 673724.787, 6578738.4440000001, 22.66 ],
+									[ 673724.787, 6578738.4440000001, 29.24 ],
+									[ 673728.149, 6578727.6239999998, 29.24 ],
+									[ 673728.149, 6578727.6239999998, 22.66 ],
+									[ 673724.787, 6578738.4440000001, 22.66 ]
+								]
+							],
+							[
+								[
+									[ 673728.149, 6578727.6239999998, 22.66 ],
+									[ 673728.149, 6578727.6239999998, 29.24 ],
+									[ 673784.286, 6578745.0769999996, 29.24 ],
+									[ 673784.286, 6578745.0769999996, 22.66 ],
+									[ 673728.149, 6578727.6239999998, 22.66 ]
+								]
+							],
+							[
+								[
+									[ 673784.286, 6578745.0769999996, 22.66 ],
+									[ 673784.286, 6578745.0769999996, 29.24 ],
+									[ 673779.736, 6578759.716, 29.24 ],
+									[ 673779.736, 6578759.716, 22.66 ],
+									[ 673784.286, 6578745.0769999996, 22.66 ]
+								]
+							],
+							[
+								[
+									[ 673779.736, 6578759.716, 22.66 ],
+									[ 673779.736, 6578759.716, 29.24 ],
+									[ 673755.845, 6578752.2889999999, 29.24 ],
+									[ 673755.845, 6578752.2889999999, 22.66 ],
+									[ 673779.736, 6578759.716, 22.66 ]
+								]
+							],
+							[
+								[
+									[ 673755.845, 6578752.2889999999, 29.24 ],
+									[ 673757.032, 6578748.4689999996, 29.24 ],
+									[ 673724.787, 6578738.4440000001, 29.24 ],
+									[ 673728.149, 6578727.6239999998, 29.24 ],
+									[ 673784.286, 6578745.0769999996, 29.24 ],
+									[ 673779.736, 6578759.716, 29.24 ],
+									[ 673755.845, 6578752.2889999999, 29.24 ]
+								]
+							]
+						]
+					}
+				]
+			},
+			"properties" : {
+				"42P_ByggnadsAgare" : "STOCKHOLMS KOMMUN/ EXPLOATERINGSKONTORET",
+				"42P_ByggnadsAgareGruppEnkel" : "Övrigt",
+				"42P_ByggnadsAgareGruppStor" : "Övrigt",
+				"43O_ARVARDE" : null,
+				"43O_BYGGAR" : null,
+				"43O_TILLBYAR" : null,
+				"43S_ARVARDE" : null,
+				"43S_BYGGAR" : null,
+				"43S_TILLBYAR" : null,
+				"43T_ARVARDE" : null,
+				"43T_BYGGAR" : null,
+				"43T_TILLBYAR" : null,
+				"50A_ByggnadsAndamal" : "Samhällsfunktion",
+				"50A_ByggnadsKategori" : "Lokal",
+				"50A_UUID" : "3e25c8a4-387d-4503-86f0-8cd72ce57426",
+				"byggnadsid" : 84097,
+				"Deso" : "0180C3210",
+				"EgenAntalBolgh" : "",
+				"EgenAntalKallarplan" : "0",
+				"EgenAntalPlan" : "2",
+				"EgenAntalTrapphus" : "",
+				"EgenAtemp" : 1900,
+				"EgenAtempBad" : "",
+				"EgenAtempBostad" : "",
+				"EgenAtempButik" : "",
+				"EgenAtempHotell" : "",
+				"EgenAtempKontor" : "100",
+				"EgenAtempKopcentrum" : "",
+				"EgenAtempLivsmedel" : "",
+				"EgenAtempOvrig" : "",
+				"EgenAtempOvrigaVad" : "",
+				"EgenAtempRestaurang" : "",
+				"EgenAtempSkolor" : "",
+				"EgenAtempSumma" : 100,
+				"EgenAtempTeater" : "",
+				"EgenAtempVard" : "",
+				"EgenAtempVardDag" : "",
+				"EgenAvarmgarage" : "0",
+				"EgenBOA" : "",
+				"EgenBRA" : "",
+				"EgenBTA" : "",
+				"EgenByggnadsKat" : "Lokalbyggnader",
+				"EgenByggnadsTyp" : "Friliggande",
+				"EgenGruppAtemp" : "Mätt",
+				"EgenInstEleffektStorre" : "",
+				"EgenKomplexitet" : "Komplex",
+				"EgenLOA" : "1900",
+				"EgenNybyggAr" : 1953,
+				"EgenProjVentFlode" : "",
+				"EgenSarskiltVardefull" : "",
+				"EgenSkyddadByggnad" : "",
+				"EgenSkyddadEllerVardefull" : null,
+				"EgenSmaLagenheter" : "",
+				"EgenTypkod" : "325",
+				"EgenTypkod_typ" : "325 - Hyreshusenhet, huvudsakligen lokaler",
+				"EgiBeraknatVarde" : "",
+				"EgiBerElProduktion" : "",
+				"EgiBerEngProduktion" : "",
+				"EgiElDirekt" : 0,
+				"EgiElDirektUPPV" : 0,
+				"EgiElLuft" : 0,
+				"EgiElLuftUPPV" : 0,
+				"EgiElVatten" : 0,
+				"EgiElVattenUPPV" : 0,
+				"EgiElVV" : 0,
+				"EgiEnergianvandning" : null,
+				"EgiEnergiklass" : "F",
+				"EgiEnergiPrestanda" : 155,
+				"EgiFastighet" : 30000,
+				"EgiFjarrkyla" : 0,
+				"EgiFjarrvarme" : 0,
+				"EgiFjarrvarmeUPPV" : 0,
+				"EgiFjarrvarmeVV" : 0,
+				"EgiFlis" : 0,
+				"EgiFlisUPPV" : 0,
+				"EgiFlisVV" : 0,
+				"EgiForstaArManad" : "0801",
+				"EgiGas" : 0,
+				"EgiGasUPPV" : 0,
+				"EgiGasVV" : 0,
+				"EgiGruppElDirekt" : "",
+				"EgiGruppElLuft" : "",
+				"EgiGruppElVatten" : "",
+				"EgiGruppFastighet" : "Fördelat",
+				"EgiGruppFjarrkyla" : "",
+				"EgiGruppFjarrvarme" : "",
+				"EgiGruppFlis" : "",
+				"EgiGruppGas" : "",
+				"EgiGruppHushall" : "",
+				"EgiGruppKomfort" : "Fördelat",
+				"EgiGruppOlja" : "Mätt",
+				"EgiGruppOvrBiobransle" : "",
+				"EgiGruppPumpFranluft" : "",
+				"EgiGruppPumpLuftLuft" : "",
+				"EgiGruppPumpLuftVatten" : "",
+				"EgiGruppPumpMark" : "",
+				"EgiGruppSolcell" : "",
+				"EgiGruppSolvarme" : "Nej",
+				"EgiGruppVed" : "",
+				"EgiGruppVerksamhet" : "",
+				"EgiGruppVVBered" : "Fördelat",
+				"EgiHushall" : "",
+				"EgiKomfort" : 40000,
+				"EgiKomfortTillagg" : "",
+				"EgiNormKorrEI" : "295355",
+				"EgiNormKorrGD" : "302963",
+				"EgiOlja" : "200000",
+				"EgiOljaUPPV" : 190000,
+				"EgiOljaVV" : 10000,
+				"EgiOvrBiobransle" : 0,
+				"EgiOvrBiobransleUPPV" : 0,
+				"EgiOvrBiobransleVV" : 0,
+				"EgiPrimarenergianvandning" : 336500,
+				"EgiPrimarenergital" : 177,
+				"EgiPumpFranluft" : 0,
+				"EgiPumpFranluftUPPV" : 0,
+				"EgiPumpLuftLuft" : 0,
+				"EgiPumpLuftLuftUPPV" : 0,
+				"EgiPumpLuftVatten" : 0,
+				"EgiPumpLuftVattenUPPV" : 0,
+				"EgiPumpMark" : 0,
+				"EgiPumpMarkUPPV" : 0,
+				"EgiRefvarde1" : 100,
+				"EgiRefvarde2Max" : 218,
+				"EgiRefvarde2Min" : 146,
+				"EgiRefvarde3" : null,
+				"EgiSistaArManad" : "0812",
+				"EgiSolcell" : "",
+				"EgiSolvarme" : "",
+				"EgiStationEI" : "Stockholm",
+				"EgiStationGD" : "Stockholm",
+				"EgiSumma1" : 200000,
+				"EgiSumma2" : 270000,
+				"EgiSumma3" : 270000,
+				"EgiSumma4" : 70000,
+				"EgiVaravEl" : 37,
+				"EgiVed" : 0,
+				"EgiVedUPPV" : 0,
+				"EgiVedVV" : 0,
+				"EgiVerksamhet" : "",
+				"EgiVersion" : 2010,
+				"EgiVVBered" : 10000,
+				"FNR" : "010124718",
+				"Footprint_area_Sweref" : 1532.2928910184146,
+				"FormularId" : 109559,
+				"Godkand" : "2009-03-17",
+				"height" : 6,
+				"IdAdr" : "Tantogatan 8",
+				"IdEgnaHem" : "Nej",
+				"IdFastBet" : "Södermalm 1:3",
+				"IdHusnr" : 1,
+				"IdHuvudadress" : "Ja",
+				"IdKommun" : "Stockholm",
+				"IdKommunkod" : "80",
+				"IdLan" : "Stockholms län",
+				"IdLankod" : "01",
+				"IdPostnr" : "11867",
+				"IdPostort" : "Stockholm",
+				"IdRapportLM" : "Ingen orsak vid felrapport angiven",
+				"LuftGruppFinnsluft" : "Ja",
+				"vaggid" : "V54774-3;V54774-4;V55208-1;V55208-4;V56993-4;V56993-5;V56993-6;V59127-7;V62503-1;V63399-7;V65319-1;V65319-11;V65319-12;V65319-13;V73206-1;V74385-13;V74685-3;V76110-2;V76110-3;V76148-5;V79729-3;V79729-4;V81213-1;V81213-4;V84908-1;V84908-12;V84908-13;V84908-14;V87098-1;V87098-2;V87098-3;V88074-1;V88074-10;V88074-11;V88074-9;V88519-3",
+				"VentDelvisProcent" : null,
+				"VentGruppGodkand" : null,
+				"VentGruppKrav" : null,
+				"VentTypF" : null,
+				"VentTypFmed" : null,
+				"VentTypFT" : null,
+				"VentTypFTX" : null,
+				"VentTypSjalvdrag" : null,
+				"Version" : "1.4"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "GeometryCollection",
+				"geometries" : [
+					{
+						"type" : "MultiPolygon",
+						"coordinates" : [
+							[
+								[
+									[ 673728.547, 6578795.9529999997, 23.92 ],
+									[ 673724.008, 6578800.0020000003, 23.92 ],
+									[ 673709.466, 6578782.5839999998, 23.92 ],
+									[ 673714.279, 6578778.6770000001, 23.92 ],
+									[ 673728.547, 6578795.9529999997, 23.92 ]
+								]
+							],
+							[
+								[
+									[ 673728.547, 6578795.9529999997, 23.92 ],
+									[ 673728.547, 6578795.9529999997, 29.64 ],
+									[ 673724.008, 6578800.0020000003, 29.64 ],
+									[ 673724.008, 6578800.0020000003, 23.92 ],
+									[ 673728.547, 6578795.9529999997, 23.92 ]
+								]
+							],
+							[
+								[
+									[ 673724.008, 6578800.0020000003, 23.92 ],
+									[ 673724.008, 6578800.0020000003, 29.64 ],
+									[ 673709.466, 6578782.5839999998, 29.64 ],
+									[ 673709.466, 6578782.5839999998, 23.92 ],
+									[ 673724.008, 6578800.0020000003, 23.92 ]
+								]
+							],
+							[
+								[
+									[ 673709.466, 6578782.5839999998, 23.92 ],
+									[ 673709.466, 6578782.5839999998, 29.64 ],
+									[ 673714.279, 6578778.6770000001, 29.64 ],
+									[ 673714.279, 6578778.6770000001, 23.92 ],
+									[ 673709.466, 6578782.5839999998, 23.92 ]
+								]
+							],
+							[
+								[
+									[ 673714.279, 6578778.6770000001, 23.92 ],
+									[ 673714.279, 6578778.6770000001, 29.64 ],
+									[ 673728.547, 6578795.9529999997, 29.64 ],
+									[ 673728.547, 6578795.9529999997, 23.92 ],
+									[ 673714.279, 6578778.6770000001, 23.92 ]
+								]
+							],
+							[
+								[
+									[ 673728.547, 6578795.9529999997, 29.64 ],
+									[ 673724.008, 6578800.0020000003, 29.64 ],
+									[ 673709.466, 6578782.5839999998, 29.64 ],
+									[ 673714.279, 6578778.6770000001, 29.64 ],
+									[ 673728.547, 6578795.9529999997, 29.64 ]
+								]
+							]
+						]
+					}
+				]
+			},
+			"properties" : {
+				"42P_ByggnadsAgare" : "Stockholm",
+				"42P_ByggnadsAgareGruppEnkel" : "Aktiebolag",
+				"42P_ByggnadsAgareGruppStor" : "Kommunalt bolag",
+				"43O_ARVARDE" : null,
+				"43O_BYGGAR" : null,
+				"43O_TILLBYAR" : null,
+				"43S_ARVARDE" : null,
+				"43S_BYGGAR" : null,
+				"43S_TILLBYAR" : null,
+				"43T_ARVARDE" : null,
+				"43T_BYGGAR" : null,
+				"43T_TILLBYAR" : null,
+				"50A_ByggnadsAndamal" : "Samhällsfunktion",
+				"50A_ByggnadsKategori" : "Lokal",
+				"50A_UUID" : "345d692a-0b5b-4d51-a550-95364a6c6425",
+				"byggnadsid" : 54774,
+				"Deso" : "0180C3210",
+				"EgenAntalBolgh" : "",
+				"EgenAntalKallarplan" : "0",
+				"EgenAntalPlan" : "2",
+				"EgenAntalTrapphus" : "",
+				"EgenAtemp" : 387,
+				"EgenAtempBad" : "",
+				"EgenAtempBostad" : "",
+				"EgenAtempButik" : "",
+				"EgenAtempHotell" : "",
+				"EgenAtempKontor" : "",
+				"EgenAtempKopcentrum" : "",
+				"EgenAtempLivsmedel" : "",
+				"EgenAtempOvrig" : "",
+				"EgenAtempOvrigaVad" : "",
+				"EgenAtempRestaurang" : "",
+				"EgenAtempSkolor" : "",
+				"EgenAtempSumma" : 100,
+				"EgenAtempTeater" : "100",
+				"EgenAtempVard" : "",
+				"EgenAtempVardDag" : "",
+				"EgenAvarmgarage" : "",
+				"EgenBOA" : "",
+				"EgenBRA" : "",
+				"EgenBTA" : "",
+				"EgenByggnadsKat" : "Lokalbyggnader",
+				"EgenByggnadsTyp" : "Friliggande",
+				"EgenGruppAtemp" : "Mätt",
+				"EgenInstEleffektStorre" : "Nej",
+				"EgenKomplexitet" : "Komplex",
+				"EgenLOA" : "",
+				"EgenNybyggAr" : 1711,
+				"EgenProjVentFlode" : "0.35000000000000003",
+				"EgenSarskiltVardefull" : "Ja, är utpekad i detaljplan eller områdesbestämmerlse ",
+				"EgenSkyddadByggnad" : "Ja enligt 3 kap KML",
+				"EgenSkyddadEllerVardefull" : null,
+				"EgenSmaLagenheter" : "Nej",
+				"EgenTypkod" : "826",
+				"EgenTypkod_typ" : "826 - Specialenhet, kulturbyggnad",
+				"EgiBeraknatVarde" : "Nej",
+				"EgiBerElProduktion" : "",
+				"EgiBerEngProduktion" : "",
+				"EgiElDirekt" : 47000,
+				"EgiElDirektUPPV" : 42300,
+				"EgiElLuft" : 0,
+				"EgiElLuftUPPV" : 0,
+				"EgiElVatten" : 0,
+				"EgiElVattenUPPV" : 0,
+				"EgiElVV" : 4700,
+				"EgiEnergianvandning" : null,
+				"EgiEnergiklass" : "G",
+				"EgiEnergiPrestanda" : 137,
+				"EgiFastighet" : 2000,
+				"EgiFjarrkyla" : 0,
+				"EgiFjarrvarme" : 0,
+				"EgiFjarrvarmeUPPV" : 0,
+				"EgiFjarrvarmeVV" : 0,
+				"EgiFlis" : 0,
+				"EgiFlisUPPV" : 0,
+				"EgiFlisVV" : 0,
+				"EgiForstaArManad" : "1301",
+				"EgiGas" : 0,
+				"EgiGasUPPV" : 0,
+				"EgiGasVV" : 0,
+				"EgiGruppElDirekt" : "Fördelat",
+				"EgiGruppElLuft" : "",
+				"EgiGruppElVatten" : "",
+				"EgiGruppFastighet" : "Fördelat",
+				"EgiGruppFjarrkyla" : "",
+				"EgiGruppFjarrvarme" : "",
+				"EgiGruppFlis" : "",
+				"EgiGruppGas" : "",
+				"EgiGruppHushall" : "",
+				"EgiGruppKomfort" : "",
+				"EgiGruppOlja" : "",
+				"EgiGruppOvrBiobransle" : "",
+				"EgiGruppPumpFranluft" : "",
+				"EgiGruppPumpLuftLuft" : "",
+				"EgiGruppPumpLuftVatten" : "",
+				"EgiGruppPumpMark" : "",
+				"EgiGruppSolcell" : "Nej",
+				"EgiGruppSolvarme" : "Nej",
+				"EgiGruppVed" : "",
+				"EgiGruppVerksamhet" : "",
+				"EgiGruppVVBered" : "Fördelat",
+				"EgiHushall" : "",
+				"EgiKomfort" : 0,
+				"EgiKomfortTillagg" : "0",
+				"EgiNormKorrEI" : "53035",
+				"EgiNormKorrGD" : "51826",
+				"EgiOlja" : "0",
+				"EgiOljaUPPV" : 0,
+				"EgiOljaVV" : 0,
+				"EgiOvrBiobransle" : 0,
+				"EgiOvrBiobransleUPPV" : 0,
+				"EgiOvrBiobransleVV" : 0,
+				"EgiPrimarenergianvandning" : 84830,
+				"EgiPrimarenergital" : 219,
+				"EgiPumpFranluft" : 0,
+				"EgiPumpFranluftUPPV" : 0,
+				"EgiPumpLuftLuft" : 0,
+				"EgiPumpLuftLuftUPPV" : 0,
+				"EgiPumpLuftVatten" : 0,
+				"EgiPumpLuftVattenUPPV" : 0,
+				"EgiPumpMark" : 0,
+				"EgiPumpMarkUPPV" : 0,
+				"EgiRefvarde1" : 70,
+				"EgiRefvarde2Max" : 204,
+				"EgiRefvarde2Min" : 136,
+				"EgiRefvarde3" : null,
+				"EgiSistaArManad" : "1312",
+				"EgiSolcell" : "",
+				"EgiSolvarme" : "",
+				"EgiStationEI" : "Stockholm",
+				"EgiStationGD" : "Stockholm",
+				"EgiSumma1" : 47000,
+				"EgiSumma2" : 49000,
+				"EgiSumma3" : 49000,
+				"EgiSumma4" : 49000,
+				"EgiVaravEl" : 137,
+				"EgiVed" : 0,
+				"EgiVedUPPV" : 0,
+				"EgiVedVV" : 0,
+				"EgiVerksamhet" : "",
+				"EgiVersion" : 2015,
+				"EgiVVBered" : 4700,
+				"FNR" : "010500125",
+				"Footprint_area_Sweref" : 276.8353240035083,
+				"FormularId" : 624020,
+				"Godkand" : "2015-04-08",
+				"height" : 6,
+				"IdAdr" : "Ekermans Gränd 5",
+				"IdEgnaHem" : "Nej",
+				"IdFastBet" : "Ekermanska Gården 1",
+				"IdHusnr" : 2,
+				"IdHuvudadress" : "Nej",
+				"IdKommun" : "Stockholm",
+				"IdKommunkod" : "80",
+				"IdLan" : "Stockholms län",
+				"IdLankod" : "01",
+				"IdPostnr" : "11867",
+				"IdPostort" : "Stockholm",
+				"IdRapportLM" : "",
+				"LuftGruppFinnsluft" : "Nej",
+				"vaggid" : "V56993-4;V56993-5;V56993-6;V62503-1;V62503-2;V62503-3;V62503-4;V62503-5;V62503-6;V62588-4;V65319-11;V65319-12;V68388-2;V70766-5;V70766-6;V73206-1;V73206-3;V73206-4;V74685-3;V76110-2;V76110-3;V76148-4;V76148-5;V76148-6;V76148-7;V81213-4;V84097-1;V84097-2;V84097-6;V84908-1;V84908-11;V84908-12;V84908-13;V84908-14;V88074-1;V88074-10;V88074-8;V88074-9;V88519-1;V88519-19;V88519-2;V88519-20",
+				"VentDelvisProcent" : null,
+				"VentGruppGodkand" : null,
+				"VentGruppKrav" : null,
+				"VentTypF" : null,
+				"VentTypFmed" : null,
+				"VentTypFT" : null,
+				"VentTypFTX" : null,
+				"VentTypSjalvdrag" : null,
+				"Version" : "2.3"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "GeometryCollection",
+				"geometries" : [
+					{
+						"type" : "MultiPolygon",
+						"coordinates" : [
+							[
+								[
+									[ 673481.9399999999, 6578584.1160000004, 13.26 ],
+									[ 673488.613, 6578587.4510000004, 13.26 ],
+									[ 673501.21, 6578592.0039999997, 13.26 ],
+									[ 673508.498, 6578593.7529999996, 13.26 ],
+									[ 673521.894, 6578595.4299999997, 13.26 ],
+									[ 673529.343, 6578595.4620000003, 13.26 ],
+									[ 673542.653, 6578594.0760000004, 13.26 ],
+									[ 673549.9669999999, 6578592.46, 13.26 ],
+									[ 673557.216, 6578589.6789999995, 13.26 ],
+									[ 673562.6139999999, 6578604.7719999999, 13.26 ],
+									[ 673545.458, 6578609.4780000001, 13.26 ],
+									[ 673529.838, 6578611.068, 13.26 ],
+									[ 673521.142, 6578611.0499999998, 13.26 ],
+									[ 673505.407, 6578609.1100000003, 13.26 ],
+									[ 673496.988, 6578607.1150000002, 13.26 ],
+									[ 673482.1949999999, 6578601.7400000002, 13.26 ],
+									[ 673467.175, 6578593.3109999998, 13.26 ],
+									[ 673475.573, 6578579.9129999997, 13.26 ],
+									[ 673481.9399999999, 6578584.1160000004, 13.26 ]
+								]
+							],
+							[
+								[
+									[ 673481.9399999999, 6578584.1160000004, 13.26 ],
+									[ 673481.9399999999, 6578584.1160000004, 55.39 ],
+									[ 673488.613, 6578587.4510000004, 55.39 ],
+									[ 673488.613, 6578587.4510000004, 13.26 ],
+									[ 673481.9399999999, 6578584.1160000004, 13.26 ]
+								]
+							],
+							[
+								[
+									[ 673488.613, 6578587.4510000004, 13.26 ],
+									[ 673488.613, 6578587.4510000004, 55.39 ],
+									[ 673501.21, 6578592.0039999997, 55.39 ],
+									[ 673501.21, 6578592.0039999997, 13.26 ],
+									[ 673488.613, 6578587.4510000004, 13.26 ]
+								]
+							],
+							[
+								[
+									[ 673501.21, 6578592.0039999997, 13.26 ],
+									[ 673501.21, 6578592.0039999997, 55.39 ],
+									[ 673508.498, 6578593.7529999996, 55.39 ],
+									[ 673508.498, 6578593.7529999996, 13.26 ],
+									[ 673501.21, 6578592.0039999997, 13.26 ]
+								]
+							],
+							[
+								[
+									[ 673508.498, 6578593.7529999996, 13.26 ],
+									[ 673508.498, 6578593.7529999996, 55.39 ],
+									[ 673521.894, 6578595.4299999997, 55.39 ],
+									[ 673521.894, 6578595.4299999997, 13.26 ],
+									[ 673508.498, 6578593.7529999996, 13.26 ]
+								]
+							],
+							[
+								[
+									[ 673521.894, 6578595.4299999997, 13.26 ],
+									[ 673521.894, 6578595.4299999997, 55.39 ],
+									[ 673529.343, 6578595.4620000003, 55.39 ],
+									[ 673529.343, 6578595.4620000003, 13.26 ],
+									[ 673521.894, 6578595.4299999997, 13.26 ]
+								]
+							],
+							[
+								[
+									[ 673529.343, 6578595.4620000003, 13.26 ],
+									[ 673529.343, 6578595.4620000003, 55.39 ],
+									[ 673542.653, 6578594.0760000004, 55.39 ],
+									[ 673542.653, 6578594.0760000004, 13.26 ],
+									[ 673529.343, 6578595.4620000003, 13.26 ]
+								]
+							],
+							[
+								[
+									[ 673542.653, 6578594.0760000004, 13.26 ],
+									[ 673542.653, 6578594.0760000004, 55.39 ],
+									[ 673549.9669999999, 6578592.46, 55.39 ],
+									[ 673549.9669999999, 6578592.46, 13.26 ],
+									[ 673542.653, 6578594.0760000004, 13.26 ]
+								]
+							],
+							[
+								[
+									[ 673549.9669999999, 6578592.46, 13.26 ],
+									[ 673549.9669999999, 6578592.46, 55.39 ],
+									[ 673557.216, 6578589.6789999995, 55.39 ],
+									[ 673557.216, 6578589.6789999995, 13.26 ],
+									[ 673549.9669999999, 6578592.46, 13.26 ]
+								]
+							],
+							[
+								[
+									[ 673557.216, 6578589.6789999995, 13.26 ],
+									[ 673557.216, 6578589.6789999995, 55.39 ],
+									[ 673562.6139999999, 6578604.7719999999, 55.39 ],
+									[ 673562.6139999999, 6578604.7719999999, 13.26 ],
+									[ 673557.216, 6578589.6789999995, 13.26 ]
+								]
+							],
+							[
+								[
+									[ 673562.6139999999, 6578604.7719999999, 13.26 ],
+									[ 673562.6139999999, 6578604.7719999999, 55.39 ],
+									[ 673545.458, 6578609.4780000001, 55.39 ],
+									[ 673545.458, 6578609.4780000001, 13.26 ],
+									[ 673562.6139999999, 6578604.7719999999, 13.26 ]
+								]
+							],
+							[
+								[
+									[ 673545.458, 6578609.4780000001, 13.26 ],
+									[ 673545.458, 6578609.4780000001, 55.39 ],
+									[ 673529.838, 6578611.068, 55.39 ],
+									[ 673529.838, 6578611.068, 13.26 ],
+									[ 673545.458, 6578609.4780000001, 13.26 ]
+								]
+							],
+							[
+								[
+									[ 673529.838, 6578611.068, 13.26 ],
+									[ 673529.838, 6578611.068, 55.39 ],
+									[ 673521.142, 6578611.0499999998, 55.39 ],
+									[ 673521.142, 6578611.0499999998, 13.26 ],
+									[ 673529.838, 6578611.068, 13.26 ]
+								]
+							],
+							[
+								[
+									[ 673521.142, 6578611.0499999998, 13.26 ],
+									[ 673521.142, 6578611.0499999998, 55.39 ],
+									[ 673505.407, 6578609.1100000003, 55.39 ],
+									[ 673505.407, 6578609.1100000003, 13.26 ],
+									[ 673521.142, 6578611.0499999998, 13.26 ]
+								]
+							],
+							[
+								[
+									[ 673505.407, 6578609.1100000003, 13.26 ],
+									[ 673505.407, 6578609.1100000003, 55.39 ],
+									[ 673496.988, 6578607.1150000002, 55.39 ],
+									[ 673496.988, 6578607.1150000002, 13.26 ],
+									[ 673505.407, 6578609.1100000003, 13.26 ]
+								]
+							],
+							[
+								[
+									[ 673496.988, 6578607.1150000002, 13.26 ],
+									[ 673496.988, 6578607.1150000002, 55.39 ],
+									[ 673482.1949999999, 6578601.7400000002, 55.39 ],
+									[ 673482.1949999999, 6578601.7400000002, 13.26 ],
+									[ 673496.988, 6578607.1150000002, 13.26 ]
+								]
+							],
+							[
+								[
+									[ 673482.1949999999, 6578601.7400000002, 13.26 ],
+									[ 673482.1949999999, 6578601.7400000002, 55.39 ],
+									[ 673467.175, 6578593.3109999998, 55.39 ],
+									[ 673467.175, 6578593.3109999998, 13.26 ],
+									[ 673482.1949999999, 6578601.7400000002, 13.26 ]
+								]
+							],
+							[
+								[
+									[ 673467.175, 6578593.3109999998, 13.26 ],
+									[ 673467.175, 6578593.3109999998, 55.39 ],
+									[ 673475.573, 6578579.9129999997, 55.39 ],
+									[ 673475.573, 6578579.9129999997, 13.26 ],
+									[ 673467.175, 6578593.3109999998, 13.26 ]
+								]
+							],
+							[
+								[
+									[ 673475.573, 6578579.9129999997, 13.26 ],
+									[ 673475.573, 6578579.9129999997, 55.39 ],
+									[ 673481.9399999999, 6578584.1160000004, 55.39 ],
+									[ 673481.9399999999, 6578584.1160000004, 13.26 ],
+									[ 673475.573, 6578579.9129999997, 13.26 ]
+								]
+							],
+							[
+								[
+									[ 673481.9399999999, 6578584.1160000004, 55.39 ],
+									[ 673488.613, 6578587.4510000004, 55.39 ],
+									[ 673501.21, 6578592.0039999997, 55.39 ],
+									[ 673508.498, 6578593.7529999996, 55.39 ],
+									[ 673521.894, 6578595.4299999997, 55.39 ],
+									[ 673529.343, 6578595.4620000003, 55.39 ],
+									[ 673542.653, 6578594.0760000004, 55.39 ],
+									[ 673549.9669999999, 6578592.46, 55.39 ],
+									[ 673557.216, 6578589.6789999995, 55.39 ],
+									[ 673562.6139999999, 6578604.7719999999, 55.39 ],
+									[ 673545.458, 6578609.4780000001, 55.39 ],
+									[ 673529.838, 6578611.068, 55.39 ],
+									[ 673521.142, 6578611.0499999998, 55.39 ],
+									[ 673505.407, 6578609.1100000003, 55.39 ],
+									[ 673496.988, 6578607.1150000002, 55.39 ],
+									[ 673482.1949999999, 6578601.7400000002, 55.39 ],
+									[ 673467.175, 6578593.3109999998, 55.39 ],
+									[ 673475.573, 6578579.9129999997, 55.39 ],
+									[ 673481.9399999999, 6578584.1160000004, 55.39 ]
+								]
+							]
+						]
+					}
+				]
+			},
+			"properties" : {
+				"42P_ByggnadsAgare" : "HSB bostadsrätt",
+				"42P_ByggnadsAgareGruppEnkel" : "Bostadsrättsförening",
+				"42P_ByggnadsAgareGruppStor" : "Stor bostadsrättsförening",
+				"43O_ARVARDE" : null,
+				"43O_BYGGAR" : null,
+				"43O_TILLBYAR" : null,
+				"43S_ARVARDE" : 1965,
+				"43S_BYGGAR" : 1965,
+				"43S_TILLBYAR" : "",
+				"43T_ARVARDE" : "1965",
+				"43T_BYGGAR" : "1965",
+				"43T_TILLBYAR" : "",
+				"50A_ByggnadsAndamal" : "Flerbostadshus",
+				"50A_ByggnadsKategori" : "Flerbostadshus",
+				"50A_UUID" : "1964d297-b590-400f-97f5-3ebcb38b3148",
+				"byggnadsid" : 59015,
+				"Deso" : "0180C3210",
+				"EgenAntalBolgh" : "164",
+				"EgenAntalKallarplan" : "2",
+				"EgenAntalPlan" : "15",
+				"EgenAntalTrapphus" : "4",
+				"EgenAtemp" : 19817,
+				"EgenAtempBad" : "",
+				"EgenAtempBostad" : "98",
+				"EgenAtempButik" : "",
+				"EgenAtempHotell" : "",
+				"EgenAtempKontor" : "1",
+				"EgenAtempKopcentrum" : "",
+				"EgenAtempLivsmedel" : "",
+				"EgenAtempOvrig" : "",
+				"EgenAtempOvrigaVad" : "",
+				"EgenAtempRestaurang" : "",
+				"EgenAtempSkolor" : "",
+				"EgenAtempSumma" : 100,
+				"EgenAtempTeater" : "",
+				"EgenAtempVard" : "",
+				"EgenAtempVardDag" : "1",
+				"EgenAvarmgarage" : "2200",
+				"EgenBOA" : null,
+				"EgenBRA" : null,
+				"EgenBTA" : null,
+				"EgenByggnadsKat" : "Flerbostadshus",
+				"EgenByggnadsTyp" : "Friliggande",
+				"EgenGruppAtemp" : null,
+				"EgenInstEleffektStorre" : "Nej",
+				"EgenKomplexitet" : "Enkel",
+				"EgenLOA" : null,
+				"EgenNybyggAr" : 1965,
+				"EgenProjVentFlode" : "0.35000000000000003",
+				"EgenSarskiltVardefull" : null,
+				"EgenSkyddadByggnad" : null,
+				"EgenSkyddadEllerVardefull" : "4",
+				"EgenSmaLagenheter" : "Nej",
+				"EgenTypkod" : "321A",
+				"EgenTypkod_typ" : "321A - Hyreshusenhet, bostäder >= 50%",
+				"EgiBeraknatVarde" : "Nej",
+				"EgiBerElProduktion" : "",
+				"EgiBerEngProduktion" : "",
+				"EgiElDirekt" : null,
+				"EgiElDirektUPPV" : 0,
+				"EgiElLuft" : null,
+				"EgiElLuftUPPV" : 0,
+				"EgiElVatten" : null,
+				"EgiElVattenUPPV" : 0,
+				"EgiElVV" : 0,
+				"EgiEnergianvandning" : 2514239,
+				"EgiEnergiklass" : "E",
+				"EgiEnergiPrestanda" : 127,
+				"EgiFastighet" : 215800,
+				"EgiFjarrkyla" : 0,
+				"EgiFjarrvarme" : null,
+				"EgiFjarrvarmeUPPV" : 1623600,
+				"EgiFjarrvarmeVV" : 410400,
+				"EgiFlis" : null,
+				"EgiFlisUPPV" : 0,
+				"EgiFlisVV" : 0,
+				"EgiForstaArManad" : "1801",
+				"EgiGas" : null,
+				"EgiGasUPPV" : 0,
+				"EgiGasVV" : 0,
+				"EgiGruppElDirekt" : null,
+				"EgiGruppElLuft" : null,
+				"EgiGruppElVatten" : null,
+				"EgiGruppFastighet" : null,
+				"EgiGruppFjarrkyla" : null,
+				"EgiGruppFjarrvarme" : null,
+				"EgiGruppFlis" : null,
+				"EgiGruppGas" : null,
+				"EgiGruppHushall" : null,
+				"EgiGruppKomfort" : null,
+				"EgiGruppOlja" : null,
+				"EgiGruppOvrBiobransle" : null,
+				"EgiGruppPumpFranluft" : null,
+				"EgiGruppPumpLuftLuft" : null,
+				"EgiGruppPumpLuftVatten" : null,
+				"EgiGruppPumpMark" : null,
+				"EgiGruppSolcell" : "Nej",
+				"EgiGruppSolvarme" : "Nej",
+				"EgiGruppVed" : null,
+				"EgiGruppVerksamhet" : null,
+				"EgiGruppVVBered" : null,
+				"EgiHushall" : "",
+				"EgiKomfort" : 0,
+				"EgiKomfortTillagg" : null,
+				"EgiNormKorrEI" : null,
+				"EgiNormKorrGD" : null,
+				"EgiOlja" : null,
+				"EgiOljaUPPV" : 0,
+				"EgiOljaVV" : 0,
+				"EgiOvrBiobransle" : null,
+				"EgiOvrBiobransleUPPV" : 0,
+				"EgiOvrBiobransleVV" : 0,
+				"EgiPrimarenergianvandning" : 2643719,
+				"EgiPrimarenergital" : 133,
+				"EgiPumpFranluft" : null,
+				"EgiPumpFranluftUPPV" : 0,
+				"EgiPumpLuftLuft" : null,
+				"EgiPumpLuftLuftUPPV" : 0,
+				"EgiPumpLuftVatten" : null,
+				"EgiPumpLuftVattenUPPV" : 0,
+				"EgiPumpMark" : null,
+				"EgiPumpMarkUPPV" : 0,
+				"EgiRefvarde1" : 85,
+				"EgiRefvarde2Max" : 160,
+				"EgiRefvarde2Min" : null,
+				"EgiRefvarde3" : "",
+				"EgiSistaArManad" : "1812",
+				"EgiSolcell" : "",
+				"EgiSolvarme" : "",
+				"EgiStationEI" : "Stockholm",
+				"EgiStationGD" : null,
+				"EgiSumma1" : null,
+				"EgiSumma2" : 2249800,
+				"EgiSumma3" : null,
+				"EgiSumma4" : null,
+				"EgiVaravEl" : null,
+				"EgiVed" : null,
+				"EgiVedUPPV" : 0,
+				"EgiVedVV" : 0,
+				"EgiVerksamhet" : "67500",
+				"EgiVersion" : 2019,
+				"EgiVVBered" : null,
+				"FNR" : "010095448",
+				"Footprint_area_Sweref" : 2884.3503520202844,
+				"FormularId" : 990217,
+				"Godkand" : "2019-12-27",
+				"height" : 45,
+				"IdAdr" : "Tantogatan 37",
+				"IdEgnaHem" : "0",
+				"IdFastBet" : "Kulltorp 4",
+				"IdHusnr" : 1,
+				"IdHuvudadress" : "Nej",
+				"IdKommun" : "Stockholm",
+				"IdKommunkod" : "80",
+				"IdLan" : "Stockholms län",
+				"IdLankod" : "01",
+				"IdPostnr" : "11842",
+				"IdPostort" : "Stockholm",
+				"IdRapportLM" : "",
+				"LuftGruppFinnsluft" : "Nej",
+				"vaggid" : "V54810-1;V54810-10;V54810-11;V54810-12;V54810-13;V54810-14;V54810-15;V54810-2;V54810-3;V54810-4;V54810-5;V54810-6;V54810-9;V55208-1;V56993-1;V56993-2;V56993-3;V56993-7;V58650-5;V59101-10;V59101-11;V59101-7;V59101-8;V59101-9;V71455-4;V76110-1;V76110-4;V76148-10;V76148-8;V76148-9;V76781-1;V76781-13;V76781-14;V76781-15;V76781-16;V76781-17;V76781-18;V82640-17;V82640-18;V82640-20;V82640-21;V82640-4;V82640-5;V88519-10;V88519-11;V88519-12;V88519-5;V88519-6;V88519-7;V88519-8;V88519-9",
+				"VentDelvisProcent" : "",
+				"VentGruppGodkand" : "Ja",
+				"VentGruppKrav" : "Ja",
+				"VentTypF" : "Ja",
+				"VentTypFmed" : "Nej",
+				"VentTypFT" : "Nej",
+				"VentTypFTX" : "Nej",
+				"VentTypSjalvdrag" : "Nej",
+				"Version" : "2.6"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "GeometryCollection",
+				"geometries" : [
+					{
+						"type" : "MultiPolygon",
+						"coordinates" : [
+							[
+								[
+									[ 673458.724, 6578474.5609999998, 3.6 ],
+									[ 673471.584, 6578473.0789999999, 3.6 ],
+									[ 673481.144, 6578470.7470000004, 3.6 ],
+									[ 673490.474, 6578467.3449999997, 3.6 ],
+									[ 673502.259, 6578461.5070000002, 3.6 ],
+									[ 673511.62, 6578455.1799999997, 3.6 ],
+									[ 673521.577, 6578468.6500000004, 3.6 ],
+									[ 673510.606, 6578476.7800000003, 3.6 ],
+									[ 673498.382, 6578482.534, 3.6 ],
+									[ 673484.26, 6578487.7889999999, 3.6 ],
+									[ 673483.627, 6578485.3020000001, 3.6 ],
+									[ 673458.938, 6578482.4220000003, 3.6 ],
+									[ 673458.724, 6578474.5609999998, 3.6 ]
+								]
+							],
+							[
+								[
+									[ 673458.724, 6578474.5609999998, 3.6 ],
+									[ 673458.724, 6578474.5609999998, 30.21 ],
+									[ 673471.584, 6578473.0789999999, 30.21 ],
+									[ 673471.584, 6578473.0789999999, 3.6 ],
+									[ 673458.724, 6578474.5609999998, 3.6 ]
+								]
+							],
+							[
+								[
+									[ 673471.584, 6578473.0789999999, 3.6 ],
+									[ 673471.584, 6578473.0789999999, 30.21 ],
+									[ 673481.144, 6578470.7470000004, 30.21 ],
+									[ 673481.144, 6578470.7470000004, 3.6 ],
+									[ 673471.584, 6578473.0789999999, 3.6 ]
+								]
+							],
+							[
+								[
+									[ 673481.144, 6578470.7470000004, 3.6 ],
+									[ 673481.144, 6578470.7470000004, 30.21 ],
+									[ 673490.474, 6578467.3449999997, 30.21 ],
+									[ 673490.474, 6578467.3449999997, 3.6 ],
+									[ 673481.144, 6578470.7470000004, 3.6 ]
+								]
+							],
+							[
+								[
+									[ 673490.474, 6578467.3449999997, 3.6 ],
+									[ 673490.474, 6578467.3449999997, 30.21 ],
+									[ 673502.259, 6578461.5070000002, 30.21 ],
+									[ 673502.259, 6578461.5070000002, 3.6 ],
+									[ 673490.474, 6578467.3449999997, 3.6 ]
+								]
+							],
+							[
+								[
+									[ 673502.259, 6578461.5070000002, 3.6 ],
+									[ 673502.259, 6578461.5070000002, 30.21 ],
+									[ 673511.62, 6578455.1799999997, 30.21 ],
+									[ 673511.62, 6578455.1799999997, 3.6 ],
+									[ 673502.259, 6578461.5070000002, 3.6 ]
+								]
+							],
+							[
+								[
+									[ 673511.62, 6578455.1799999997, 3.6 ],
+									[ 673511.62, 6578455.1799999997, 30.21 ],
+									[ 673521.577, 6578468.6500000004, 30.21 ],
+									[ 673521.577, 6578468.6500000004, 3.6 ],
+									[ 673511.62, 6578455.1799999997, 3.6 ]
+								]
+							],
+							[
+								[
+									[ 673521.577, 6578468.6500000004, 3.6 ],
+									[ 673521.577, 6578468.6500000004, 30.21 ],
+									[ 673510.606, 6578476.7800000003, 30.21 ],
+									[ 673510.606, 6578476.7800000003, 3.6 ],
+									[ 673521.577, 6578468.6500000004, 3.6 ]
+								]
+							],
+							[
+								[
+									[ 673510.606, 6578476.7800000003, 3.6 ],
+									[ 673510.606, 6578476.7800000003, 30.21 ],
+									[ 673498.382, 6578482.534, 30.21 ],
+									[ 673498.382, 6578482.534, 3.6 ],
+									[ 673510.606, 6578476.7800000003, 3.6 ]
+								]
+							],
+							[
+								[
+									[ 673498.382, 6578482.534, 3.6 ],
+									[ 673498.382, 6578482.534, 30.21 ],
+									[ 673484.26, 6578487.7889999999, 30.21 ],
+									[ 673484.26, 6578487.7889999999, 3.6 ],
+									[ 673498.382, 6578482.534, 3.6 ]
+								]
+							],
+							[
+								[
+									[ 673484.26, 6578487.7889999999, 3.6 ],
+									[ 673484.26, 6578487.7889999999, 30.21 ],
+									[ 673483.627, 6578485.3020000001, 30.21 ],
+									[ 673483.627, 6578485.3020000001, 3.6 ],
+									[ 673484.26, 6578487.7889999999, 3.6 ]
+								]
+							],
+							[
+								[
+									[ 673483.627, 6578485.3020000001, 3.6 ],
+									[ 673483.627, 6578485.3020000001, 30.21 ],
+									[ 673458.938, 6578482.4220000003, 30.21 ],
+									[ 673458.938, 6578482.4220000003, 3.6 ],
+									[ 673483.627, 6578485.3020000001, 3.6 ]
+								]
+							],
+							[
+								[
+									[ 673458.938, 6578482.4220000003, 3.6 ],
+									[ 673458.938, 6578482.4220000003, 30.21 ],
+									[ 673458.724, 6578474.5609999998, 30.21 ],
+									[ 673458.724, 6578474.5609999998, 3.6 ],
+									[ 673458.938, 6578482.4220000003, 3.6 ]
+								]
+							],
+							[
+								[
+									[ 673458.724, 6578474.5609999998, 30.21 ],
+									[ 673471.584, 6578473.0789999999, 30.21 ],
+									[ 673481.144, 6578470.7470000004, 30.21 ],
+									[ 673490.474, 6578467.3449999997, 30.21 ],
+									[ 673502.259, 6578461.5070000002, 30.21 ],
+									[ 673511.62, 6578455.1799999997, 30.21 ],
+									[ 673521.577, 6578468.6500000004, 30.21 ],
+									[ 673510.606, 6578476.7800000003, 30.21 ],
+									[ 673498.382, 6578482.534, 30.21 ],
+									[ 673484.26, 6578487.7889999999, 30.21 ],
+									[ 673483.627, 6578485.3020000001, 30.21 ],
+									[ 673458.938, 6578482.4220000003, 30.21 ],
+									[ 673458.724, 6578474.5609999998, 30.21 ]
+								]
+							]
+						]
+					}
+				]
+			},
+			"properties" : {
+				"42P_ByggnadsAgare" : "HSB bostadsrätt",
+				"42P_ByggnadsAgareGruppEnkel" : "Bostadsrättsförening",
+				"42P_ByggnadsAgareGruppStor" : "Stor bostadsrättsförening",
+				"43O_ARVARDE" : null,
+				"43O_BYGGAR" : null,
+				"43O_TILLBYAR" : null,
+				"43S_ARVARDE" : 1964,
+				"43S_BYGGAR" : 1964,
+				"43S_TILLBYAR" : "",
+				"43T_ARVARDE" : "1964",
+				"43T_BYGGAR" : "1964",
+				"43T_TILLBYAR" : "",
+				"50A_ByggnadsAndamal" : "Flerbostadshus",
+				"50A_ByggnadsKategori" : "Flerbostadshus",
+				"50A_UUID" : "f026797c-e5c9-4b63-88bd-8c79f7febd5a",
+				"byggnadsid" : 59101,
+				"Deso" : "0180C3210",
+				"EgenAntalBolgh" : "84",
+				"EgenAntalKallarplan" : "1",
+				"EgenAntalPlan" : "9",
+				"EgenAntalTrapphus" : "5",
+				"EgenAtemp" : 8725,
+				"EgenAtempBad" : "",
+				"EgenAtempBostad" : "96",
+				"EgenAtempButik" : "",
+				"EgenAtempHotell" : "",
+				"EgenAtempKontor" : "3",
+				"EgenAtempKopcentrum" : "",
+				"EgenAtempLivsmedel" : "",
+				"EgenAtempOvrig" : "",
+				"EgenAtempOvrigaVad" : "",
+				"EgenAtempRestaurang" : "",
+				"EgenAtempSkolor" : "1",
+				"EgenAtempSumma" : 100,
+				"EgenAtempTeater" : "",
+				"EgenAtempVard" : "",
+				"EgenAtempVardDag" : "",
+				"EgenAvarmgarage" : "",
+				"EgenBOA" : null,
+				"EgenBRA" : null,
+				"EgenBTA" : null,
+				"EgenByggnadsKat" : "Flerbostadshus",
+				"EgenByggnadsTyp" : "Friliggande",
+				"EgenGruppAtemp" : null,
+				"EgenInstEleffektStorre" : "Nej",
+				"EgenKomplexitet" : "Enkel",
+				"EgenLOA" : null,
+				"EgenNybyggAr" : 1964,
+				"EgenProjVentFlode" : "0.35000000000000003",
+				"EgenSarskiltVardefull" : null,
+				"EgenSkyddadByggnad" : null,
+				"EgenSkyddadEllerVardefull" : "4",
+				"EgenSmaLagenheter" : "Nej",
+				"EgenTypkod" : "321A",
+				"EgenTypkod_typ" : "321A - Hyreshusenhet, bostäder >= 50%",
+				"EgiBeraknatVarde" : "Nej",
+				"EgiBerElProduktion" : "",
+				"EgiBerEngProduktion" : "",
+				"EgiElDirekt" : null,
+				"EgiElDirektUPPV" : 0,
+				"EgiElLuft" : null,
+				"EgiElLuftUPPV" : 0,
+				"EgiElVatten" : null,
+				"EgiElVattenUPPV" : 0,
+				"EgiElVV" : 0,
+				"EgiEnergianvandning" : 1147292,
+				"EgiEnergiklass" : "E",
+				"EgiEnergiPrestanda" : 131,
+				"EgiFastighet" : 52300,
+				"EgiFjarrkyla" : 0,
+				"EgiFjarrvarme" : null,
+				"EgiFjarrvarmeUPPV" : 788300,
+				"EgiFjarrvarmeVV" : 178300,
+				"EgiFlis" : null,
+				"EgiFlisUPPV" : 0,
+				"EgiFlisVV" : 0,
+				"EgiForstaArManad" : "1801",
+				"EgiGas" : null,
+				"EgiGasUPPV" : 0,
+				"EgiGasVV" : 0,
+				"EgiGruppElDirekt" : null,
+				"EgiGruppElLuft" : null,
+				"EgiGruppElVatten" : null,
+				"EgiGruppFastighet" : null,
+				"EgiGruppFjarrkyla" : null,
+				"EgiGruppFjarrvarme" : null,
+				"EgiGruppFlis" : null,
+				"EgiGruppGas" : null,
+				"EgiGruppHushall" : null,
+				"EgiGruppKomfort" : null,
+				"EgiGruppOlja" : null,
+				"EgiGruppOvrBiobransle" : null,
+				"EgiGruppPumpFranluft" : null,
+				"EgiGruppPumpLuftLuft" : null,
+				"EgiGruppPumpLuftVatten" : null,
+				"EgiGruppPumpMark" : null,
+				"EgiGruppSolcell" : "Nej",
+				"EgiGruppSolvarme" : "Nej",
+				"EgiGruppVed" : null,
+				"EgiGruppVerksamhet" : null,
+				"EgiGruppVVBered" : null,
+				"EgiHushall" : "",
+				"EgiKomfort" : 0,
+				"EgiKomfortTillagg" : null,
+				"EgiNormKorrEI" : null,
+				"EgiNormKorrGD" : null,
+				"EgiOlja" : null,
+				"EgiOljaUPPV" : 0,
+				"EgiOljaVV" : 0,
+				"EgiOvrBiobransle" : null,
+				"EgiOvrBiobransleUPPV" : 0,
+				"EgiOvrBiobransleVV" : 0,
+				"EgiPrimarenergianvandning" : 1178672,
+				"EgiPrimarenergital" : 135,
+				"EgiPumpFranluft" : null,
+				"EgiPumpFranluftUPPV" : 0,
+				"EgiPumpLuftLuft" : null,
+				"EgiPumpLuftLuftUPPV" : 0,
+				"EgiPumpLuftVatten" : null,
+				"EgiPumpLuftVattenUPPV" : 0,
+				"EgiPumpMark" : null,
+				"EgiPumpMarkUPPV" : 0,
+				"EgiRefvarde1" : 85,
+				"EgiRefvarde2Max" : 160,
+				"EgiRefvarde2Min" : null,
+				"EgiRefvarde3" : "",
+				"EgiSistaArManad" : "1812",
+				"EgiSolcell" : "",
+				"EgiSolvarme" : "",
+				"EgiStationEI" : "Stockholm",
+				"EgiStationGD" : null,
+				"EgiSumma1" : null,
+				"EgiSumma2" : 1018900,
+				"EgiSumma3" : null,
+				"EgiSumma4" : null,
+				"EgiVaravEl" : null,
+				"EgiVed" : null,
+				"EgiVedUPPV" : 0,
+				"EgiVedVV" : 0,
+				"EgiVerksamhet" : "41400",
+				"EgiVersion" : 2019,
+				"EgiVVBered" : null,
+				"FNR" : "010115495",
+				"Footprint_area_Sweref" : 1826.5386160189637,
+				"FormularId" : 990223,
+				"Godkand" : "2019-12-27",
+				"height" : 27,
+				"IdAdr" : "Sockerbruksgränd 10",
+				"IdEgnaHem" : "0",
+				"IdFastBet" : "Sockerbruket 2",
+				"IdHusnr" : 1,
+				"IdHuvudadress" : "Ja",
+				"IdKommun" : "Stockholm",
+				"IdKommunkod" : "80",
+				"IdLan" : "Stockholms län",
+				"IdLankod" : "01",
+				"IdPostnr" : "11842",
+				"IdPostort" : "Stockholm",
+				"IdRapportLM" : "",
+				"LuftGruppFinnsluft" : "Nej",
+				"vaggid" : "V54810-1;V54810-14;V54810-15;V54810-2;V54810-3;V54810-4;V54810-5;V54810-6;V56993-1;V56993-2;V56993-7;V59015-1;V59015-17;V59015-18;V59015-2;V59015-3;V59015-4;V59015-5;V59015-6;V59015-7;V59015-8;V59015-9;V76148-10;V76781-10;V76781-11;V76781-12;V76781-13;V76781-5;V76781-6;V76781-7;V76781-8;V76781-9;V82640-10;V82640-5;V82640-6;V82640-7;V88519-5;V88519-6;V88519-7;V88519-8;V88519-9",
+				"VentDelvisProcent" : "",
+				"VentGruppGodkand" : "Ja",
+				"VentGruppKrav" : "Ja",
+				"VentTypF" : "Ja",
+				"VentTypFmed" : "Nej",
+				"VentTypFT" : "Nej",
+				"VentTypFTX" : "Nej",
+				"VentTypSjalvdrag" : "Nej",
+				"Version" : "2.6"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "GeometryCollection",
+				"geometries" : [
+					{
+						"type" : "MultiPolygon",
+						"coordinates" : [
+							[
+								[
+									[ 673572.349, 6578663.375, 15.24 ],
+									[ 673575.4179999999, 6578656.6789999995, 15.24 ],
+									[ 673575.071, 6578652.1679999996, 15.24 ],
+									[ 673585.191, 6578651.335, 15.24 ],
+									[ 673586.392, 6578665.926, 15.24 ],
+									[ 673583.066, 6578668.2869999995, 15.24 ],
+									[ 673572.349, 6578663.375, 15.24 ]
+								]
+							],
+							[
+								[
+									[ 673572.349, 6578663.375, 15.24 ],
+									[ 673572.349, 6578663.375, 20.12 ],
+									[ 673575.4179999999, 6578656.6789999995, 20.12 ],
+									[ 673575.4179999999, 6578656.6789999995, 15.24 ],
+									[ 673572.349, 6578663.375, 15.24 ]
+								]
+							],
+							[
+								[
+									[ 673575.4179999999, 6578656.6789999995, 15.24 ],
+									[ 673575.4179999999, 6578656.6789999995, 20.12 ],
+									[ 673575.071, 6578652.1679999996, 20.12 ],
+									[ 673575.071, 6578652.1679999996, 15.24 ],
+									[ 673575.4179999999, 6578656.6789999995, 15.24 ]
+								]
+							],
+							[
+								[
+									[ 673575.071, 6578652.1679999996, 15.24 ],
+									[ 673575.071, 6578652.1679999996, 20.12 ],
+									[ 673585.191, 6578651.335, 20.12 ],
+									[ 673585.191, 6578651.335, 15.24 ],
+									[ 673575.071, 6578652.1679999996, 15.24 ]
+								]
+							],
+							[
+								[
+									[ 673585.191, 6578651.335, 15.24 ],
+									[ 673585.191, 6578651.335, 20.12 ],
+									[ 673586.392, 6578665.926, 20.12 ],
+									[ 673586.392, 6578665.926, 15.24 ],
+									[ 673585.191, 6578651.335, 15.24 ]
+								]
+							],
+							[
+								[
+									[ 673586.392, 6578665.926, 15.24 ],
+									[ 673586.392, 6578665.926, 20.12 ],
+									[ 673583.066, 6578668.2869999995, 20.12 ],
+									[ 673583.066, 6578668.2869999995, 15.24 ],
+									[ 673586.392, 6578665.926, 15.24 ]
+								]
+							],
+							[
+								[
+									[ 673583.066, 6578668.2869999995, 15.24 ],
+									[ 673583.066, 6578668.2869999995, 20.12 ],
+									[ 673572.349, 6578663.375, 20.12 ],
+									[ 673572.349, 6578663.375, 15.24 ],
+									[ 673583.066, 6578668.2869999995, 15.24 ]
+								]
+							],
+							[
+								[
+									[ 673572.349, 6578663.375, 20.12 ],
+									[ 673575.4179999999, 6578656.6789999995, 20.12 ],
+									[ 673575.071, 6578652.1679999996, 20.12 ],
+									[ 673585.191, 6578651.335, 20.12 ],
+									[ 673586.392, 6578665.926, 20.12 ],
+									[ 673583.066, 6578668.2869999995, 20.12 ],
+									[ 673572.349, 6578663.375, 20.12 ]
+								]
+							]
+						]
+					},
+					{
+						"type" : "MultiPolygon",
+						"coordinates" : [
+							[
+								[
+									[ 673572.349, 6578663.375, 15.39 ],
+									[ 673553.96, 6578654.9460000005, 15.39 ],
+									[ 673553.579, 6578650.9699999997, 15.39 ],
+									[ 673578.995, 6578632.1040000003, 15.39 ],
+									[ 673583.826, 6578634.7630000003, 15.39 ],
+									[ 673585.191, 6578651.335, 15.39 ],
+									[ 673575.071, 6578652.1679999996, 15.39 ],
+									[ 673575.4179999999, 6578656.6789999995, 15.39 ],
+									[ 673572.349, 6578663.375, 15.39 ]
+								]
+							],
+							[
+								[
+									[ 673572.349, 6578663.375, 15.39 ],
+									[ 673572.349, 6578663.375, 40.26 ],
+									[ 673553.96, 6578654.9460000005, 40.26 ],
+									[ 673553.96, 6578654.9460000005, 15.39 ],
+									[ 673572.349, 6578663.375, 15.39 ]
+								]
+							],
+							[
+								[
+									[ 673553.96, 6578654.9460000005, 15.39 ],
+									[ 673553.96, 6578654.9460000005, 40.26 ],
+									[ 673553.579, 6578650.9699999997, 40.26 ],
+									[ 673553.579, 6578650.9699999997, 15.39 ],
+									[ 673553.96, 6578654.9460000005, 15.39 ]
+								]
+							],
+							[
+								[
+									[ 673553.579, 6578650.9699999997, 15.39 ],
+									[ 673553.579, 6578650.9699999997, 40.26 ],
+									[ 673578.995, 6578632.1040000003, 40.26 ],
+									[ 673578.995, 6578632.1040000003, 15.39 ],
+									[ 673553.579, 6578650.9699999997, 15.39 ]
+								]
+							],
+							[
+								[
+									[ 673578.995, 6578632.1040000003, 15.39 ],
+									[ 673578.995, 6578632.1040000003, 40.26 ],
+									[ 673583.826, 6578634.7630000003, 40.26 ],
+									[ 673583.826, 6578634.7630000003, 15.39 ],
+									[ 673578.995, 6578632.1040000003, 15.39 ]
+								]
+							],
+							[
+								[
+									[ 673583.826, 6578634.7630000003, 15.39 ],
+									[ 673583.826, 6578634.7630000003, 40.26 ],
+									[ 673585.191, 6578651.335, 40.26 ],
+									[ 673585.191, 6578651.335, 15.39 ],
+									[ 673583.826, 6578634.7630000003, 15.39 ]
+								]
+							],
+							[
+								[
+									[ 673585.191, 6578651.335, 15.39 ],
+									[ 673585.191, 6578651.335, 40.26 ],
+									[ 673575.071, 6578652.1679999996, 40.26 ],
+									[ 673575.071, 6578652.1679999996, 15.39 ],
+									[ 673585.191, 6578651.335, 15.39 ]
+								]
+							],
+							[
+								[
+									[ 673575.071, 6578652.1679999996, 15.39 ],
+									[ 673575.071, 6578652.1679999996, 40.26 ],
+									[ 673575.4179999999, 6578656.6789999995, 40.26 ],
+									[ 673575.4179999999, 6578656.6789999995, 15.39 ],
+									[ 673575.071, 6578652.1679999996, 15.39 ]
+								]
+							],
+							[
+								[
+									[ 673575.4179999999, 6578656.6789999995, 15.39 ],
+									[ 673575.4179999999, 6578656.6789999995, 40.26 ],
+									[ 673572.349, 6578663.375, 40.26 ],
+									[ 673572.349, 6578663.375, 15.39 ],
+									[ 673575.4179999999, 6578656.6789999995, 15.39 ]
+								]
+							],
+							[
+								[
+									[ 673572.349, 6578663.375, 40.26 ],
+									[ 673553.96, 6578654.9460000005, 40.26 ],
+									[ 673553.579, 6578650.9699999997, 40.26 ],
+									[ 673578.995, 6578632.1040000003, 40.26 ],
+									[ 673583.826, 6578634.7630000003, 40.26 ],
+									[ 673585.191, 6578651.335, 40.26 ],
+									[ 673575.071, 6578652.1679999996, 40.26 ],
+									[ 673575.4179999999, 6578656.6789999995, 40.26 ],
+									[ 673572.349, 6578663.375, 40.26 ]
+								]
+							]
+						]
+					}
+				]
+			},
+			"properties" : {
+				"42P_ByggnadsAgare" : "Bostadsrättsföreningen Tantotorget",
+				"42P_ByggnadsAgareGruppEnkel" : "Bostadsrättsförening",
+				"42P_ByggnadsAgareGruppStor" : "Liten bostadsrättsförening",
+				"43O_ARVARDE" : null,
+				"43O_BYGGAR" : null,
+				"43O_TILLBYAR" : null,
+				"43S_ARVARDE" : 2002,
+				"43S_BYGGAR" : 2002,
+				"43S_TILLBYAR" : "",
+				"43T_ARVARDE" : "2002",
+				"43T_BYGGAR" : "2002",
+				"43T_TILLBYAR" : "",
+				"50A_ByggnadsAndamal" : "Flerbostadshus",
+				"50A_ByggnadsKategori" : "Flerbostadshus",
+				"50A_UUID" : "c4898c1f-816a-4d43-9ef6-6eb25c2ea6a2",
+				"byggnadsid" : 76148,
+				"Deso" : "0180C3210",
+				"EgenAntalBolgh" : "28",
+				"EgenAntalKallarplan" : "1",
+				"EgenAntalPlan" : "7",
+				"EgenAntalTrapphus" : "2",
+				"EgenAtemp" : 3492,
+				"EgenAtempBad" : "",
+				"EgenAtempBostad" : "86",
+				"EgenAtempButik" : "",
+				"EgenAtempHotell" : "",
+				"EgenAtempKontor" : "8",
+				"EgenAtempKopcentrum" : "",
+				"EgenAtempLivsmedel" : "6",
+				"EgenAtempOvrig" : "",
+				"EgenAtempOvrigaVad" : "",
+				"EgenAtempRestaurang" : "",
+				"EgenAtempSkolor" : "",
+				"EgenAtempSumma" : 100,
+				"EgenAtempTeater" : "",
+				"EgenAtempVard" : "",
+				"EgenAtempVardDag" : "",
+				"EgenAvarmgarage" : "528",
+				"EgenBOA" : "2794",
+				"EgenBRA" : "",
+				"EgenBTA" : "",
+				"EgenByggnadsKat" : "Flerbostadshus",
+				"EgenByggnadsTyp" : "Friliggande",
+				"EgenGruppAtemp" : "Omvandlat från BOA/LOA",
+				"EgenInstEleffektStorre" : "Nej",
+				"EgenKomplexitet" : "Enkel",
+				"EgenLOA" : "422",
+				"EgenNybyggAr" : 2002,
+				"EgenProjVentFlode" : "",
+				"EgenSarskiltVardefull" : "",
+				"EgenSkyddadByggnad" : "",
+				"EgenSkyddadEllerVardefull" : null,
+				"EgenSmaLagenheter" : "",
+				"EgenTypkod" : "320",
+				"EgenTypkod_typ" : "320 - Hyreshusenhet, huvudsakligen bostäder",
+				"EgiBeraknatVarde" : "Nej",
+				"EgiBerElProduktion" : "",
+				"EgiBerEngProduktion" : "",
+				"EgiElDirekt" : 0,
+				"EgiElDirektUPPV" : 0,
+				"EgiElLuft" : 0,
+				"EgiElLuftUPPV" : 0,
+				"EgiElVatten" : 0,
+				"EgiElVattenUPPV" : 0,
+				"EgiElVV" : 0,
+				"EgiEnergianvandning" : null,
+				"EgiEnergiklass" : "E",
+				"EgiEnergiPrestanda" : 125,
+				"EgiFastighet" : 59150,
+				"EgiFjarrkyla" : 0,
+				"EgiFjarrvarme" : 359000,
+				"EgiFjarrvarmeUPPV" : 269460,
+				"EgiFjarrvarmeVV" : 89540,
+				"EgiFlis" : 0,
+				"EgiFlisUPPV" : 0,
+				"EgiFlisVV" : 0,
+				"EgiForstaArManad" : "0901",
+				"EgiGas" : 0,
+				"EgiGasUPPV" : 0,
+				"EgiGasVV" : 0,
+				"EgiGruppElDirekt" : "",
+				"EgiGruppElLuft" : "",
+				"EgiGruppElVatten" : "",
+				"EgiGruppFastighet" : "Mätt",
+				"EgiGruppFjarrkyla" : "",
+				"EgiGruppFjarrvarme" : "Mätt",
+				"EgiGruppFlis" : "",
+				"EgiGruppGas" : "",
+				"EgiGruppHushall" : "",
+				"EgiGruppKomfort" : "",
+				"EgiGruppOlja" : "",
+				"EgiGruppOvrBiobransle" : "",
+				"EgiGruppPumpFranluft" : "",
+				"EgiGruppPumpLuftLuft" : "",
+				"EgiGruppPumpLuftVatten" : "",
+				"EgiGruppPumpMark" : "",
+				"EgiGruppSolcell" : "Nej",
+				"EgiGruppSolvarme" : "Nej",
+				"EgiGruppVed" : "",
+				"EgiGruppVerksamhet" : "",
+				"EgiGruppVVBered" : "Fördelat",
+				"EgiHushall" : "",
+				"EgiKomfort" : 0,
+				"EgiKomfortTillagg" : "0",
+				"EgiNormKorrEI" : "438094",
+				"EgiNormKorrGD" : "441968",
+				"EgiOlja" : "0",
+				"EgiOljaUPPV" : 0,
+				"EgiOljaVV" : 0,
+				"EgiOvrBiobransle" : 0,
+				"EgiOvrBiobransleUPPV" : 0,
+				"EgiOvrBiobransleVV" : 0,
+				"EgiPrimarenergianvandning" : 471990,
+				"EgiPrimarenergital" : 135,
+				"EgiPumpFranluft" : 0,
+				"EgiPumpFranluftUPPV" : 0,
+				"EgiPumpLuftLuft" : 0,
+				"EgiPumpLuftLuftUPPV" : 0,
+				"EgiPumpLuftVatten" : 0,
+				"EgiPumpLuftVattenUPPV" : 0,
+				"EgiPumpMark" : 0,
+				"EgiPumpMarkUPPV" : 0,
+				"EgiRefvarde1" : 109,
+				"EgiRefvarde2Max" : 158,
+				"EgiRefvarde2Min" : 127,
+				"EgiRefvarde3" : null,
+				"EgiSistaArManad" : "0912",
+				"EgiSolcell" : "",
+				"EgiSolvarme" : "",
+				"EgiStationEI" : "Stockholm",
+				"EgiStationGD" : "Stockholm",
+				"EgiSumma1" : 359000,
+				"EgiSumma2" : 418150,
+				"EgiSumma3" : 418150,
+				"EgiSumma4" : 59150,
+				"EgiVaravEl" : 17,
+				"EgiVed" : 0,
+				"EgiVedUPPV" : 0,
+				"EgiVedVV" : 0,
+				"EgiVerksamhet" : "",
+				"EgiVersion" : 2010,
+				"EgiVVBered" : 89540,
+				"FNR" : "010487174",
+				"Footprint_area_Sweref" : 1380.7754649976027,
+				"FormularId" : 368041,
+				"Godkand" : "2010-11-20",
+				"height" : 21,
+				"IdAdr" : "Tantogatan 27",
+				"IdEgnaHem" : "Nej",
+				"IdFastBet" : "Kulltorp 6",
+				"IdHusnr" : 1,
+				"IdHuvudadress" : "Ja",
+				"IdKommun" : "Stockholm",
+				"IdKommunkod" : "80",
+				"IdLan" : "Stockholms län",
+				"IdLankod" : "01",
+				"IdPostnr" : "11842",
+				"IdPostort" : "Stockholm",
+				"IdRapportLM" : "Ingen orsak vid felrapport angiven",
+				"LuftGruppFinnsluft" : "Nej",
+				"vaggid" : "V54774-2;V54774-3;V54810-10;V54810-11;V54810-12;V54810-13;V54810-14;V54810-8;V54810-9;V56993-1;V56993-2;V56993-6;V56993-7;V59015-10;V59015-11;V59015-12;V59015-13;V59015-14;V59015-15;V59015-16;V59015-9;V59101-7;V59101-8;V63399-2;V63399-3;V71455-4;V73206-3;V82640-4;V82640-5;V83490-3;V83490-4;V83490-5;V84097-3;V84097-4;V88519-10;V88519-11;V88519-12;V88519-3;V88519-4;V88519-5;V88519-7;V88519-8;V88519-9",
+				"VentDelvisProcent" : null,
+				"VentGruppGodkand" : null,
+				"VentGruppKrav" : null,
+				"VentTypF" : null,
+				"VentTypFmed" : null,
+				"VentTypFT" : null,
+				"VentTypFTX" : null,
+				"VentTypSjalvdrag" : null,
+				"Version" : "1.6"
+			}
+		}
+	]
+}
