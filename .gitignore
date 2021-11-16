@@ -1,4 +1,9 @@
-# created by virtualenv automatically
+# Created by virtualenv automatically
 pyvenv.cfg
+
+# IDE files
 .idea
 __pycache__
+
+# Local configuration
+config.yml

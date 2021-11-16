@@ -1,0 +1,4 @@
+# This configuration file provides application defaults and will be updated within git repository.
+APP:
+  PATH_TO_MUBES_UBEM: ../MUBES_UBEM/
+  PATH_TO_MUBES_UBEM_PYTHON: ../venv/Scripts/python.exe
