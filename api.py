@@ -5,8 +5,11 @@ import flask
 from buildings import buildings, UUIDs
 from flask import request, jsonify
 
+from config import load_config
+
 app = flask.Flask(__name__)
 app.config["DEBUG"] = True
+app.config.update(load_config())
 
 # A base route to return text message.
 @app.route('/', methods=['GET'])
