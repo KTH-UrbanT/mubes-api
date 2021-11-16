@@ -45,16 +45,22 @@ def api_id():
 
 def api_runCases(CaseName,id):
 
-    MUBES_Paths = os.path.join(os.path.dirname(os.path.dirname(os.getcwd())), os.path.normcase('MUBES_UBEM\ModelerFolder'))
+    MUBES_Paths = os.path.normcase(os.path.join(os.path.dirname(os.getcwd()), 'MUBES_UBEM','ModelerFolder'))
     #path t0 the python used including all the required packages
-    pythonpath = os.path.join(os.path.dirname(os.getcwd()),os.path.normcase('venv\Scripts\python'))
+    pythonpath = os.path.normcase(os.path.join(os.getcwd(),'venv','bin','python'))
+    #path for the input Data
+    datapath = os.path.normcase(os.path.join(os.getcwd(),'sample_data','Sodermalmv4'))
     if platform.system() == "Windows":
-        pythonpath = pythonpath +'.exe'
+        MUBES_Paths = os.path.normcase(
+            os.path.join(os.path.dirname(os.path.dirname(os.getcwd())), 'MUBES_UBEM', 'ModelerFolder'))
+        pythonpath = os.path.normcase(os.path.join(os.path.dirname(os.getcwd()),'venv','Scripts','python.exe'))
     cmdline = [pythonpath, os.path.join(MUBES_Paths, 'SimLauncher4API_v1.py')]
     cmdline.append('-UUID')
     cmdline.append(str(id))
     cmdline.append('-CaseName')
     cmdline.append(CaseName)
+    cmdline.append('-DataPath')
+    cmdline.append(datapath)
     check_call(cmdline, cwd=MUBES_Paths, stdout=open(os.devnull, "w"))
 
 def api_readRes(CaseName,id):
