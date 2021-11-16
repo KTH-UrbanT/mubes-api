@@ -50,8 +50,9 @@ def api_runCases(CaseName,id):
     pythonpath = os.path.normcase(os.path.join(os.path.dirname(os.getcwd()),'venv','bin','python'))
     #path for the input Data
     datapath = os.path.normcase(os.path.join(os.getcwd(),'sample_data','Sodermalmv4'))
-    EPlusPath =  os.path.normcase('C:\EnergyPlusV9-1-0')
+    EPlusPath =  os.path.normcase('/usr/local/EnergyPlus-9.1.0')
     if platform.system() == "Windows":
+        EPlusPath =  os.path.normcase('C:\EnergyPlusV9-1-0')
         pythonpath = os.path.normcase(os.path.join(os.path.dirname(os.getcwd()),'venv','Scripts','python.exe'))
     cmdline = [pythonpath, os.path.join(MUBES_Paths, 'SimLauncher4API_v1.py')]
     cmdline.append('-UUID')
