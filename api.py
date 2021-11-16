@@ -65,7 +65,7 @@ def api_runCases(CaseName,id):
 
 def api_readRes(CaseName,id):
     results =['Results from the simulations are : [Building UUID, Space Heating needs (MWh)]']
-    Res_Paths = os.path.join(os.path.dirname(os.path.dirname(os.getcwd())), 'MUBES_SimResults', CaseName,'Sim_Results')
+    Res_Paths = os.path.normcase(os.path.join(os.path.dirname(os.getcwd()), 'MUBES_SimResults', CaseName,'Sim_Results'))
     import re
     for i in re.findall("[^,]+", id):
         with open(os.path.join(Res_Paths,i+'.txt')) as file:
