@@ -1,6 +1,6 @@
 import json
 
-sampleFile = open('sample_data/Minneberg_Buildings_v1.geojson', )
+sampleFile = open('../data/Minneberg_Buildings_v1.geojson', )
 buildings = json.load(sampleFile)['features']
 sampleFile.close()
 

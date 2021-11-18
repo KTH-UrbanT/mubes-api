@@ -1,15 +1,16 @@
-import sys,os,platform
+import os
 from subprocess import check_call
 
 import flask
-from buildings import buildings, UUIDs
 from flask import request, jsonify
 
+from buildings import UUIDs
 from config import load_config
 
 app = flask.Flask(__name__)
 app.config["DEBUG"] = True
 app.config.update(load_config())
+
 
 # A base route to return text message.
 @app.route('/', methods=['GET'])
@@ -21,10 +22,12 @@ def home():
         "<p>This site is a prototype API for launching MUBES simulations.</p>" \
         "</body"
 
+
 # A route to return all possible buildings.
 @app.route('/api/v1/buildings/all', methods=['GET'])
 def api_all():
     return jsonify(UUIDs)
+
 
 # A route to return values for a list of building.
 @app.route('/api/v1/buildings/', methods=['GET'])
@@ -38,44 +41,43 @@ def api_id():
         return "Error: No id field provided. Please specify an id."
 
     CaseName = 'APIRuns'
-    api_runCases(CaseName,id)
+    api_run_cases(CaseName, id)
 
-    results = api_readRes(CaseName,id)
+    results = api_read_results(CaseName, id)
 
     # Use the jsonify function from Flask to convert our list of
     # Python dictionaries to the JSON format.
     return jsonify(results)
 
-def api_runCases(CaseName,id):
 
-    MUBES_Paths = os.path.normcase(os.path.join(os.path.dirname(os.getcwd()), 'MUBES_UBEM','ModelerFolder'))
-    #path t0 the python used including all the required packages
-    pythonpath = os.path.normcase(os.path.join(os.path.dirname(os.getcwd()),'venv','bin','python'))
-    #path for the input Data
-    datapath = os.path.normcase(os.path.join(os.getcwd(),'sample_data','Sodermalmv4'))
-    EPlusPath =  os.path.normcase('/usr/local/EnergyPlus-9.1.0')
-    if platform.system() == "Windows":
-        EPlusPath =  os.path.normcase('C:\EnergyPlusV9-1-0')
-        pythonpath = os.path.normcase(os.path.join(os.path.dirname(os.getcwd()),'venv','Scripts','python.exe'))
-    cmdline = [pythonpath, os.path.join(MUBES_Paths, 'SimLauncher4API_v1.py')]
+def api_run_cases(CaseName, id):
+
+    MUBES_Path = os.path.normcase(os.path.join(os.path.abspath(app.config['APP']['PATH_TO_MUBES_UBEM']), 'ModelerFolder'))
+
+    cmdline = [
+        os.path.abspath(app.config['APP']['PATH_TO_MUBES_UBEM_PYTHON']),
+        os.path.join(MUBES_Path, 'SimLauncher4API_v1.py')
+    ]
     cmdline.append('-UUID')
     cmdline.append(str(id))
     cmdline.append('-CaseName')
     cmdline.append(CaseName)
     cmdline.append('-DataPath')
-    cmdline.append(datapath)
+    cmdline.append(os.path.abspath(app.config['DATA']['PATH_TO_INPUT_DATA']))
     cmdline.append('-EPlusPath')
-    cmdline.append(EPlusPath)
-    check_call(cmdline, cwd=MUBES_Paths, stdout=open(os.devnull, "w"))
+    cmdline.append(os.path.abspath(app.config['APP']['PATH_TO_ENERGYPLUS']))
 
-def api_readRes(CaseName,id):
-    results =['Results from the simulations are : [Building UUID, Space Heating needs (MWh)]']
-    Res_Paths = os.path.normcase(os.path.join(os.path.dirname(os.getcwd()), 'MUBES_SimResults', CaseName,'Sim_Results'))
+    check_call(cmdline, cwd=MUBES_Path, stdout=open(os.devnull, "w"))
+
+
+def api_read_results(CaseName, id):
+    results = ['Results from the simulations are : [Building UUID, Space heating needs (MWh)]']
+    results_path = os.path.normcase(os.path.join(os.path.dirname(os.getcwd()), 'MUBES_SimResults', CaseName, 'Sim_Results'))
     import re
     for i in re.findall("[^,]+", id):
-        with open(os.path.join(Res_Paths,i+'.txt')) as file:
-            Lines = file.readlines()
-        [results.append(line) for line in Lines]
+        with open(os.path.join(results_path, i+'.txt')) as file:
+            lines = file.readlines()
+        [results.append(line) for line in lines]
     return results
 
 if __name__ == '__main__' :

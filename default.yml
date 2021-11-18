@@ -1,4 +1,20 @@
 # This configuration file provides application defaults and will be updated within git repository.
 APP:
   PATH_TO_MUBES_UBEM: ../MUBES_UBEM/
-  PATH_TO_MUBES_UBEM_PYTHON: ../venv/Scripts/python.exe
+
+# Windows settings
+#  PATH_TO_MUBES_UBEM_PYTHON: ../venv/Scripts/python.exe
+#  PATH_TO_ENERGYPLUS: C:\EnergyPlusV9-1-0
+
+# Linux settings
+  PATH_TO_MUBES_UBEM_PYTHON: ../venv/bin/python
+  PATH_TO_ENERGYPLUS: /usr/local/EnergyPlus-9.1.0
+
+# Mac settings
+#  PATH_TO_MUBES_UBEM_PYTHON: /Users/username/.virtualenvs/MUBES_UBEM/bin/python
+#  PATH_TO_ENERGYPLUS: /Applications/EnergyPlus-9-5-0/
+
+  PATH_TO_RESULTS: ../results/
+
+DATA:
+  PATH_TO_INPUT_DATA: ../data/
