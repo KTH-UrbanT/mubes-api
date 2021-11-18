@@ -53,7 +53,16 @@ def api_id():
 def api_run_cases(CaseName, id):
 
     MUBES_Path = os.path.normcase(os.path.join(os.path.abspath(app.config['APP']['PATH_TO_MUBES_UBEM']), 'ModelerFolder'))
-
+    # MUBES_Path = os.path.normcase(os.path.join(os.path.dirname(os.getcwd()), 'MUBES_UBEM','ModelerFolder'))
+    #path t0 the python used including all the required packages
+    # pythonpath = os.path.normcase(os.path.join(os.path.dirname(os.getcwd()),'venv','bin','python'))
+    #path for the input Data
+    # datapath = os.path.normcase(os.path.join(os.getcwd(),'sample_data','Sodermalmv4'))
+    # EPlusPath =  os.path.normcase('/usr/local/EnergyPlus-9.1.0')
+    # if platform.system() == "Windows":
+    #     EPlusPath =  os.path.normcase('C:\EnergyPlusV9-1-0')
+    #     pythonpath = os.path.normcase(os.path.join(os.path.dirname(os.getcwd()),'venv','Scripts','python.exe'))
+    # cmdline = [pythonpath, os.path.join(MUBES_Path, 'SimLauncher4API_v1.py')]
     cmdline = [
         os.path.abspath(app.config['APP']['PATH_TO_MUBES_UBEM_PYTHON']),
         os.path.join(MUBES_Path, 'SimLauncher4API_v1.py')
