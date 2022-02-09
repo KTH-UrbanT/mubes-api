@@ -67,7 +67,7 @@ def api_all():
 @app.route('/api/v1/buildings-test', methods=['POST'])
 def queueSimulations():
     building_uuid = request.get_json()[0]['uuid']
-    fake = True
+    fake = False
 
     if (not fake):
         caseName = 'ForTest'
@@ -107,41 +107,52 @@ def api_id():
     else:
         return "Error: No id field provided. Please specify an id."
 
+## NEED TO ADD THE CONFIG AS A JSON FORMAT NOW !
+
     CaseName = 'ForTest'
     api_run_cases(CaseName, id)
 
-    results = api_read_results(CaseName, id)
+    results = api_read_results(config)
 
     # Use the jsonify function from Flask to convert our list of
     # Python dictionaries to the JSON format.
     return jsonify(results)
 
 
-def api_run_cases(CaseName, id):
+def api_run_cases(config):
 
     MUBES_Path = os.path.normcase(os.path.join(os.path.abspath(app.config['APP']['PATH_TO_MUBES_UBEM']), 'ModelerFolder'))
-    # MUBES_Path = os.path.normcase(os.path.join(os.path.dirname(os.getcwd()), 'MUBES_UBEM','ModelerFolder'))
-    #path t0 the python used including all the required packages
-    # pythonpath = os.path.normcase(os.path.join(os.path.dirname(os.getcwd()),'venv','bin','python'))
-    #path for the input Data
-    # datapath = os.path.normcase(os.path.join(os.getcwd(),'sample_data','Sodermalmv4'))
-    # EPlusPath =  os.path.normcase('/usr/local/EnergyPlus-9.1.0')
-    # if platform.system() == "Windows":
-    #     EPlusPath =  os.path.normcase('C:\EnergyPlusV9-1-0')
-    #     pythonpath = os.path.normcase(os.path.join(os.path.dirname(os.getcwd()),'venv','Scripts','python.exe'))
-    # cmdline = [pythonpath, os.path.join(MUBES_Path, 'SimLauncher4API_v1.py')]
     cmdline = [
         os.path.abspath(app.config['APP']['PATH_TO_MUBES_UBEM_PYTHON']),
         os.path.join(MUBES_Path, 'SimLauncher4API_v1.py')
     ]
-    cmdline.append('-UUID')
-    cmdline.append(str(id))
-    cmdline.append('-CaseName')
-    cmdline.append(CaseName)
-    cmdline.append('-DataPath')
-    cmdline.append(os.path.abspath(app.config['DATA']['PATH_TO_INPUT_DATA']))
-    cmdline.append('-EPlusPath')
-    cmdline.append(os.path.abspath(app.config['APP']['PATH_TO_ENERGYPLUS']))
+
+    config = '{"DATA": {"Buildingsfile": "C:/Users/xav77/Documents/FAURE/DataBase/HammarbyLast"},"SIM": {"CaseChoices": {\
+                "FloorZoning": true,\
+                "DebugMode": false,\
+                "CaseName": "tutu",\
+                "RefreshFolder": false,\
+                "NbRuns": 2,\
+                "UUID": [\
+                    "13bb371a-5305-458d-8cf0-bb346f48045e",\
+                    "167e7a3e-efa7-4168-9d82-34b0aad9698a",\
+                    "5cb98f38-fc3b-471f-9e72-02cbbce8d297",\
+                    "ced12fbf-4f41-4cf4-94a0-1dbe40cd0afe",\
+                    "59008f5f-6cf7-4929-81b8-684b0e7f288c",\
+                    "c11282d8-747b-4fe9-9f7d-8441c94c04a8",\
+                    "5af7e235-c30e-4d62-8fef-8bbed7ec2765",\
+                    "4f9f0422-fc62-4540-9418-c9e6de5f5a57"\
+                ],\
+            },\
+            "WeatherFile": {\
+                "Loc": "WeatherData/Year2015WithIRfromStandard.epw"\
+            }\
+        }\
+    }'
+
+    cmdline.append('-CONFIG')
+    cmdline.append(config)
+
 
     check_call(cmdline, cwd=MUBES_Path, stdout=open(os.devnull, "w"))
 
