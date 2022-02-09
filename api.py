@@ -1,16 +1,43 @@
 import os
 from subprocess import check_call
 
-import flask
-from flask import request, jsonify
+
+from flask import Flask, jsonify, request
+
+# To support CORS (cross-origin-resource-sharing)
+from flask_cors import CORS
 
 from buildings import UUIDs
 from config import load_config
 
-app = flask.Flask(__name__)
+app = Flask(__name__)
+
+cors = CORS(app)
+
+# cors = CORS(app, supports_credentials=True)
+# cors = CORS(app, resources={r"/*": {"origins": "*"}})
+
+# cors = CORS(app,
+#             origins=["http://localhost:3000"],
+#             headers=['Content-Type'],
+#             expose_headers=['Access-Control-Allow-Origin'],
+#             supports_credentials=True)
+
+# CORS_ALLOW_ORIGIN = "*,*"
+# CORS_EXPOSE_HEADERS = "*,*"
+# CORS_ALLOW_HEADERS = "content-type,*"
+            # origins = CORS_ALLOW_ORIGIN.split(","),
+            # allow_headers = CORS_ALLOW_HEADERS.split(","),
+            # expose_headers = CORS_EXPOSE_HEADERS.split(","))
+
 app.config["DEBUG"] = True
+# app.config['CORS_HEADERS'] = 'Content-Type'
 app.config.update(load_config())
 
+# @app.after_request
+# def creds(response):
+#     response.headers['Access-Control-Allow-Credentials'] = 'true'
+#     return response
 
 # A base route to return text message.
 @app.route('/', methods=['GET'])
@@ -23,14 +50,54 @@ def home():
         "</body"
 
 
+@app.route('/test', methods=['POST'])
+def test():
+    return jsonify({"respone": "Test has worked, " + request.json['name']})
+
+
 # A route to return all possible buildings.
 @app.route('/api/v1/buildings/all', methods=['GET'])
 def api_all():
-    return jsonify(UUIDs)
+    response = jsonify(UUIDs)
+    # response.headers.add('Access-Control-Allow-Origin', '*')
+    # response.headers.add('Access-Control-Allow-Methods', 'GET,PUT,POST,DELETE,PATCH,OPTIONS')
+    return response
+
+# A route to return shortened ids for a list of building.
+@app.route('/api/v1/buildings-test', methods=['POST'])
+def queueSimulations():
+    building_uuid = request.get_json()[0]['uuid']
+    fake = True
+
+    if (not fake):
+        caseName = 'ForTest'
+        api_run_cases(caseName, building_uuid)
+
+        results = api_read_results(caseName, building_uuid)
+        response = jsonify(results)
+
+        return response
+
+    fake_response = jsonify([
+        "Results from the simulations are : [Building UUID, Space heating needs (MWh)]",
+        "['UUID : ', '" + building_uuid + "']↵",
+        "['Total Space Heating Energy Needs (MWh) : ', 7.371]↵",
+        "['Total Space Cooling Energy Needs (MWh) : ', 0.0]↵",
+        "['Total Space Heating Energy Needs (MWh) : ', 1.581]↵",
+        "['Total Space Cooling Energy Needs (MWh) : ', 0.0]↵",
+        "['ATemp (m2),EP_Heated_Area (m2) : ', 5368, 4663.4]↵",
+        "['Total computational time : ', 40.1, ' seconds']↵",
+        "['Total results reporting : ', 0.1, ' seconds']↵"
+    ])
+
+    # response.headers.add('Access-Control-Allow-Origin', '*')
+    # response.headers.add('Access-Control-Allow-Methods', 'GET,PUT,POST,DELETE,PATCH,OPTIONS')
+
+    return fake_response
 
 
 # A route to return values for a list of building.
-@app.route('/api/v1/buildings/', methods=['GET'])
+@app.route('/api/v1/buildings', methods=['GET'])
 def api_id():
     # Check if an ID was provided as part of the URL.
     # If ID is provided, assign it to a variable.
@@ -40,7 +107,7 @@ def api_id():
     else:
         return "Error: No id field provided. Please specify an id."
 
-    CaseName = 'APIRuns'
+    CaseName = 'ForTest'
     api_run_cases(CaseName, id)
 
     results = api_read_results(CaseName, id)
@@ -90,4 +157,4 @@ def api_read_results(CaseName, id):
     return results
 
 if __name__ == '__main__' :
-    app.run()
+    app.run(debug=True)
