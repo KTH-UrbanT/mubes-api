@@ -1,103 +1,109 @@
-import os
-from subprocess import check_call
-
-
+# API is based on Python Flask
 from flask import Flask, jsonify, request
 
 # To support CORS (cross-origin-resource-sharing)
 from flask_cors import CORS
 
+# Command-line related imports
+import os, json
+from subprocess import check_call
+
+# Sample data & config
 from buildings import UUIDs
 from config import load_config
 
+##### API SETUP #####
 app = Flask(__name__)
-
 cors = CORS(app)
 
-# cors = CORS(app, supports_credentials=True)
-# cors = CORS(app, resources={r"/*": {"origins": "*"}})
-
-# cors = CORS(app,
-#             origins=["http://localhost:3000"],
-#             headers=['Content-Type'],
-#             expose_headers=['Access-Control-Allow-Origin'],
-#             supports_credentials=True)
-
-# CORS_ALLOW_ORIGIN = "*,*"
-# CORS_EXPOSE_HEADERS = "*,*"
-# CORS_ALLOW_HEADERS = "content-type,*"
-            # origins = CORS_ALLOW_ORIGIN.split(","),
-            # allow_headers = CORS_ALLOW_HEADERS.split(","),
-            # expose_headers = CORS_EXPOSE_HEADERS.split(","))
-
-app.config["DEBUG"] = True
-# app.config['CORS_HEADERS'] = 'Content-Type'
+app.config["DEBUG"] = False  # If in debug, requests will be duplicated due to https://stackoverflow.com/questions/25504149/why-does-running-the-flask-dev-server-run-itself-twice
 app.config.update(load_config())
-
-# @app.after_request
-# def creds(response):
-#     response.headers['Access-Control-Allow-Credentials'] = 'true'
-#     return response
+#####################
 
 # A base route to return text message.
 @app.route('/', methods=['GET'])
 def home():
-    return\
+    return \
         "<link href = ""https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css"" rel = ""stylesheet"" integrity = ""sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3"" crossorigin = ""anonymous"">" \
         "<body>" \
         "<h1>MUBES API</h1>" \
         "<p>This site is a prototype API for launching MUBES simulations.</p>" \
         "</body"
 
-
+# A test route for POST requests with JSON {"name": name} that returns a message
 @app.route('/test', methods=['POST'])
 def test():
-    return jsonify({"respone": "Test has worked, " + request.json['name']})
+    return jsonify({"response": "Test has worked, " + request.json['name']})
 
 
-# A route to return all possible buildings.
+# A route that provides all buildings available for simulations
 @app.route('/api/v1/buildings/all', methods=['GET'])
 def api_all():
     response = jsonify(UUIDs)
-    # response.headers.add('Access-Control-Allow-Origin', '*')
-    # response.headers.add('Access-Control-Allow-Methods', 'GET,PUT,POST,DELETE,PATCH,OPTIONS')
     return response
 
-# A route to return shortened ids for a list of building.
-@app.route('/api/v1/buildings-test', methods=['POST'])
+
+# A route provides simulation results for a list of building UUIDs provided via POST request
+@app.route('/api/v1/buildings', methods=['POST'])
 def queueSimulations():
-    building_uuid = request.get_json()[0]['uuid']
-    fake = False
+    buildingsRequested = request.get_json()
+    listOfUUIDs = [building['uuid'] for building in buildingsRequested]
+    fake_response = False
 
-    if (not fake):
-        caseName = 'ForTest'
-        api_run_cases(caseName, building_uuid)
+    if (fake_response):
+        response = jsonify([
+            "Results from the simulations are : [Building UUID, Space heating needs (MWh)]",
+            "['UUID : ', '" + simulationRequest[0]['uuid'] + "']↵",
+            "['Total Space Heating Energy Needs (MWh) : ', 7.371]↵",
+            "['Total Space Cooling Energy Needs (MWh) : ', 0.0]↵",
+            "['Total Space Heating Energy Needs (MWh) : ', 1.581]↵",
+            "['Total Space Cooling Energy Needs (MWh) : ', 0.0]↵",
+            "['ATemp (m2),EP_Heated_Area (m2) : ', 5368, 4663.4]↵",
+            "['Total computational time : ', 40.1, ' seconds']↵",
+            "['Total results reporting : ', 0.1, ' seconds']↵"
+        ])
 
-        results = api_read_results(caseName, building_uuid)
-        response = jsonify(results)
+        # response.headers.add('Access-Control-Allow-Origin', '*')
+        # response.headers.add('Access-Control-Allow-Methods', 'GET,PUT,POST,DELETE,PATCH,OPTIONS')
 
         return response
 
-    fake_response = jsonify([
-        "Results from the simulations are : [Building UUID, Space heating needs (MWh)]",
-        "['UUID : ', '" + building_uuid + "']↵",
-        "['Total Space Heating Energy Needs (MWh) : ', 7.371]↵",
-        "['Total Space Cooling Energy Needs (MWh) : ', 0.0]↵",
-        "['Total Space Heating Energy Needs (MWh) : ', 1.581]↵",
-        "['Total Space Cooling Energy Needs (MWh) : ', 0.0]↵",
-        "['ATemp (m2),EP_Heated_Area (m2) : ', 5368, 4663.4]↵",
-        "['Total computational time : ', 40.1, ' seconds']↵",
-        "['Total results reporting : ', 0.1, ' seconds']↵"
-    ])
+    CaseName = 'ForTest'
+    print('Running simulations for these buildings:')
+    print(listOfUUIDs)
 
-    # response.headers.add('Access-Control-Allow-Origin', '*')
-    # response.headers.add('Access-Control-Allow-Methods', 'GET,PUT,POST,DELETE,PATCH,OPTIONS')
+    simulationRequest = '''
+        {
+            "DATA": {
+                "Buildingsfile": "$DATA_FILE$"
+            },
+            "SIM": {
+                "CaseChoices": {
+                    "FloorZoning": true,
+                    "DebugMode": false,
+                    "CaseName": "$CASE_NAME$",
+                    "RefreshFolder": false,
+                    "NbRuns": 1,
+                    "UUID": $UUIDS$
+                }
+            }
+        }
+    '''\
+        .replace("\n","")\
+        .replace("$DATA_FILE$",app.config['DATA']['PATH_TO_INPUT_DATA'])\
+        .replace("$CASE_NAME$",CaseName)\
+        .replace("$UUIDS$",json.dumps(listOfUUIDs))
 
-    return fake_response
+    api_run_simulations(simulationRequest)
+
+    results = api_read_results(json.loads(simulationRequest))
+    response = jsonify(results)
+
+    return response
 
 
-# A route to return values for a list of building.
-@app.route('/api/v1/buildings', methods=['GET'])
+# A route provides simulation results for a list of building UUIDs provided via GET request (not working now)
+@app.route('/api/v1/buildings-get', methods=['GET'])
 def api_id():
     # Check if an ID was provided as part of the URL.
     # If ID is provided, assign it to a variable.
@@ -107,65 +113,41 @@ def api_id():
     else:
         return "Error: No id field provided. Please specify an id."
 
-## NEED TO ADD THE CONFIG AS A JSON FORMAT NOW !
+    api_run_simulations(simulationRequest)
 
-    CaseName = 'ForTest'
-    api_run_cases(CaseName, id)
-
-    results = api_read_results(config)
+    results = api_read_results(simulationRequest)
 
     # Use the jsonify function from Flask to convert our list of
     # Python dictionaries to the JSON format.
     return jsonify(results)
 
 
-def api_run_cases(config):
-
-    MUBES_Path = os.path.normcase(os.path.join(os.path.abspath(app.config['APP']['PATH_TO_MUBES_UBEM']), 'ModelerFolder'))
+def api_run_simulations(simulationRequest):
+    MUBES_Path = os.path.normcase(
+        os.path.join(os.path.abspath(app.config['APP']['PATH_TO_MUBES_UBEM']), 'ModelerFolder'))
     cmdline = [
         os.path.abspath(app.config['APP']['PATH_TO_MUBES_UBEM_PYTHON']),
         os.path.join(MUBES_Path, 'SimLauncher4API_v1.py')
     ]
 
-    config = '{"DATA": {"Buildingsfile": "C:/Users/xav77/Documents/FAURE/DataBase/HammarbyLast"},"SIM": {"CaseChoices": {\
-                "FloorZoning": true,\
-                "DebugMode": false,\
-                "CaseName": "tutu",\
-                "RefreshFolder": false,\
-                "NbRuns": 2,\
-                "UUID": [\
-                    "13bb371a-5305-458d-8cf0-bb346f48045e",\
-                    "167e7a3e-efa7-4168-9d82-34b0aad9698a",\
-                    "5cb98f38-fc3b-471f-9e72-02cbbce8d297",\
-                    "ced12fbf-4f41-4cf4-94a0-1dbe40cd0afe",\
-                    "59008f5f-6cf7-4929-81b8-684b0e7f288c",\
-                    "c11282d8-747b-4fe9-9f7d-8441c94c04a8",\
-                    "5af7e235-c30e-4d62-8fef-8bbed7ec2765",\
-                    "4f9f0422-fc62-4540-9418-c9e6de5f5a57"\
-                ],\
-            },\
-            "WeatherFile": {\
-                "Loc": "WeatherData/Year2015WithIRfromStandard.epw"\
-            }\
-        }\
-    }'
-
     cmdline.append('-CONFIG')
-    cmdline.append(config)
-
+    cmdline.append(simulationRequest)
 
     check_call(cmdline, cwd=MUBES_Path, stdout=open(os.devnull, "w"))
 
 
-def api_read_results(CaseName, id):
-    results = ['Results from the simulations are : [Building UUID, Space heating needs (MWh)]']
-    results_path = os.path.normcase(os.path.join(os.path.dirname(os.getcwd()), 'MUBES_SimResults', CaseName, 'Sim_Results'))
-    import re
-    for i in re.findall("[^,]+", id):
-        with open(os.path.join(results_path, i+'.txt')) as file:
+def api_read_results(simulationRequest):
+    results = ['Results from the simulations are : [Building UUID, Space heating needs (MWh)]\r\n']
+    results_path = os.path.normcase(
+        os.path.join(os.path.dirname(os.getcwd()), 'MUBES_SimResults', simulationRequest['SIM']['CaseChoices']['CaseName'],
+                     'Sim_Results'))
+
+    for building in simulationRequest['SIM']['CaseChoices']['UUID']:
+        with open(os.path.join(results_path, building + '.txt')) as file:
             lines = file.readlines()
         [results.append(line) for line in lines]
     return results
 
-if __name__ == '__main__' :
-    app.run(debug=True)
+
+if __name__ == '__main__':
+    app.run(debug=app.config["DEBUG"])
