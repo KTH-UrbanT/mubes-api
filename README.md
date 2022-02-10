@@ -1,5 +1,5 @@
-# api
-Demo for simple REST API in Python
+# MUBES API
+Simple REST API for MUBES UBEM.
 
 1. Run api.py
 2. Try one of the URLs in browser:
